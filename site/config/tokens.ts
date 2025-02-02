@@ -1,5 +1,7 @@
 import { Token } from '@/types/token'
 
+// TODO: Update all these values to the real values.
+
 export const TOKENS: { [symbol: string]: Token } = {
   WETH: {
     symbol: 'WETH',
@@ -8,11 +10,11 @@ export const TOKENS: { [symbol: string]: Token } = {
     logoPath: '/images/tokens/branded/ETH.svg',
     chains: {
       1: {
-        address: '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2',
+        address: '0x12345',
         decimals: 18
       },
-      42161: {
-        address: '0x82aF49447D8a07e3bd95BD0d56f35241523fBab1',
+      12345: {
+        address: '0x56789',
         decimals: 18
       }
     }
@@ -24,11 +26,11 @@ export const TOKENS: { [symbol: string]: Token } = {
     logoPath: '/images/tokens/branded/USDC.svg',
     chains: {
       1: {
-        address: '0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48',
+        address: '0x98765',
         decimals: 6
       },
-      42161: {
-        address: '0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8',
+      12345: {
+        address: '0x54321',
         decimals: 6
       }
     }

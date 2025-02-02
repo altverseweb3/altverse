@@ -26,8 +26,5 @@ export const siteConfig = {
       href: "/",
     },
 
-  ],
-  links: {
-    github: "https://github.com/altverseweb3/altverse",
-  },
+  ]
 }
