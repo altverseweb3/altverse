@@ -1,1 +1,1 @@
-export type Tab = 'swap' | 'bridge' | 'farm' | 'stake' | 'dashboard'
+export type Tab = 'swap' | 'bridge' | 'stake' | 'borrow' | 'dashboard'
