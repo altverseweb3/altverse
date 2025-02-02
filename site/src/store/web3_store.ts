@@ -26,7 +26,7 @@ const useStore = create<StoreState>()(
       storage: createJSONStorage(() => localStorage), // use localStorage
       version: 1, // version number for migrations
       partialize: (state) => ({
-        // Only persist these fields
+        // These fields will be persisted
         activeWalletAddress: state.activeWalletAddress,
       }),
     }
