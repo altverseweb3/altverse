@@ -1,28 +1,24 @@
 // Stores web3 related context
 
-import { create } from 'zustand'
-import { persist, createJSONStorage } from 'zustand/middleware'
+import { create } from "zustand";
+import { persist, createJSONStorage } from "zustand/middleware";
 
 interface StoreState {
-  
   // Wallet connection
-  activeWalletAddress: string | null
-  setActiveWalletAddress: (address: string | null) => void
-
+  activeWalletAddress: string | null;
+  setActiveWalletAddress: (address: string | null) => void;
 }
 
-
-const useStore = create<StoreState>()(
+const useWeb3Store = create<StoreState>()(
   persist(
     (set) => ({
-
       // Wallet connection
       activeWalletAddress: null,
-      setActiveWalletAddress: (address) => set({ activeWalletAddress: address }),
-      
+      setActiveWalletAddress: (address) =>
+        set({ activeWalletAddress: address }),
     }),
     {
-      name: 'altverse-storage-web3', // name of the item in localStorage
+      name: "altverse-storage-web3", // name of the item in localStorage
       storage: createJSONStorage(() => localStorage), // use localStorage
       version: 1, // version number for migrations
       partialize: (state) => ({
@@ -31,6 +27,6 @@ const useStore = create<StoreState>()(
       }),
     }
   )
-)
+);
 
-export default useStore
+export default useWeb3Store;
