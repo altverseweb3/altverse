@@ -3,6 +3,7 @@ import { Urbanist } from "next/font/google";
 import { Analytics } from "@vercel/analytics/react"
 import { SpeedInsights } from "@vercel/speed-insights/next"
 import { Toaster } from 'sonner'
+import { SiteHeader } from "@/components/site-header";
 import "./globals.css";
 
 const urbanist = Urbanist({
@@ -26,7 +27,10 @@ export default function RootLayout({
         <Toaster />
         <Analytics />
         <SpeedInsights />
-        {children}
+        <div className="relative flex min-h-screen flex-col">
+        <SiteHeader />
+        <div className="flex-1">{children}</div>
+        </div>
       </body>
     </html>
   );
