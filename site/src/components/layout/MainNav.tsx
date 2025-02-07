@@ -1,5 +1,5 @@
 "use client";
-import { Button } from "@/components/ui/button";
+import { Button } from "@/components/ui/Button";
 import useUIStore from "@/store/ui_store";
 import { Tab } from "@/types/ui";
 
