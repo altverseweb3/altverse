@@ -1,11 +1,9 @@
-import type { MetaMaskInpageProvider } from '@metamask/providers';
+import type { MetaMaskInpageProvider } from "@metamask/providers";
 
 // Union type for different provider types
-export type WalletProvider = 
-  | MetaMaskInpageProvider 
-  // Add other provider types as needed, e.g.:
-  // | WalletConnectProvider when we get there
-  ;
+export type WalletProvider = MetaMaskInpageProvider;
+// Add other provider types as needed, e.g.:
+// | WalletConnectProvider when we get there
 
 export interface WalletInfo {
   type: WalletType; // Static Enum to type/identify the wallet
