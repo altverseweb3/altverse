@@ -13,7 +13,7 @@ const useWeb3Store = create<Web3StoreState>()(
       addWallet: (wallet: WalletInfo) => {
         set((state) => {
           const existingWalletIndex = state.connectedWallets.findIndex(
-            (w) => w.type === wallet.type
+            (w) => w.type === wallet.type,
           );
           let newWallets: WalletInfo[];
 
@@ -34,7 +34,7 @@ const useWeb3Store = create<Web3StoreState>()(
       removeWallet: (walletType: WalletType) => {
         set((state) => ({
           connectedWallets: state.connectedWallets.filter(
-            (w) => w.type !== walletType
+            (w) => w.type !== walletType,
           ),
           activeWallet:
             state.activeWallet?.type === walletType
@@ -55,7 +55,7 @@ const useWeb3Store = create<Web3StoreState>()(
       updateWalletAddress: (walletType: WalletType, address: string) => {
         set((state) => ({
           connectedWallets: state.connectedWallets.map((wallet) =>
-            wallet.type === walletType ? { ...wallet, address } : wallet
+            wallet.type === walletType ? { ...wallet, address } : wallet,
           ),
           activeWallet:
             state.activeWallet?.type === walletType
@@ -67,7 +67,7 @@ const useWeb3Store = create<Web3StoreState>()(
       updateWalletChainId: (walletType: WalletType, chainId: number) => {
         set((state) => ({
           connectedWallets: state.connectedWallets.map((wallet) =>
-            wallet.type === walletType ? { ...wallet, chainId } : wallet
+            wallet.type === walletType ? { ...wallet, chainId } : wallet,
           ),
           activeWallet:
             state.activeWallet?.type === walletType
@@ -91,8 +91,8 @@ const useWeb3Store = create<Web3StoreState>()(
         connectedWallets: state.connectedWallets,
         activeWallet: state.activeWallet,
       }),
-    }
-  )
+    },
+  ),
 );
 
 // Useful selector for getting the current chain ID
