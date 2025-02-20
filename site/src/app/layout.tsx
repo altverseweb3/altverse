@@ -21,11 +21,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html
-      lang="en"
-      className={`${urbanist.variable} antialiased`}
-      suppressHydrationWarning
-    >
+    <html lang="en" className={`${urbanist.variable} antialiased`}>
       <head>
         <style
           dangerouslySetInnerHTML={{
@@ -40,6 +36,7 @@ export default function RootLayout({
           }}
         />
         <script
+          suppressHydrationWarning
           dangerouslySetInnerHTML={{
             __html: `
               try {
