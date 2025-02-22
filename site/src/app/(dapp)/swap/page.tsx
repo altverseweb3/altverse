@@ -3,120 +3,83 @@
 import React, { useState, ReactNode } from "react";
 import { Card, CardContent } from "@/components/ui/Card";
 import { Button } from "@/components/ui/Button";
-import { ArrowDownUp, Coins, Settings } from "lucide-react";
-import { BrandedSelect } from "@/components/ui/BrandedSelect";
-// import { BrandedNumericInput } from "@/components/ui/BrandedNumericInput";
+import { Settings, Coins } from "lucide-react";
+import { SelectTokenButton } from "@/components/ui/SelectTokenButton";
+import { SelectChainButton } from "@/components/ui/SelectChainButton";
 
-interface SwapContainerProps {
+interface SwapBoxProps {
   children: ReactNode;
-  className?: string;
 }
 
-const SwapContainer = ({ children, className = "" }: SwapContainerProps) => (
-  <div className={`relative bg-zinc-800 rounded-2xl p-4 ${className}`}>
+const SwapBox: React.FC<SwapBoxProps> = ({ children }) => (
+  <div className="bg-zinc-900 rounded-lg pt-2 px-4 pb-4 w-full h-[160px] flex flex-col">
     {children}
   </div>
 );
 
-const SwapComponent = () => {
-  const [isLoading, setIsLoading] = useState(false);
+const SwapComponent: React.FC = () => {
+  const [amount, setAmount] = useState<string>("");
 
-  const handleSwap = () => {
-    setIsLoading(true);
-    setTimeout(() => setIsLoading(false), 2000);
+  const handleAmountChange = (e: React.ChangeEvent<HTMLInputElement>): void => {
+    setAmount(e.target.value);
   };
 
   return (
-    <div className="flex items-center justify-center h-[calc(100vh-12rem)]">
-      <Card className="w-full max-w-md mx-4 bg-zinc-900 border-zinc-800 p-4 rounded-3xl">
-        {/* Header */}
-        <div className="flex justify-between items-center mb-6">
-          <h2 className="text-lg font-medium">Swap</h2>
-          <Button
-            variant="ghost"
-            size="icon"
-            className="text-zinc-400 hover:text-zinc-300"
-          >
-            <Settings className="h-4 w-4" />
-          </Button>
-        </div>
-
-        <CardContent className="space-y-2 p-0">
-          {/* Source Container */}
-          <SwapContainer>
-            <div className="flex justify-end mb-2">
-              <BrandedSelect
-                placeholder="Chain"
-                onChange={(chain) => console.log(chain)}
-                className="w-24 h-8"
-              />
-            </div>
-            <div className="flex items-center justify-between">
-              <BrandedSelect
-                variant="colored"
-                placeholder="Select token"
-                onChange={(token) => console.log(token)}
-                className="w-1/3"
-              />
-              <div className="text-right">
-                <input
-                  type="number"
-                  placeholder="0"
-                  className="bg-transparent text-right text-3xl w-full focus:outline-none"
-                />
-                <div className="text-zinc-400 text-sm">$0.00</div>
+    <div className="flex items-start justify-center min-h-screen bg-background p-4 pt-[10vh]">
+      <Card className="w-full max-w-[520px] sm:max-w-md bg-zinc-900/50 border-zinc-800">
+        <CardContent className="space-y-4 p-6">
+          {/* Send Box */}
+          <SwapBox>
+            <div className="flex justify-between items-center">
+              <span className="text-zinc-400 text-md">send</span>
+              <div className="flex items-center gap-2">
+                <button>
+                  <Settings className="h-4 w-4 text-zinc-400 mr-2" />
+                </button>
+                <SelectChainButton />
               </div>
             </div>
-          </SwapContainer>
-
-          {/* Swap Direction Indicator */}
-          <div className="flex justify-center -my-4 relative z-10">
-            <Button
-              variant="ghost"
-              size="icon"
-              className="rounded-full bg-zinc-800 hover:bg-zinc-700 h-10 w-10"
-            >
-              <ArrowDownUp className="h-4 w-4" />
-            </Button>
-          </div>
-
-          {/* Destination Container */}
-          <SwapContainer className="pt-6">
-            <div className="flex justify-end mb-2">
-              <BrandedSelect
-                placeholder="Chain"
-                onChange={(chain) => console.log(chain)}
-                className="w-24 h-8"
-              />
+            <div className="flex justify-between items-start gap-4 mt-auto">
+              <SelectTokenButton variant="amber" />
+              <div className="flex-1 flex flex-col items-end">
+                <input
+                  type="number"
+                  value={amount}
+                  onChange={handleAmountChange}
+                  placeholder="0"
+                  className="w-full bg-transparent text-3xl focus:outline-none text-right"
+                />
+                <span className="text-zinc-400 text-sm">$0.00</span>
+              </div>
             </div>
-            <div className="flex items-center justify-between">
-              <BrandedSelect
-                placeholder="Select token"
-                onChange={(token) => console.log(token)}
-                className="w-1/3"
-              />
-              <div className="text-right">
+          </SwapBox>
+
+          {/* Receive Box */}
+          <SwapBox>
+            <div className="flex justify-between items-center">
+              <span className="text-zinc-400 text-md">receive</span>
+              <div className="flex items-center gap-2">
+                <SelectChainButton />
+              </div>
+            </div>
+            <div className="flex justify-between items-start gap-4 mt-auto">
+              <SelectTokenButton variant="sky" />
+              <div className="flex-1 flex flex-col items-end">
                 <input
                   type="number"
                   placeholder="0"
-                  className="bg-transparent text-right text-3xl w-full focus:outline-none"
+                  className="w-full bg-transparent text-3xl focus:outline-none text-right"
                   readOnly
                 />
-                <div className="text-zinc-400 text-sm">$0.00</div>
+                <span className="text-zinc-400 text-sm">$0.00</span>
               </div>
             </div>
+          </SwapBox>
 
-            <div className="mt-4">
-              <Button
-                className="w-full bg-amber-500/25 hover:bg-amber-500/50 text-amber-500 border-amber-500 border-[0.5px] rounded-lg leading-zero text-sm"
-                onClick={handleSwap}
-                disabled={isLoading}
-              >
-                {isLoading ? "swapping..." : "swap"}
-                <Coins className="h-4 w-4 ml-2" />
-              </Button>
-            </div>
-          </SwapContainer>
+          <Button className="w-full bg-amber-500/25 hover:bg-amber-600/50 text-amber-500 border-amber-500 border-[0.5px] rounded-lg leading-zero text-lg">
+            <Coins className="h-6 w-6 mr-2" />
+            swap
+          </Button>
         </CardContent>
       </Card>
     </div>
