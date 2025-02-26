@@ -54,6 +54,12 @@ export default {
           "4": "hsl(var(--chart-4))",
           "5": "hsl(var(--chart-5))",
         },
+        "branded-primary": {
+          DEFAULT: "hsl(var(--branded-primary))",
+        },
+        "branded-secondary": {
+          DEFAULT: "hsl(var(--branded-secondary))",
+        },
       },
       borderRadius: {
         lg: "var(--radius)",

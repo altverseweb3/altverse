@@ -22,7 +22,7 @@ export function BrandedSelect({
     "w-full rounded-lg focus:ring-0 focus:ring-offset-0 h-12 text-md";
   const variantStyles =
     variant === "colored"
-      ? "bg-amber-500/25 hover:bg-amber-500/30 text-amber-500 border-amber-500"
+      ? "bg-branded-primary/25 hover:bg-branded-primary/30 text-branded-primary border-branded-primary"
       : "bg-zinc-700 border-zinc-600 border-3";
 
   return (

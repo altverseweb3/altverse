@@ -76,7 +76,7 @@ const SwapComponent: React.FC = () => {
             </div>
           </SwapBox>
 
-          <Button className="w-full bg-amber-500/25 hover:bg-amber-600/50 text-amber-500 border-amber-500 border-[0.5px] rounded-lg leading-zero text-lg">
+          <Button className="w-full bg-branded-primary/25 hover:bg-branded-primary/50 text-branded-primary border-branded-primary border-[0.5px] rounded-lg leading-zero text-lg">
             <Coins className="h-6 w-6 mr-2" />
             swap
           </Button>

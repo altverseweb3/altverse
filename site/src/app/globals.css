@@ -31,11 +31,11 @@
     --radius: 0.3rem;
   }
   .dark {
-    --background: 240 10% 3.9%;
+    --background: 240 10% 3.9%; /* Changed to space-separated format */
     --foreground: 0 0% 98%;
-    --card: 240 10% 3.9%;
+    --card: 240 6% 10%; /* Changed to space-separated format */
     --card-foreground: 0 0% 98%;
-    --popover: 240 10% 3.9%;
+    --popover: 240 4% 16%; /* Changed to space-separated format */
     --popover-foreground: 0 0% 98%;
     --primary: 0 0% 98%;
     --primary-foreground: 240 5.9% 10%;
@@ -55,7 +55,10 @@
     --chart-3: 30 80% 55%;
     --chart-4: 280 65% 60%;
     --chart-5: 340 75% 55%;
+    --branded-primary: 38 92% 50%;
+    --branded-secondary: 199 89% 48%;
   }
+
 }
 
 @layer base {
