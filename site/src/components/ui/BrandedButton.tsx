@@ -1,13 +1,18 @@
 import React, { ButtonHTMLAttributes } from "react";
 import { Button } from "@/components/ui/Button";
-import * as LucideIcons from "lucide-react";
+import { Coins, Link, ArrowRightLeft, Repeat, Network } from "lucide-react";
 
-// Type for all available Lucide icon names
-type LucideIconName = keyof typeof LucideIcons;
+// Use a string literal type for the icon names
+type AvailableIconName =
+  | "Coins"
+  | "Link"
+  | "ArrowRightLeft"
+  | "Repeat"
+  | "Network";
 
 // Props interface extending HTML button attributes
 interface BrandedButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> {
-  iconName: LucideIconName;
+  iconName: AvailableIconName;
   buttonText: string;
   className?: string;
 }
@@ -18,8 +23,14 @@ export function BrandedButton({
   className = "",
   ...props
 }: BrandedButtonProps) {
-  // Type assertion to ensure TypeScript understands this is a valid component
-  const IconComponent = LucideIcons[iconName] as React.ElementType;
+  // Get the correct icon component directly in the component
+  const IconComponent = {
+    Coins,
+    Link,
+    ArrowRightLeft,
+    Repeat,
+    Network,
+  }[iconName];
 
   return (
     <Button

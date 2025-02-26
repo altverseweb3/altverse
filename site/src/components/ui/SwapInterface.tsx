@@ -1,16 +1,20 @@
 import React, { ReactNode } from "react";
 import { Card, CardContent } from "@/components/ui/Card";
 import { BrandedButton } from "@/components/ui/BrandedButton";
-import * as LucideIcons from "lucide-react";
 
-// Get the type for Lucide icon names
-type LucideIconName = keyof typeof LucideIcons;
+// Use a string literal type for the icon names
+type AvailableIconName =
+  | "Coins"
+  | "Link"
+  | "ArrowRightLeft"
+  | "Repeat"
+  | "Network";
 
 interface SwapInterfaceProps {
   children: ReactNode;
   actionButton: {
     text: string;
-    iconName: LucideIconName;
+    iconName: AvailableIconName;
     onClick?: () => void;
     disabled?: boolean;
   };
