@@ -19,9 +19,9 @@ export function AssetBox({
   additionalHeaderControls = null,
 }: AssetBoxProps) {
   return (
-    <div className="bg-zinc-900 rounded-lg pt-2 px-4 pb-4 w-full h-[160px] flex flex-col">
+    <div className="bg-zinc-800 rounded-lg pt-2 px-4 pb-4 w-full h-[160px] flex flex-col">
       <div className="flex justify-between items-center">
-        <span className="text-zinc-400 text-md">{title}</span>
+        <span className="text-zinc-50 text-xl">{title}</span>
         <div className="flex items-center gap-2">
           {showSettings && settingsComponent}
           {additionalHeaderControls}

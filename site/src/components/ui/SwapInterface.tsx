@@ -28,7 +28,7 @@ export function SwapInterface({
 }: SwapInterfaceProps) {
   return (
     <Card
-      className={`w-full max-w-[520px] sm:max-w-md bg-zinc-900/50 border-zinc-800 ${className}`}
+      className={`w-full max-w-[520px] sm:max-w-md bg-zinc-900 border-zinc-800 ${className}`}
     >
       <CardContent className="space-y-4 p-6">
         {children}
