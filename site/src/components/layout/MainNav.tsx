@@ -24,7 +24,7 @@ export function MainNav({ onNavigate }: MainNavProps) {
         ([value, config]) => (
           <Button
             key={value}
-            variant="ghost"
+            variant={currentTab === value ? "default" : "ghost"}
             disabled={config.disabled}
             title={config.disabledMessage}
             className={cn(
