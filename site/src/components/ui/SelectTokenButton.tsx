@@ -1,4 +1,5 @@
 import { ChevronDown } from "lucide-react";
+import { Button } from "@/components/ui/Button";
 
 export interface TokenButtonProps {
   variant: "amber" | "sky";
@@ -6,20 +7,20 @@ export interface TokenButtonProps {
 
 export const SelectTokenButton: React.FC<TokenButtonProps> = ({ variant }) => {
   const baseClasses =
-    "min-w-[120px] flex items-center gap-1 px-3 py-2 rounded-lg text-sm font-medium whitespace-nowrap";
+    "min-w-[120px] flex items-center gap-1 px-[6px] py-[3px] rounded-lg text-sm font-medium whitespace-nowrap";
   const variantClasses: Record<TokenButtonProps["variant"], string> = {
     amber:
-      "bg-amber-500/20 text-amber-500 hover:bg-amber-500/30 border-amber-500 border-[0.5px]",
-    sky: "bg-sky-500/20 text-sky-500 hover:bg-sky-500/30 border-sky-600 border-[0.5px]",
+      "bg-[#4F3917] text-amber-500 hover:bg-[#664616] hover:text-amber-400 border-[#614108] border-[1px]",
+    sky: "bg-[#0E364E] text-sky-500 hover:bg-[#0b466b] hover:text-sky-400 border-[#082F49] border-[1px]",
   };
 
   return (
-    <button
+    <Button
       type="button"
       className={`${baseClasses} ${variantClasses[variant]}`}
     >
       <span>select token</span>
       <ChevronDown className="h-4 w-4" />
-    </button>
+    </Button>
   );
 };
