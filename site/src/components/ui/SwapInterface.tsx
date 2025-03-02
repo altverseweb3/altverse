@@ -3,12 +3,7 @@ import { Card, CardContent } from "@/components/ui/Card";
 import { BrandedButton } from "@/components/ui/BrandedButton";
 
 // Use a string literal type for the icon names
-type AvailableIconName =
-  | "Coins"
-  | "Link"
-  | "ArrowRightLeft"
-  | "Repeat"
-  | "Network";
+type AvailableIconName = "Coins" | "Cable";
 
 interface SwapInterfaceProps {
   children: ReactNode;
@@ -28,9 +23,9 @@ export function SwapInterface({
 }: SwapInterfaceProps) {
   return (
     <Card
-      className={`w-full max-w-[520px] sm:max-w-md bg-zinc-900/50 border-zinc-800 ${className}`}
+      className={`w-full max-w-[520px] sm:max-w-md bg-zinc-900 border-zinc-800 ${className}`}
     >
-      <CardContent className="space-y-4 p-6">
+      <CardContent className="space-y-1 p-6">
         {children}
         <BrandedButton
           buttonText={actionButton.text}
