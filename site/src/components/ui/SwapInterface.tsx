@@ -30,7 +30,7 @@ export function SwapInterface({
     <Card
       className={`w-full max-w-[520px] sm:max-w-md bg-zinc-900 border-zinc-800 ${className}`}
     >
-      <CardContent className="space-y-4 p-6">
+      <CardContent className="space-y-1 p-6">
         {children}
         <BrandedButton
           buttonText={actionButton.text}
