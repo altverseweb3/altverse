@@ -7,7 +7,7 @@ export interface TokenButtonProps {
 
 export const SelectTokenButton: React.FC<TokenButtonProps> = ({ variant }) => {
   const baseClasses =
-    "min-w-[120px] flex items-center gap-1 px-[6px] py-[3px] rounded-lg text-sm font-medium whitespace-nowrap";
+    "min-w-[90px] sm:min-w-[110px] md:min-w-[120px] flex items-center gap-1 px-1 sm:px-[6px] py-0.5 sm:py-[3px] rounded-lg text-xs sm:text-sm font-medium whitespace-nowrap";
   const variantClasses: Record<TokenButtonProps["variant"], string> = {
     amber:
       "bg-[#4F3917] text-amber-500 hover:bg-[#664616] hover:text-amber-400 border-[#614108] border-[1px]",
@@ -17,10 +17,10 @@ export const SelectTokenButton: React.FC<TokenButtonProps> = ({ variant }) => {
   return (
     <Button
       type="button"
-      className={`${baseClasses} ${variantClasses[variant]}`}
+      className={`${baseClasses} ${variantClasses[variant]} max-h-7 sm:max-h-none`}
     >
-      <span>select token</span>
-      <ChevronDown className="h-4 w-4" />
+      <span className="truncate">select token</span>
+      <ChevronDown className="h-3 w-3 sm:h-4 sm:w-4 flex-shrink-0" />
     </Button>
   );
 };
