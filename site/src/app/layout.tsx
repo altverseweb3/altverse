@@ -33,7 +33,7 @@ export default function RootLayout({
       className={`${urbanist.variable} ${ibmPlexMono.variable} antialiased`}
     >
       <head />
-      <body className="min-h-screen bg-background">
+      <body className="bg-background">
         <ThemeProvider
           attribute="class"
           defaultTheme="dark"
