@@ -27,16 +27,20 @@ export function SwapInterface({
   className = "",
 }: SwapInterfaceProps) {
   return (
-    <Card className={`w-full bg-zinc-900 border-zinc-800 ${className}`}>
-      <CardContent className="space-y-3 sm:space-y-4 p-3 sm:p-4 md:p-6">
-        {children}
-        <BrandedButton
-          buttonText={actionButton.text}
-          iconName={actionButton.iconName}
-          onClick={actionButton.onClick}
-          disabled={actionButton.disabled}
-          className="mt-2 sm:mt-3 h-10 sm:h-auto"
-        />
+    <Card
+      className={`w-full bg-zinc-950 border-none rounded-[6px] ${className}`}
+    >
+      <CardContent className="p-2">
+        <div className="space-y-[1px]">{children}</div>
+        <div className="mt-[10px]">
+          <BrandedButton
+            buttonText={actionButton.text}
+            iconName={actionButton.iconName}
+            onClick={actionButton.onClick}
+            disabled={actionButton.disabled}
+            className="h-[36px] sm:h-auto w-full"
+          />
+        </div>
       </CardContent>
     </Card>
   );
