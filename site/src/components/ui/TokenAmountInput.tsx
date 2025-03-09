@@ -16,7 +16,7 @@ export function TokenAmountInput({
   placeholder = "0",
 }: TokenAmountInputProps) {
   return (
-    <div className="flex-1 flex flex-col items-end">
+    <div className="flex-1 flex flex-col justify-between items-end h-[54px]">
       <input
         type="number"
         value={amount}
@@ -25,7 +25,7 @@ export function TokenAmountInput({
         className="w-full bg-transparent text-3xl focus:outline-none text-right numeric-input [appearance:textfield] [&::-webkit-outer-spin-button]:appearance-none [&::-webkit-inner-spin-button]:appearance-none"
         readOnly={readOnly}
       />
-      <span className="text-zinc-400 text-sm numeric-input">{dollarValue}</span>
+      <span className="text-zinc-400 text-xs numeric-input">{dollarValue}</span>
     </div>
   );
 }
