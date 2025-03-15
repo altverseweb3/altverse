@@ -17,6 +17,7 @@ import {
 import { Menu } from "lucide-react";
 import BrandedButton from "@/components/ui/BrandedButton";
 import { ConnectWalletModal } from "@/components/ui/ConnectWalletModal";
+import Link from "next/link";
 
 export function SiteHeader() {
   const [isOpen, setIsOpen] = useState(false);
@@ -43,7 +44,7 @@ export function SiteHeader() {
       <div className="flex h-14 items-center px-4">
         {/* Logo and Nav Container */}
         <div className="flex items-center gap-8">
-          <div className="flex items-center gap-3">
+          <Link href="/" className="flex items-center gap-3">
             <Image
               src="/tokens/branded/ALT.svg"
               alt="Altverse Logo"
@@ -53,7 +54,7 @@ export function SiteHeader() {
               priority
             />
             <span className="text-xl font-normal">altverse</span>
-          </div>
+          </Link>
 
           {/* Desktop Navigation */}
           <div className="hidden md:block">
@@ -73,7 +74,17 @@ export function SiteHeader() {
             </SheetTrigger>
             <SheetContent
               side="right"
-              className="w-[300px] sm:w-[360px] [&_svg.lucide-x]:text-amber-500 [&_svg.lucide-x]:bg-[#442E0B] [&_svg.lucide-x]:rounded-[3px] [&_svg.lucide-x]:border-[#61410B] [&_svg.lucide-x]:border-[0.5px] [&_button]:focus:ring-0 [&_button]:focus:ring-offset-0 [&_button]:focus:outline-none"
+              className="w-[300px] sm:w-[360px] 
+                        [&_svg.lucide-x]:text-amber-500 
+                        [&_svg.lucide-x]:bg-[#442E0B] 
+                        [&_svg.lucide-x]:rounded-[3px] 
+                        [&_svg.lucide-x]:border-[#61410B] 
+                        [&_svg.lucide-x]:border-[0.5px]
+                        [&_svg.lucide-x]:h-5 [&_svg.lucide-x]:w-5
+                        sm:[&_svg.lucide-x]:h-6 sm:[&_svg.lucide-x]:w-6
+                        [&_button]:focus:ring-0 
+                        [&_button]:focus:ring-offset-0 
+                        [&_button]:focus:outline-none"
             >
               <SheetHeader>
                 <SheetTitle>

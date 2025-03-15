@@ -51,7 +51,7 @@ export function SwapInterface({
             iconName={actionButton.iconName}
             onClick={actionButton.onClick}
             disabled={actionButton.disabled}
-            className="h-[36px] sm:h-auto w-full"
+            className="h-[40px] w-full"
           />
         </div>
 

@@ -22,9 +22,9 @@ export function AssetBox({
 }: AssetBoxProps) {
   return (
     <div
-      className={`bg-zinc-900 rounded-[6px] pt-2 px-2 sm:px-4 pb-4 w-full min-h-[120px] sm:min-h-[140px] md:min-h-[160px] flex flex-col ${className}`}
+      className={`bg-zinc-900 rounded-[6px] pt-[10px] px-[1.5rem] pb-[1.5rem] sm:px-4 pb-4 w-full min-h-[120px] sm:min-h-[140px] md:min-h-[160px] flex flex-col ${className}`}
     >
-      <div className="flex justify-between items-center mb-2">
+      <div className="flex justify-between items-center mb-2 sm:mb-0">
         <span className="text-zinc-50/50 text-sm sm:text-lg md:text-xl">
           {title}
         </span>
@@ -34,7 +34,7 @@ export function AssetBox({
           {showChainSelector && <SelectChainButton />}
         </div>
       </div>
-      <div className="mt-auto">{children}</div>
+      <div className="sm:mt-[20px] mt-[10px]">{children}</div>
     </div>
   );
 }

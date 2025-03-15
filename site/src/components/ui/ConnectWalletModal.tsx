@@ -98,7 +98,23 @@ export const ConnectWalletModal = ({
           <span>Connect Wallet</span>
         </DialogTrigger>
       )}
-      <DialogContent className="sm:w-1/2 w-2/3 rounded-lg bg-[#18181B] border-[#27272A] border [&_svg.lucide-x]:text-amber-500 [&_svg.lucide-x]:bg-[#442E0B] [&_svg.lucide-x]:rounded-[3px] [&_svg.lucide-x]:border-[#61410B] [&_svg.lucide-x]:border-[0.5px] [&_button]:focus:ring-0 [&_button]:focus:ring-offset-0 [&_button]:focus:outline-none">
+      <DialogContent
+        className="sm:w-1/2 w-2/3
+                                rounded-lg bg-[#18181B]
+                                border-[#27272A] 
+                                border 
+                                [&_svg.lucide-x]:text-amber-500 
+                                [&_svg.lucide-x]:bg-[#442E0B] 
+                                [&_svg.lucide-x]:rounded-[3px] 
+                                [&_svg.lucide-x]:border-[#61410B] 
+                                [&_svg.lucide-x]:border-[0.5px]
+                                [&_svg.lucide-x]:h-5 [&_svg.lucide-x]:w-5
+                                sm:[&_svg.lucide-x]:h-6 sm:[&_svg.lucide-x]:w-6
+                                [&_button]:focus:ring-0 
+                                [&_button]:focus:ring-offset-0 
+                                [&_button]:focus:outline-none
+        "
+      >
         <DialogHeader>
           <DialogTitle className="text-[#FAFAFA]">select wallet</DialogTitle>
         </DialogHeader>

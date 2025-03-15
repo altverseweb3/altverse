@@ -21,7 +21,11 @@ export function TokenInputGroup({
 }: TokenInputGroupProps) {
   return (
     <div className="flex justify-between items-start gap-2 sm:gap-4 w-full">
-      {showSelectToken && <SelectTokenButton variant={variant} />}
+      {showSelectToken && (
+        <div className="-mt-[6px] sm:-mt-[8px] md:-mt-[10px]">
+          <SelectTokenButton variant={variant} />
+        </div>
+      )}
       <TokenAmountInput
         amount={amount}
         onChange={onChange}
