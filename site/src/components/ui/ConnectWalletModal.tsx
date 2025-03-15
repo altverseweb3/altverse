@@ -100,7 +100,7 @@ export const ConnectWalletModal = ({
       )}
       <DialogContent className="sm:w-1/2 w-2/3 rounded-lg bg-[#18181B] border-[#27272A] border [&_svg.lucide-x]:text-amber-500 [&_svg.lucide-x]:bg-[#442E0B] [&_svg.lucide-x]:rounded-[3px] [&_svg.lucide-x]:border-[#61410B] [&_svg.lucide-x]:border-[0.5px] [&_button]:focus:ring-0 [&_button]:focus:ring-offset-0 [&_button]:focus:outline-none">
         <DialogHeader>
-          <DialogTitle className="text-white">select wallet</DialogTitle>
+          <DialogTitle className="text-[#FAFAFA]">select wallet</DialogTitle>
         </DialogHeader>
         <div className="mt-4 space-y-3">
           {walletOptions.map((wallet) => (
@@ -110,8 +110,8 @@ export const ConnectWalletModal = ({
               className={cn(
                 "w-full flex items-center justify-between px-3 py-6 rounded-md bg-[#18181B] border border-[#27272A] transition-colors",
                 wallet.disabled
-                  ? "text-zinc-400"
-                  : "text-white hover:bg-[#27272A]",
+                  ? "text-[#52525b]"
+                  : "text-[#FAFAFA] hover:bg-[#27272A]",
               )}
               onClick={() => handleWalletSelect(wallet)}
               disabled={wallet.disabled || connecting !== null}
