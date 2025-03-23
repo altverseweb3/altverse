@@ -21,7 +21,7 @@ const DialogOverlay = React.forwardRef<
   <DialogPrimitive.Overlay
     ref={ref}
     className={cn(
-      "fixed inset-0 z-50 bg-black/80  data-[state=open]:animate-in data-[state=closed]:animate-out data-[state=closed]:fade-out-0 data-[state=open]:fade-in-0",
+      "fixed inset-0 z-50 bg-black/80 data-[state=open]:animate-in data-[state=closed]:animate-out data-[state=closed]:fade-out-0 data-[state=open]:fade-in-0",
       className,
     )}
     {...props}
@@ -70,6 +70,29 @@ const DialogContent = React.forwardRef<
     >
       {children}
       {showCloseButton && <StyledDialogClose />}
+
+      {/* Add global styling for token selection interactions */}
+      <style jsx global>{`
+        /* Token list item hover styles */
+        .token-item-wrapper {
+          padding: 2px 8px;
+          cursor: pointer;
+        }
+
+        .token-item-inner {
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          padding: 5px 9px;
+          border-radius: 6px;
+          width: 100%;
+          transition: background-color 0.15s ease;
+        }
+
+        .token-item-inner:hover {
+          background-color: #27272a;
+        }
+      `}</style>
     </DialogPrimitive.Content>
   </DialogPortal>
 ));
