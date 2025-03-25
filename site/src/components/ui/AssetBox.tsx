@@ -1,4 +1,4 @@
-import React, { ReactNode, useState } from "react";
+import React, { ReactNode } from "react";
 import { SelectChainButton } from "@/components/ui/SelectChainButton";
 import { Chain } from "@/config/chains";
 
@@ -25,7 +25,6 @@ export function AssetBox({
   availableChains,
   boxType,
 }: AssetBoxProps) {
-
   return (
     <div
       className={`bg-zinc-900 rounded-[6px] pt-[10px] px-[1.5rem] pb-[1.5rem] w-full min-h-[100px] sm:min-h-[120px] md:min-h-[140px] flex flex-col ${className}`}
