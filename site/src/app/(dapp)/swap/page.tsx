@@ -1,17 +1,33 @@
 "use client";
 
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { Settings } from "lucide-react";
 import { AssetBox } from "@/components/ui/AssetBox";
 import { TokenInputGroup } from "@/components/ui/TokenInputGroup";
 import { SwapInterface } from "@/components/ui/SwapInterface";
-import { Chain, chains, defaultChain } from "@/config/chains";
 import { TokenSwitch } from "@/components/ui/TokenSwitch";
+import { isStoreHydrated, useHydrationCheck } from "@/utils/chainMethods";
 
-const SwapComponent = () => {
+const SwapComponent: React.FC = () => {
   const [amount, setAmount] = useState<string>("");
-  const [sendChain, setSendChain] = useState<Chain>(defaultChain);
-  const [receiveChain, setReceiveChain] = useState<Chain>(chains.polygon);
+  const [isLoading, setIsLoading] = useState(!isStoreHydrated());
+
+  // Get hydration check function
+  const checkHydration = useHydrationCheck();
+
+  // Check if the store has hydrated and update loading state
+  useEffect(() => {
+    // If already hydrated, skip the check
+    if (!isLoading) return;
+
+    // Otherwise, check for hydration
+    const waitForHydration = async () => {
+      await checkHydration();
+      setIsLoading(false);
+    };
+
+    waitForHydration();
+  }, [isLoading, checkHydration]);
 
   const handleAmountChange = (e: React.ChangeEvent<HTMLInputElement>): void => {
     setAmount(e.target.value);
@@ -23,37 +39,43 @@ const SwapComponent = () => {
     </button>
   );
 
-  const handleSendChainChange = (chain: Chain) => {
-    console.log("Send chain changed to:", chain.name);
-    setSendChain(chain);
-
-    // Example: If the user selects the same chain for both send and receive,
-    // automatically switch the receive chain to a different one
-    if (chain.id === receiveChain.id) {
-      const differentChain = Object.values(chains).find(
-        (c) => c.id !== chain.id,
-      );
-      if (differentChain) {
-        setReceiveChain(differentChain);
-      }
-    }
-  };
-
-  const handleReceiveChainChange = (chain: Chain) => {
-    console.log("Receive chain changed to:", chain.name);
-    setReceiveChain(chain);
-
-    // Example: If the user selects the same chain for both send and receive,
-    // automatically switch the send chain to a different one
-    if (chain.id === sendChain.id) {
-      const differentChain = Object.values(chains).find(
-        (c) => c.id !== chain.id,
-      );
-      if (differentChain) {
-        setSendChain(differentChain);
-      }
-    }
-  };
+  // If the store isn't hydrated yet, show a minimal loading state
+  if (isLoading) {
+    return (
+      <div className="flex h-full w-full items-start justify-center sm:pt-[6vh] pt-[2vh] min-h-[500px]">
+        <div className="w-full max-w-md opacity-50">
+          {/* Same UI structure, but with reduced opacity until hydration completes */}
+          <SwapInterface
+            actionButton={{
+              text: "Loading...",
+              iconName: "Coins",
+              disabled: true,
+            }}
+          >
+            <AssetBox title="send" showSettings={true} showChainSelector={true}>
+              <TokenInputGroup
+                variant="amber"
+                amount=""
+                showSelectToken={true}
+              />
+            </AssetBox>
+            <AssetBox
+              title="receive"
+              showSettings={false}
+              showChainSelector={true}
+            >
+              <TokenInputGroup
+                variant="sky"
+                amount=""
+                readOnly={true}
+                showSelectToken={true}
+              />
+            </AssetBox>
+          </SwapInterface>
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div className="flex h-full w-full items-start justify-center sm:pt-[6vh] pt-[2vh] min-h-[500px]">
@@ -71,8 +93,7 @@ const SwapComponent = () => {
             showSettings={true}
             settingsComponent={settingsButton}
             showChainSelector={true}
-            onChainChange={handleSendChainChange}
-            initialChain={sendChain}
+            boxType="source"
           >
             <TokenInputGroup
               variant="amber"
@@ -89,8 +110,7 @@ const SwapComponent = () => {
             title="receive"
             showSettings={false}
             showChainSelector={true}
-            onChainChange={handleReceiveChainChange}
-            initialChain={receiveChain}
+            boxType="destination"
           >
             <TokenInputGroup
               variant="sky"
