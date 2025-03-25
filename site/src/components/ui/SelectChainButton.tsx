@@ -7,7 +7,7 @@ import {
   DropdownMenuItem,
   DropdownMenuTrigger,
 } from "@/components/ui/DropdownMenu";
-import { Chain, chainList, defaultChain } from "@/config/chains";
+import { Chain, chainList, defaultSourceChain } from "@/config/chains";
 import useWeb3Store from "@/store/web3Store";
 
 interface SelectChainButtonProps {
@@ -33,12 +33,12 @@ export const SelectChainButton: React.FC<SelectChainButtonProps> = ({
     (state) => state.setDestinationChain,
   );
 
-  // Determine the chain to display (from props or store)
+  // Determine the chain to display (from store)
   const selectedChain = storeType
     ? storeType === "source"
       ? sourceChain
       : destinationChain
-    : propSelectedChain || defaultChain;
+    : propSelectedChain || defaultSourceChain;
 
   // State for the icon currently being displayed
   const [displayedChain, setDisplayedChain] = useState<Chain>(selectedChain);
@@ -69,16 +69,6 @@ export const SelectChainButton: React.FC<SelectChainButtonProps> = ({
       propOnChainSelect(chain);
     }
   };
-
-  useEffect(() => {
-    // Debug log
-    if (storeType) {
-      console.log(
-        `SelectChainButton (${storeType}) rendering with chain:`,
-        selectedChain.name,
-      );
-    }
-  }, [selectedChain, storeType]);
 
   // When selectedChain changes, animate the icon change:
   useEffect(() => {

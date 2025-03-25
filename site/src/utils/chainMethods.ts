@@ -1,9 +1,6 @@
 import { Chain, chains } from "@/config/chains";
 import useWeb3Store from "@/store/web3Store";
 
-// Global hydration tracker
-let globalHydrated = false;
-
 /**
  * Handles chain selection for source or destination chains
  * Ensures no duplicate chains are selected
@@ -77,50 +74,4 @@ export function formatChainRoute(
  */
 export function getDifferentChain(currentChain: Chain): Chain | undefined {
   return Object.values(chains).find((c) => c.id !== currentChain.id);
-}
-
-/**
- * Check if the store has hydrated from localStorage
- * This uses a global variable to track hydration status across page navigations
- * @returns Boolean indicating if hydration is complete
- */
-export function isStoreHydrated(): boolean {
-  // If we've already detected hydration, return true immediately
-  if (globalHydrated) return true;
-
-  // Otherwise check the store
-  const store = useWeb3Store.getState();
-  const currentlyHydrated = !!store._hasHydrated;
-
-  // If hydrated, update the global flag for future checks
-  if (currentlyHydrated) {
-    globalHydrated = true;
-    console.log("Zustand store hydration detected and cached globally");
-  }
-
-  return currentlyHydrated;
-}
-
-/**
- * Hook to check and wait for hydration
- * Use this in components to track hydration status
- * @returns A function that checks hydration status
- */
-export function useHydrationCheck(): () => Promise<boolean> {
-  return async () => {
-    // If already hydrated, return immediately
-    if (globalHydrated) return true;
-
-    // Otherwise check and wait if needed
-    return new Promise<boolean>((resolve) => {
-      const checkHydration = () => {
-        if (isStoreHydrated()) {
-          resolve(true);
-        } else {
-          setTimeout(checkHydration, 50);
-        }
-      };
-      checkHydration();
-    });
-  };
 }
