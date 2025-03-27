@@ -101,7 +101,7 @@ export const SelectTokenButton: React.FC<SelectTokenButtonProps> = ({
         </Button>
       </DialogTrigger>
       <DialogContent
-        className="sm:max-w-[480px] p-0 bg-[#18181B] border-[#1C1C1E] rounded-[6px] overflow-hidden max-w-[calc(100%-60px)]"
+        className="sm:max-w-[480px] p-0 pb-4 bg-[#18181B] border-[#1C1C1E] rounded-[6px] overflow-hidden max-w-[calc(100%-60px)]"
         showCloseButton={false}
       >
         <div className="px-4 pt-4 flex justify-between items-center">
@@ -115,7 +115,7 @@ export const SelectTokenButton: React.FC<SelectTokenButtonProps> = ({
         </div>
 
         {/* Search input */}
-        <div className="px-4 py-1">
+        <div className="px-4 pt-1">
           <div className="relative">
             <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
               <Search className="h-4 w-4 text-[#FAFAFA20]" />
@@ -125,7 +125,7 @@ export const SelectTokenButton: React.FC<SelectTokenButtonProps> = ({
               placeholder="search token or paste address"
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
-              className="w-full bg-[#27272A] text-[#FAFAFA] placeholder-[#FAFAFA20] pl-10 pr-10 py-2 rounded-md focus:outline-none focus:ring-1 focus:ring-amber-500 sm:text-lg text-base"
+              className="w-full h-[38px] bg-[#27272A] text-[#FAFAFA] placeholder-[#FAFAFA20] pl-10 pr-10 py-2 rounded-md focus:outline-none focus:ring-1 focus:ring-amber-500 sm:text-lg text-base"
               style={{ fontSize: "16px" }}
             />
             <div className="absolute inset-y-0 right-3 flex items-center">
@@ -144,7 +144,8 @@ export const SelectTokenButton: React.FC<SelectTokenButtonProps> = ({
           </div>
         </div>
 
-        <div className="max-h-[420px] overflow-y-auto">
+        {/* Apply our custom scrollbar class */}
+        <div className="max-h-[420px] overflow-y-auto scrollbar-thin px-2">
           {/* Wallet tokens section */}
           {filteredWalletTokens.length > 0 && (
             <div>
@@ -155,10 +156,12 @@ export const SelectTokenButton: React.FC<SelectTokenButtonProps> = ({
                 {filteredWalletTokens.map((token) => (
                   <div
                     key={token.id}
-                    className="token-item-wrapper"
+                    className="px-2 py-0.5 cursor-pointer" // Tailwind equivalent of token-item-wrapper
                     onClick={() => handleSelectToken(token)}
                   >
-                    <div className="token-item-inner">
+                    <div className="flex items-center justify-between p-[5px] px-[9px] rounded-md w-full transition-colors duration-150 ease-in-out hover:bg-[#27272A]">
+                      {" "}
+                      {/* Tailwind equivalent of token-item-inner */}
                       <div className="flex items-center gap-3">
                         <div className="w-8 h-8 relative flex-shrink-0">
                           <Image
@@ -172,9 +175,9 @@ export const SelectTokenButton: React.FC<SelectTokenButtonProps> = ({
                           <div className="font-medium text-[#FAFAFA]">
                             {token.name}
                           </div>
-                          <div className="flex gap-2 text-sm text-[#FAFAFA55]">
+                          <div className="flex gap-2 text-[0.75rem] text-[#FAFAFA55]">
                             <span className="numeric-input flex items-center">
-                              ${token.ticker}
+                              {token.ticker}
                             </span>
                             <span
                               className="ml-4 numeric-input text-[10px] flex items-center"
@@ -203,17 +206,19 @@ export const SelectTokenButton: React.FC<SelectTokenButtonProps> = ({
           {/* All tokens section */}
           {filteredAllTokens.length > 0 && (
             <div>
-              <div className="px-4 py-2 text-sm text-[#FAFAFA55]">
+              <div className="px-4 pb-2 pt-4 text-sm text-[#FAFAFA55]">
                 all tokens
               </div>
               <div>
                 {filteredAllTokens.map((token) => (
                   <div
                     key={token.id}
-                    className="token-item-wrapper"
+                    className="px-2 py-0.5 cursor-pointer" // Tailwind equivalent of token-item-wrapper
                     onClick={() => handleSelectToken(token)}
                   >
-                    <div className="token-item-inner">
+                    <div className="flex items-center justify-between p-[5px] px-[9px] rounded-md w-full transition-colors duration-150 ease-in-out hover:bg-[#27272A]">
+                      {" "}
+                      {/* Tailwind equivalent of token-item-inner */}
                       <div className="flex items-center gap-3">
                         <div className="w-8 h-8 relative flex-shrink-0">
                           <Image
@@ -227,9 +232,9 @@ export const SelectTokenButton: React.FC<SelectTokenButtonProps> = ({
                           <div className="font-medium text-[#FAFAFA]">
                             {token.name}
                           </div>
-                          <div className="flex gap-2 text-sm text-[#FAFAFA55]">
+                          <div className="flex gap-2 text-[0.75rem] text-[#FAFAFA55]">
                             <span className="numeric-input flex items-center">
-                              ${token.ticker}
+                              {token.ticker}
                             </span>
                             <span
                               className="ml-4 numeric-input text-[10px] flex items-center"

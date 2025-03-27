@@ -37,11 +37,11 @@ const StyledDialogClose = React.forwardRef<
   <DialogPrimitive.Close
     ref={ref}
     className={cn(
-      "absolute right-4 top-4 rounded-sm opacity-70 transition-opacity hover:opacity-100 disabled:pointer-events-none",
+      "absolute right-4 top-4 opacity-70 transition-opacity hover:opacity-100 disabled:pointer-events-none",
       // Explicitly removing the focus ring styles
       "focus:outline-none focus:ring-0 focus:ring-offset-0",
       // Custom styling for the close button
-      "bg-[#442E0B] rounded-[3px] border-[#61410B] border-[0.5px]",
+      "bg-[#442E0B] rounded-[6px] border-[#61410B] border-[0.5px]",
       className,
     )}
     {...props}
@@ -70,29 +70,6 @@ const DialogContent = React.forwardRef<
     >
       {children}
       {showCloseButton && <StyledDialogClose />}
-
-      {/* Add global styling for token selection interactions */}
-      <style jsx global>{`
-        /* Token list item hover styles */
-        .token-item-wrapper {
-          padding: 2px 8px;
-          cursor: pointer;
-        }
-
-        .token-item-inner {
-          display: flex;
-          align-items: center;
-          justify-content: space-between;
-          padding: 5px 9px;
-          border-radius: 6px;
-          width: 100%;
-          transition: background-color 0.15s ease;
-        }
-
-        .token-item-inner:hover {
-          background-color: #27272a;
-        }
-      `}</style>
     </DialogPrimitive.Content>
   </DialogPortal>
 ));
