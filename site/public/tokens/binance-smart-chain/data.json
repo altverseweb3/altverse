@@ -1,1702 +1,1302 @@
 [
   {
+    "extract_time": 1743074096.0480058,
     "id": "chainlink",
     "symbol": "link",
     "name": "Chainlink",
-    "market_cap": 9987592436,
-    "current_price": 15.66,
     "contract_address": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/877/large/chainlink-new-logo.png?1696502009",
     "local_image": "chainlink.png",
     "alchemy_metadata": {
       "name": "ChainLink Token",
       "symbol": "LINK",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "the-open-network",
     "symbol": "ton",
     "name": "Toncoin",
-    "market_cap": 9300471156,
-    "current_price": 3.75,
     "contract_address": "0x76a797a59ba2c17726896976b7b3747bfd1d220f",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/17980/large/photo_2024-09-10_17.09.00.jpeg?1725963446",
     "local_image": "the-open-network.png",
     "alchemy_metadata": {
       "name": "Wrapped TON Coin",
       "symbol": "TONCOIN",
-      "decimals": 9,
-      "logo": null
+      "decimals": 9
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "mantra-dao",
     "symbol": "om",
     "name": "MANTRA",
-    "market_cap": 6509042157,
-    "current_price": 6.61,
     "contract_address": "0xf78d2e7936f5fe18308a3b2951a93b6c4a41f5e2",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/12151/large/OM_Token.png?1696511991",
     "local_image": "mantra-dao.png",
     "alchemy_metadata": {
       "name": "MANTRA DAO",
       "symbol": "OM",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "binance-bridged-usdt-bnb-smart-chain",
     "symbol": "bsc-usd",
     "name": "Binance Bridged USDT (BNB Smart Chain)",
-    "market_cap": 5182408556,
-    "current_price": 1.001,
     "contract_address": "0x55d398326f99059ff775485246999027b3197955",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/35021/large/USDT.png?1707233575",
     "local_image": "binance-bridged-usdt-bnb-smart-chain.png",
     "alchemy_metadata": {
       "name": "Tether USD",
       "symbol": "USDT",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "uniswap",
     "symbol": "uni",
     "name": "Uniswap",
-    "market_cap": 4117339931,
-    "current_price": 6.86,
     "contract_address": "0xbf5140a22578168fd562dccf235e5d43a02ce9b1",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/12504/large/uniswap-logo.png?1720676669",
     "local_image": "uniswap.png",
     "alchemy_metadata": {
       "name": "Uniswap",
       "symbol": "UNI",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "pepe",
     "symbol": "pepe",
     "name": "Pepe",
-    "market_cap": 3616246828,
-    "current_price": 8.6e-6,
     "contract_address": "0x25d887ce7a35172c62febfd67a1856f20faebb00",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/29850/large/pepe-token.jpeg?1696528776",
     "local_image": "pepe.png",
     "alchemy_metadata": {
       "name": "Pepe",
       "symbol": "PEPE",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "aave",
     "symbol": "aave",
     "name": "Aave",
-    "market_cap": 2751872207,
-    "current_price": 182.49,
     "contract_address": "0xfb6115445bff7b52feb98650c87f44907e58f802",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/12645/large/aave-token-round.png?1720472354",
     "local_image": "aave.png",
     "alchemy_metadata": {
       "name": "Aave Token",
       "symbol": "AAVE",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "first-digital-usd",
     "symbol": "fdusd",
     "name": "First Digital USD",
-    "market_cap": 2484766052,
-    "current_price": 0.998717,
     "contract_address": "0xc5f0f7b66764f6ec8c8dff7ba683102295e16409",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/31079/large/FDUSD_icon_black.png?1731097953",
     "local_image": "first-digital-usd.png",
     "alchemy_metadata": {
       "name": "First Digital USD",
       "symbol": "FDUSD",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "cosmos",
     "symbol": "atom",
     "name": "Cosmos Hub",
-    "market_cap": 2171154260,
-    "current_price": 4.92,
     "contract_address": "0x0eb3a705fc54725037cc9e008bdede697f62f335",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/1481/large/cosmos_hub.png?1696502525",
     "local_image": "cosmos.png",
     "alchemy_metadata": {
       "name": "Cosmos Token",
       "symbol": "ATOM",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "lombard-staked-btc",
     "symbol": "lbtc",
     "name": "Lombard Staked BTC",
-    "market_cap": 1863232833,
-    "current_price": 87933,
     "contract_address": "0xecac9c5f704e954931349da37f60e39f515c11c1",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/39969/large/LBTC_Logo.png?1724959872",
     "local_image": "lombard-staked-btc.png",
     "alchemy_metadata": {
       "name": "Lombard Staked Bitcoin",
       "symbol": "LBTC",
-      "decimals": 8,
-      "logo": null
+      "decimals": 8
     }
   },
   {
+    "extract_time": 1743074096.0480058,
+    "id": "fasttoken",
+    "symbol": "ftn",
+    "name": "Fasttoken",
+    "contract_address": "0x1045971c168b5294acbc8727a4f1c9e1af99f6d0",
+    "local_image": "fasttoken.png",
+    "alchemy_metadata": {
+      "name": "Bridged FTN (OrtakSea)",
+      "symbol": "FTN",
+      "decimals": 18
+    }
+  },
+  {
+    "extract_time": 1743074096.0480058,
     "id": "fetch-ai",
     "symbol": "fet",
     "name": "Artificial Superintelligence Alliance",
-    "market_cap": 1469270746,
-    "current_price": 0.563853,
     "contract_address": "0x031b41e504677879370e9dbcf937283a8691fa7f",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/5681/large/ASI.png?1719827289",
     "local_image": "fetch-ai.png",
     "alchemy_metadata": {
       "name": "Fetch",
       "symbol": "FET",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "solv-btc",
     "symbol": "solvbtc",
     "name": "Solv Protocol SolvBTC",
-    "market_cap": 1363271309,
-    "current_price": 87536,
     "contract_address": "0x4aae823a6a0b376de6a78e74ecc5b079d38cbcf7",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/36800/large/solvBTC.png?1719810684",
     "local_image": "solv-btc.png",
     "alchemy_metadata": {
       "name": "Solv BTC",
       "symbol": "SolvBTC",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "binance-peg-weth",
     "symbol": "weth",
     "name": "Binance-Peg WETH",
-    "market_cap": 1224513383,
-    "current_price": 2027.43,
     "contract_address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/39580/large/weth.png?1723006716",
     "local_image": "binance-peg-weth.png",
     "alchemy_metadata": {
       "name": "Ethereum Token",
       "symbol": "ETH",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "bonk",
     "symbol": "bonk",
     "name": "Bonk",
-    "market_cap": 1097403110,
-    "current_price": 1.419e-5,
     "contract_address": "0xa697e272a73744b343528c3bc4702f2565b2f422",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/28600/large/bonk.jpg?1696527587",
     "local_image": "bonk.png",
     "alchemy_metadata": {
       "name": "Bonk",
       "symbol": "Bonk",
-      "decimals": 5,
-      "logo": null
+      "decimals": 5
     }
   },
   {
-    "id": "injective-protocol",
-    "symbol": "inj",
-    "name": "Injective",
-    "market_cap": 1041538527,
-    "current_price": 10.65,
-    "contract_address": "0xa2b726b1145a4773f68593cf171187d8ebe4d495",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/12882/large/Other_200x200.png?1738782212",
-    "local_image": "injective-protocol.png",
-    "alchemy_metadata": {
-      "name": "Injective Protocol",
-      "symbol": "INJ",
-      "decimals": 18,
-      "logo": null
-    }
-  },
-  {
+    "extract_time": 1743074096.0480058,
     "id": "dexe",
     "symbol": "dexe",
     "name": "DeXe",
-    "market_cap": 998657696,
-    "current_price": 17.5,
     "contract_address": "0x6e88056e8376ae7709496ba64d37fa2f8015ce3e",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/12713/large/DEXE_token_logo.png?1696512514",
     "local_image": "dexe.png",
     "alchemy_metadata": {
       "name": "Dexe",
       "symbol": "DEXE",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
+    "id": "injective-protocol",
+    "symbol": "inj",
+    "name": "Injective",
+    "contract_address": "0xa2b726b1145a4773f68593cf171187d8ebe4d495",
+    "local_image": "injective-protocol.png",
+    "alchemy_metadata": {
+      "name": "Injective Protocol",
+      "symbol": "INJ",
+      "decimals": 18
+    }
+  },
+  {
+    "extract_time": 1743074096.0480058,
     "id": "solv-protocol-solvbtc-bbn",
     "symbol": "solvbtc.bbn",
     "name": "Solv Protocol SolvBTC.BBN",
-    "market_cap": 838111872,
-    "current_price": 86961,
     "contract_address": "0x1346b618dc92810ec74163e4c27004c921d446a5",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/39384/large/unnamed.png?1721961640",
     "local_image": "solv-protocol-solvbtc-bbn.png",
     "alchemy_metadata": {
       "name": "SolvBTC Babylon",
       "symbol": "SolvBTC.BBN",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "wbnb",
     "symbol": "wbnb",
     "name": "Wrapped BNB",
-    "market_cap": 782153311,
-    "current_price": 625.58,
     "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/12591/large/binance-coin-logo.png?1696512401",
     "local_image": "wbnb.png",
     "alchemy_metadata": {
       "name": "Wrapped BNB",
       "symbol": "WBNB",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "binance-bridged-usdc-bnb-smart-chain",
     "symbol": "usdc",
     "name": "Binance Bridged USDC (BNB Smart Chain)",
-    "market_cap": 748712220,
-    "current_price": 1.0,
     "contract_address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/35220/large/USDC.jpg?1707919050",
     "local_image": "binance-bridged-usdc-bnb-smart-chain.png",
     "alchemy_metadata": {
       "name": "USD Coin",
       "symbol": "USDC",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
-    "id": "bittorrent",
-    "symbol": "btt",
-    "name": "BitTorrent",
-    "market_cap": 708427538,
-    "current_price": 7.18588e-7,
-    "contract_address": "0x352cb5e19b12fc216548a2677bd0fce83bae434b",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/22457/large/btt_logo.png?1696521780",
-    "local_image": "bittorrent.png",
-    "alchemy_metadata": {
-      "name": "BitTorrent",
-      "symbol": "BTT",
-      "decimals": 18,
-      "logo": null
-    }
-  },
-  {
-    "id": "floki",
-    "symbol": "floki",
-    "name": "FLOKI",
-    "market_cap": 693622994,
-    "current_price": 7.18e-5,
-    "contract_address": "0xfb5b838b6cfeedc2873ab27866079ac55363d37e",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/16746/large/PNG_image.png?1696516318",
-    "local_image": "floki.png",
-    "alchemy_metadata": {
-      "name": "FLOKI",
-      "symbol": "FLOKI",
-      "decimals": 9,
-      "logo": null
-    }
-  },
-  {
+    "extract_time": 1743074096.0480058,
     "id": "pancakeswap-token",
     "symbol": "cake",
     "name": "PancakeSwap",
-    "market_cap": 682905839,
-    "current_price": 2.33,
     "contract_address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/12632/large/pancakeswap-cake-logo_%281%29.png?1696512440",
     "local_image": "pancakeswap-token.png",
     "alchemy_metadata": {
       "name": "PancakeSwap Token",
       "symbol": "Cake",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
+    "id": "bittorrent",
+    "symbol": "btt",
+    "name": "BitTorrent",
+    "contract_address": "0x352cb5e19b12fc216548a2677bd0fce83bae434b",
+    "local_image": "bittorrent.png",
+    "alchemy_metadata": {
+      "name": "BitTorrent",
+      "symbol": "BTT",
+      "decimals": 18
+    }
+  },
+  {
+    "extract_time": 1743074096.0480058,
+    "id": "floki",
+    "symbol": "floki",
+    "name": "FLOKI",
+    "contract_address": "0xfb5b838b6cfeedc2873ab27866079ac55363d37e",
+    "local_image": "floki.png",
+    "alchemy_metadata": {
+      "name": "FLOKI",
+      "symbol": "FLOKI",
+      "decimals": 9
+    }
+  },
+  {
+    "extract_time": 1743074096.0480058,
     "id": "usdx-money-usdx",
     "symbol": "usdx",
     "name": "Stables Labs USDX",
-    "market_cap": 626354438,
-    "current_price": 1.001,
     "contract_address": "0xf3527ef8de265eaa3716fb312c12847bfba66cef",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/50360/large/USDX200px.png?1731906044",
     "local_image": "usdx-money-usdx.png",
     "alchemy_metadata": {
       "name": "USDX",
       "symbol": "USDX",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "renzo-restaked-eth",
     "symbol": "ezeth",
     "name": "Renzo Restaked ETH",
-    "market_cap": 622154802,
-    "current_price": 2108.35,
     "contract_address": "0x2416092f143378750bb29b79ed961ab195cceea5",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/34753/large/Ezeth_logo_circle.png?1713496404",
     "local_image": "renzo-restaked-eth.png",
     "alchemy_metadata": {
       "name": "Renzo Restaked ETH",
       "symbol": "ezETH",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "axie-infinity",
     "symbol": "axs",
     "name": "Axie Infinity",
-    "market_cap": 556426159,
-    "current_price": 3.48,
     "contract_address": "0x715d400f88c167884bbcc41c5fea407ed4d2f8a0",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/13029/large/axie_infinity_logo.png?1696512817",
     "local_image": "axie-infinity.png",
     "alchemy_metadata": {
       "name": "Axie Infinity Shard",
       "symbol": "AXS",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "beam-2",
     "symbol": "beam",
     "name": "Beam",
-    "market_cap": 528779658,
-    "current_price": 0.01007968,
     "contract_address": "0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/32417/large/chain-logo.png?1698114384",
     "local_image": "beam-2.png",
     "alchemy_metadata": {
       "name": "Beam",
       "symbol": "BEAM",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "binance-peg-dogecoin",
     "symbol": "doge",
     "name": "Binance-Peg Dogecoin",
-    "market_cap": 507468332,
-    "current_price": 0.198168,
     "contract_address": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/15768/large/dogecoin.png?1696515392",
     "local_image": "binance-peg-dogecoin.png",
     "alchemy_metadata": {
       "name": "Dogecoin",
       "symbol": "DOGE",
-      "decimals": 8,
-      "logo": null
+      "decimals": 8
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "pumpbtc",
     "symbol": "pumpbtc",
     "name": "pumpBTC",
-    "market_cap": 498234646,
-    "current_price": 86105,
     "contract_address": "0xf9c4ff105803a77ecb5dae300871ad76c2794fa4",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/39232/large/200pxPumpBTCLogo.png?1721227861",
     "local_image": "pumpbtc.png",
     "alchemy_metadata": {
       "name": "pumpBTC",
       "symbol": "pumpBTC",
-      "decimals": 8,
-      "logo": null
+      "decimals": 8
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "true-usd",
     "symbol": "tusd",
     "name": "TrueUSD",
-    "market_cap": 495196114,
-    "current_price": 0.999325,
     "contract_address": "0x40af3827f39d0eacbf4a168f8d4ee67c121d11c9",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/3449/large/tusd.png?1696504140",
     "local_image": "true-usd.png",
     "alchemy_metadata": {
       "name": "TrueUSD",
       "symbol": "TUSD",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "pendle",
     "symbol": "pendle",
     "name": "Pendle",
-    "market_cap": 474586810,
-    "current_price": 2.95,
     "contract_address": "0xb3ed0a426155b79b898849803e3b36552f7ed507",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728",
     "local_image": "pendle.png",
     "alchemy_metadata": {
       "name": "Pendle",
       "symbol": "PENDLE",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "apenft",
     "symbol": "nft",
     "name": "APENFT",
-    "market_cap": 431574258,
-    "current_price": 4.36207e-7,
     "contract_address": "0x20ee7b720f4e4c4ffcb00c4065cdae55271aecca",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/15687/large/apenft.jpg?1696515316",
     "local_image": "apenft.png",
     "alchemy_metadata": {
       "name": "APENFT",
       "symbol": "NFT",
-      "decimals": 6,
-      "logo": null
+      "decimals": 6
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "matic-network",
     "symbol": "matic",
     "name": "Polygon",
-    "market_cap": 413816882,
-    "current_price": 0.236429,
     "contract_address": "0xcc42724c6683b7e57334c4e856f4c9965ed682bd",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/4713/large/polygon.png?1698233745",
     "local_image": "matic-network.png",
     "alchemy_metadata": {
       "name": "Matic Token",
       "symbol": "MATIC",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "compound-governance-token",
     "symbol": "comp",
     "name": "Compound",
-    "market_cap": 404046853,
-    "current_price": 45.21,
     "contract_address": "0x52ce071bd9b1c4b00a0b92d298c512478cad67e8",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/10775/large/COMP.png?1696510737",
     "local_image": "compound-governance-token.png",
     "alchemy_metadata": {
       "name": "Compound Coin",
       "symbol": "COMP",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "axelar",
     "symbol": "axl",
     "name": "Axelar",
-    "market_cap": 403958593,
-    "current_price": 0.430125,
     "contract_address": "0x8b1f4432f943c465a973fedc6d7aa50fc96f1f65",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/27277/large/V-65_xQ1_400x400.jpeg?1696526329",
     "local_image": "axelar.png",
     "alchemy_metadata": {
       "name": "Axelar",
       "symbol": "AXL",
-      "decimals": 6,
-      "logo": null
+      "decimals": 6
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "trust-wallet-token",
     "symbol": "twt",
     "name": "Trust Wallet",
-    "market_cap": 388320296,
-    "current_price": 0.932167,
     "contract_address": "0x4b0f1812e5df2a09796481ff14017e6005508003",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/11085/large/Trust.png?1696511026",
     "local_image": "trust-wallet-token.png",
     "alchemy_metadata": {
       "name": "Trust Wallet",
       "symbol": "TWT",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
-    "id": "cheems-token",
-    "symbol": "cheems",
-    "name": "Cheems Token",
-    "market_cap": 365706572,
-    "current_price": 1.8e-6,
-    "contract_address": "0x0df0587216a4a1bb7d5082fdc491d93d2dd4b413",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/30376/large/Hg4_Lhbg_400x400.jpg?1696529270",
-    "local_image": "cheems-token.png",
-    "alchemy_metadata": {
-      "name": "Cheems",
-      "symbol": "Cheems",
-      "decimals": 18,
-      "logo": null
-    }
-  },
-  {
+    "extract_time": 1743074096.0480058,
     "id": "chain-2",
     "symbol": "xcn",
     "name": "Onyxcoin",
-    "market_cap": 361410889,
-    "current_price": 0.01096327,
     "contract_address": "0x7324c7c0d95cebc73eea7e85cbaac0dbdf88a05b",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/24210/large/onyxlogo.jpg?1696523397",
     "local_image": "chain-2.png",
     "alchemy_metadata": {
       "name": "Chain",
       "symbol": "XCN",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "layerzero",
     "symbol": "zro",
     "name": "LayerZero",
-    "market_cap": 356463170,
-    "current_price": 3.21,
     "contract_address": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/28206/large/ftxG9_TJ_400x400.jpeg?1696527208",
     "local_image": "layerzero.png",
     "alchemy_metadata": {
       "name": "LayerZero",
       "symbol": "ZRO",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
+    "id": "cheems-token",
+    "symbol": "cheems",
+    "name": "Cheems Token",
+    "contract_address": "0x0df0587216a4a1bb7d5082fdc491d93d2dd4b413",
+    "local_image": "cheems-token.png",
+    "alchemy_metadata": {
+      "name": "Cheems",
+      "symbol": "Cheems",
+      "decimals": 18
+    }
+  },
+  {
+    "extract_time": 1743074096.0480058,
     "id": "lorenzo-stbtc",
     "symbol": "stbtc",
     "name": "Lorenzo stBTC",
-    "market_cap": 354433200,
-    "current_price": 87082,
     "contract_address": "0xf6718b2701d4a6498ef77d7c152b2137ab28b8a3",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/50978/large/a.jpg?1730208372",
     "local_image": "lorenzo-stbtc.png",
     "alchemy_metadata": {
       "name": "Lorenzo stBTC",
       "symbol": "stBTC",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "frax",
     "symbol": "frax",
     "name": "Frax",
-    "market_cap": 348428060,
-    "current_price": 0.999229,
     "contract_address": "0x90c97f71e18723b0cf0dfa30ee176ab653e89f40",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/13422/large/frax-logo.png?1739780303",
     "local_image": "frax.png",
     "alchemy_metadata": {
       "name": "Frax",
       "symbol": "FRAX",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "aioz-network",
     "symbol": "aioz",
     "name": "AIOZ Network",
-    "market_cap": 330180814,
-    "current_price": 0.283301,
     "contract_address": "0x33d08d8c7a168333a85285a68c0042b39fc3741d",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/14631/large/aioz-logo-200.png?1696514309",
     "local_image": "aioz-network.png",
     "alchemy_metadata": {
       "name": "AIOZ Network",
       "symbol": "AIOZ",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "binance-peg-busd",
     "symbol": "busd",
     "name": "Binance-Peg BUSD",
-    "market_cap": 324372250,
-    "current_price": 1.006,
     "contract_address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/31273/large/new_binance-peg-busd.png?1696530096",
     "local_image": "binance-peg-busd.png",
     "alchemy_metadata": {
       "name": "BUSD Token",
       "symbol": "BUSD",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
-    "id": "1inch",
-    "symbol": "1inch",
-    "name": "1inch",
-    "market_cap": 299191803,
-    "current_price": 0.2173,
-    "contract_address": "0x111111111117dc0aa78b770fa6a738034120c302",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/13469/large/1inch-token.png?1696513230",
-    "local_image": "1inch.png",
-    "alchemy_metadata": {
-      "name": "1INCH Token",
-      "symbol": "1INCH",
-      "decimals": 18,
-      "logo": null
-    }
-  },
-  {
-    "id": "usdd",
-    "symbol": "usdd",
-    "name": "USDD",
-    "market_cap": 265266349,
-    "current_price": 1.0,
-    "contract_address": "0x392004bee213f1ff580c867359c246924f21e6ad",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/25380/large/UUSD.jpg?1696524513",
-    "local_image": "usdd.png",
-    "alchemy_metadata": {
-      "name": "Decentralized USD",
-      "symbol": "USDD",
-      "decimals": 18,
-      "logo": null
-    }
-  },
-  {
-    "id": "safepal",
-    "symbol": "sfp",
-    "name": "SafePal",
-    "market_cap": 264173850,
-    "current_price": 0.52852,
-    "contract_address": "0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/13905/large/sfp.png?1696513647",
-    "local_image": "safepal.png",
-    "alchemy_metadata": {
-      "name": "SafePal Token",
-      "symbol": "SFP",
-      "decimals": 18,
-      "logo": null
-    }
-  },
-  {
+    "extract_time": 1743074096.0480058,
     "id": "zetachain",
     "symbol": "zeta",
     "name": "ZetaChain",
-    "market_cap": 257532195,
-    "current_price": 0.35176,
     "contract_address": "0x0000028a2eb8346cd5c0267856ab7594b7a55308",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/26718/large/Twitter_icon.png?1696525788",
     "local_image": "zetachain.png",
     "alchemy_metadata": {
       "name": "Zeta",
       "symbol": "ZETA",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
+    "id": "1inch",
+    "symbol": "1inch",
+    "name": "1inch",
+    "contract_address": "0x111111111117dc0aa78b770fa6a738034120c302",
+    "local_image": "1inch.png",
+    "alchemy_metadata": {
+      "name": "1INCH Token",
+      "symbol": "1INCH",
+      "decimals": 18
+    }
+  },
+  {
+    "extract_time": 1743074096.0480058,
+    "id": "safepal",
+    "symbol": "sfp",
+    "name": "SafePal",
+    "contract_address": "0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb",
+    "local_image": "safepal.png",
+    "alchemy_metadata": {
+      "name": "SafePal Token",
+      "symbol": "SFP",
+      "decimals": 18
+    }
+  },
+  {
+    "extract_time": 1743074096.0480058,
+    "id": "usdd",
+    "symbol": "usdd",
+    "name": "USDD",
+    "contract_address": "0x392004bee213f1ff580c867359c246924f21e6ad",
+    "local_image": "usdd.png",
+    "alchemy_metadata": {
+      "name": "Decentralized USD",
+      "symbol": "USDD",
+      "decimals": 18
+    }
+  },
+  {
+    "extract_time": 1743074096.0480058,
     "id": "frax-ether",
     "symbol": "frxeth",
     "name": "Frax Ether",
-    "market_cap": 256241885,
-    "current_price": 2022.63,
     "contract_address": "0x64048a7eecf3a2f1ba9e144aac3d7db6e58f555e",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/28284/large/frxETH_icon.png?1696527284",
     "local_image": "frax-ether.png",
     "alchemy_metadata": {
       "name": "Frax Ether",
       "symbol": "frxETH",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
-    "id": "zilliqa",
-    "symbol": "zil",
-    "name": "Zilliqa",
-    "market_cap": 254894920,
-    "current_price": 0.01294612,
-    "contract_address": "0xb86abcb37c3a4b64f74f59301aff131a1becc787",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/2687/large/Zilliqa-logo.png?1696503475",
-    "local_image": "zilliqa.png",
-    "alchemy_metadata": {
-      "name": "Zilliqa",
-      "symbol": "ZIL",
-      "decimals": 12,
-      "logo": null
-    }
-  },
-  {
+    "extract_time": 1743074096.0480058,
     "id": "quorium",
     "symbol": "qgold",
     "name": "Quorium",
-    "market_cap": 254226081,
-    "current_price": 3026.5,
     "contract_address": "0xdc49a53e1f15fd7fd522e0691cb570f442e9ca6c",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/33597/large/Linked_in_Profile_Picture.png?1702476714",
     "local_image": "quorium.png",
     "alchemy_metadata": {
       "name": "Quorium",
       "symbol": "QGold",
-      "decimals": 3,
-      "logo": null
+      "decimals": 3
     }
   },
   {
+    "extract_time": 1743074096.0480058,
+    "id": "zilliqa",
+    "symbol": "zil",
+    "name": "Zilliqa",
+    "contract_address": "0xb86abcb37c3a4b64f74f59301aff131a1becc787",
+    "local_image": "zilliqa.png",
+    "alchemy_metadata": {
+      "name": "Zilliqa",
+      "symbol": "ZIL",
+      "decimals": 12
+    }
+  },
+  {
+    "extract_time": 1743074096.0480058,
     "id": "chex-token",
     "symbol": "chex",
     "name": "CHEX Token",
-    "market_cap": 236144617,
-    "current_price": 0.236468,
     "contract_address": "0x9ce84f6a69986a83d92c324df10bc8e64771030f",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/10349/large/logo-white-bg-dark.png?1733475849",
     "local_image": "chex-token.png",
     "alchemy_metadata": {
       "name": "Chintai Exchange Token",
       "symbol": "CHEX",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "baby-doge-coin",
     "symbol": "babydoge",
     "name": "Baby Doge Coin",
-    "market_cap": 235063452,
-    "current_price": 1.421e-9,
     "contract_address": "0xc748673057861a797275cd8a068abb95a902e8de",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/16125/large/babydoge.jpg?1696515731",
     "local_image": "baby-doge-coin.png",
     "alchemy_metadata": {
       "name": "Baby Doge Coin",
       "symbol": "BabyDoge",
-      "decimals": 9,
-      "logo": null
+      "decimals": 9
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "oasis-network",
     "symbol": "rose",
     "name": "Oasis",
-    "market_cap": 228826572,
-    "current_price": 0.03401032,
     "contract_address": "0xf00600ebc7633462bc4f9c61ea2ce99f5aaebd4a",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/13162/large/OASIS.jpg?1727698287",
     "local_image": "oasis-network.png",
     "alchemy_metadata": {
       "name": "Wrapped ROSE",
       "symbol": "wROSE",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
-    "id": "stargate-finance",
-    "symbol": "stg",
-    "name": "Stargate Finance",
-    "market_cap": 224493276,
-    "current_price": 0.231575,
-    "contract_address": "0xb0d502e938ed5f4df2e681fe6e419ff29631d62b",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/24413/large/STG_LOGO.png?1696523595",
-    "local_image": "stargate-finance.png",
-    "alchemy_metadata": {
-      "name": "StargateToken",
-      "symbol": "STG",
-      "decimals": 18,
-      "logo": null
-    }
-  },
-  {
+    "extract_time": 1743074096.0480058,
     "id": "mask-network",
     "symbol": "mask",
     "name": "Mask Network",
-    "market_cap": 223432441,
-    "current_price": 2.23,
     "contract_address": "0x2ed9a5c8c13b93955103b9a7c167b67ef4d568a3",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/14051/large/Mask_Network.jpg?1696513776",
     "local_image": "mask-network.png",
     "alchemy_metadata": {
       "name": "Mask Network",
       "symbol": "MASK",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
+    "id": "stargate-finance",
+    "symbol": "stg",
+    "name": "Stargate Finance",
+    "contract_address": "0xb0d502e938ed5f4df2e681fe6e419ff29631d62b",
+    "local_image": "stargate-finance.png",
+    "alchemy_metadata": {
+      "name": "StargateToken",
+      "symbol": "STG",
+      "decimals": 18
+    }
+  },
+  {
+    "extract_time": 1743074096.0480058,
     "id": "ai-companions",
     "symbol": "aic",
     "name": "AI Companions",
-    "market_cap": 213356281,
-    "current_price": 0.213416,
     "contract_address": "0xbe6ad1eb9876cf3d3f9b85feecfb400298e80143",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/40130/large/AI_Companions.png?1725942702",
     "local_image": "ai-companions.png",
     "alchemy_metadata": {
       "name": "AI Companions",
       "symbol": "AIC",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "bnb48-club-token",
     "symbol": "koge",
     "name": "KOGE",
-    "market_cap": 209722420,
-    "current_price": 61.93,
     "contract_address": "0xe6df05ce8c8301223373cf5b969afcb1498c5528",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/13827/large/bnb48.png?1696513570",
     "local_image": "bnb48-club-token.png",
     "alchemy_metadata": {
       "name": "BNB48 Club Token",
       "symbol": "KOGE",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "frax-share",
     "symbol": "fxs",
     "name": "Frax Share",
-    "market_cap": 207286208,
-    "current_price": 2.33,
     "contract_address": "0xe48a3d7d0bc88d552f730b62c006bc925eadb9ee",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/13423/large/Frax_Shares_icon.png?1696513183",
     "local_image": "frax-share.png",
     "alchemy_metadata": {
       "name": "Frax Share",
       "symbol": "FXS",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "usda-2",
     "symbol": "usda",
     "name": "USDa",
-    "market_cap": 201530111,
-    "current_price": 0.996831,
     "contract_address": "0x9356086146be5158e98ad827e21b5cf944699894",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/51599/large/SUSDA.png?1731604761",
     "local_image": "usda-2.png",
     "alchemy_metadata": {
       "name": "USDa",
       "symbol": "USDa",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "ankr",
     "symbol": "ankr",
     "name": "Ankr Network",
-    "market_cap": 199553096,
-    "current_price": 0.01996592,
     "contract_address": "0xf307910a4c7bbc79691fd374889b36d8531b08e3",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/4324/large/U85xTl2.png?1696504928",
     "local_image": "ankr.png",
     "alchemy_metadata": {
       "name": "Ankr",
       "symbol": "ANKR",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "staked-frax-ether",
     "symbol": "sfrxeth",
     "name": "Staked Frax Ether",
-    "market_cap": 193393036,
-    "current_price": 2260.09,
     "contract_address": "0x3cd55356433c89e50dc51ab07ee0fa0a95623d53",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/28285/large/sfrxETH_icon.png?1696527285",
     "local_image": "staked-frax-ether.png",
     "alchemy_metadata": {
       "name": "Staked Frax Ether",
       "symbol": "sfrxETH",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "aelf",
     "symbol": "elf",
     "name": "aelf",
-    "market_cap": 189635768,
-    "current_price": 0.256519,
     "contract_address": "0xa3f020a5c92e15be13caf0ee5c95cf79585eecc9",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/1371/large/aelf-logo.png?1696502429",
     "local_image": "aelf.png",
     "alchemy_metadata": {
       "name": "ELF Token",
       "symbol": "ELF",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "woo-network",
     "symbol": "woo",
     "name": "WOO",
-    "market_cap": 183291033,
-    "current_price": 0.095665,
     "contract_address": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/12921/large/WOO_Logos_2023_Profile_Pic_WOO.png?1696512709",
     "local_image": "woo-network.png",
     "alchemy_metadata": {
       "name": "Wootrade Network",
       "symbol": "WOO",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
-    "id": "gmt-token",
-    "symbol": "gomining",
-    "name": "GoMining Token",
-    "market_cap": 180792107,
-    "current_price": 0.440744,
-    "contract_address": "0x7ddc52c4de30e94be3a6a0a2b259b2850f421989",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/15662/large/GoMining_Logo.png?1714757256",
-    "local_image": "gmt-token.png",
-    "alchemy_metadata": {
-      "name": "GoMining Token",
-      "symbol": "GMT",
-      "decimals": 18,
-      "logo": null
-    }
-  },
-  {
+    "extract_time": 1743074096.0480058,
     "id": "trip",
     "symbol": "trip",
     "name": "Trip",
-    "market_cap": 174333381,
-    "current_price": 5.91,
     "contract_address": "0xc9bfb93d75645c4681bb63794abf1acad44725e7",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/54717/large/IMG-20250120-184423-846.png?1741186152",
     "local_image": "trip.png",
     "alchemy_metadata": {
       "name": "Trip",
       "symbol": "Trip",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
-    "id": "stepn",
-    "symbol": "gmt",
-    "name": "GMT",
-    "market_cap": 157520460,
-    "current_price": 0.057203,
-    "contract_address": "0x3019bf2a2ef8040c242c9a4c5c4bd4c81678b2a1",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/23597/large/token-gmt-200x200.png?1703153841",
-    "local_image": "stepn.png",
+    "extract_time": 1743074096.0480058,
+    "id": "gmt-token",
+    "symbol": "gomining",
+    "name": "GoMining Token",
+    "contract_address": "0x7ddc52c4de30e94be3a6a0a2b259b2850f421989",
+    "local_image": "gmt-token.png",
     "alchemy_metadata": {
-      "name": "Green Metaverse Token",
+      "name": "GoMining Token",
       "symbol": "GMT",
-      "decimals": 8,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "acet-token",
     "symbol": "act",
     "name": "Acet",
-    "market_cap": 154050494,
-    "current_price": 0.090237,
     "contract_address": "0x9f3bcbe48e8b754f331dfc694a894e8e686ac31d",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/18205/large/ACET-LOGO.png?1696517703",
     "local_image": "acet-token.png",
     "alchemy_metadata": {
       "name": "Acet Token",
       "symbol": "ACT",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
-    "id": "binance-peg-sol",
-    "symbol": "sol",
-    "name": "Binance-Peg SOL",
-    "market_cap": 153498756,
-    "current_price": 139.7,
-    "contract_address": "0x570a5d26f7765ecb712c0924e4de545b89fd43df",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/54582/large/wsol.png?1740542147",
-    "local_image": "binance-peg-sol.png",
-    "alchemy_metadata": {
-      "name": "SOLANA",
-      "symbol": "SOL",
-      "decimals": 18,
-      "logo": null
-    }
-  },
-  {
+    "extract_time": 1743074096.0480058,
     "id": "wrapped-beacon-eth",
     "symbol": "wbeth",
     "name": "Wrapped Beacon ETH",
-    "market_cap": 153295916,
-    "current_price": 2159.87,
     "contract_address": "0xa2e3356610840701bdf5611a53974510ae27e2e1",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/30061/large/wbeth-icon.png?1696528983",
     "local_image": "wrapped-beacon-eth.png",
     "alchemy_metadata": {
       "name": "Wrapped Binance Beacon ETH",
       "symbol": "wBETH",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
-    "id": "world-mobile-token",
-    "symbol": "wmtx",
-    "name": "World Mobile Token",
-    "market_cap": 141982600,
-    "current_price": 0.200521,
-    "contract_address": "0xdbb5cf12408a3ac17d668037ce289f9ea75439d7",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/17333/large/Token_icon_round_1024.png?1741247846",
-    "local_image": "world-mobile-token.png",
+    "extract_time": 1743074096.0480058,
+    "id": "stepn",
+    "symbol": "gmt",
+    "name": "GMT",
+    "contract_address": "0x3019bf2a2ef8040c242c9a4c5c4bd4c81678b2a1",
+    "local_image": "stepn.png",
     "alchemy_metadata": {
-      "name": "WorldMobileToken",
-      "symbol": "WMTX",
-      "decimals": 6,
-      "logo": null
+      "name": "Green Metaverse Token",
+      "symbol": "GMT",
+      "decimals": 8
     }
   },
   {
+    "extract_time": 1743074096.0480058,
+    "id": "binance-peg-sol",
+    "symbol": "sol",
+    "name": "Binance-Peg SOL",
+    "contract_address": "0x570a5d26f7765ecb712c0924e4de545b89fd43df",
+    "local_image": "binance-peg-sol.png",
+    "alchemy_metadata": {
+      "name": "SOLANA",
+      "symbol": "SOL",
+      "decimals": 18
+    }
+  },
+  {
+    "extract_time": 1743074096.0480058,
     "id": "mubarak",
     "symbol": "mubarak",
     "name": "Mubarak",
-    "market_cap": 141981936,
-    "current_price": 0.142105,
     "contract_address": "0x5c85d6c6825ab4032337f11ee92a72df936b46f6",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/54857/large/DKjv3dc6_400x400.jpg?1742107486",
     "local_image": "mubarak.png",
     "alchemy_metadata": {
       "name": "mubarak",
       "symbol": "mubarak",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
-    "id": "swipe",
-    "symbol": "sxp",
-    "name": "Solar",
-    "market_cap": 139155859,
-    "current_price": 0.218399,
-    "contract_address": "0x47bead2563dcbf3bf2c9407fea4dc236faba485a",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/9368/large/Solar_Blockchain_Foundation_Sun_CG.png?1742975137",
-    "local_image": "swipe.png",
+    "extract_time": 1743074096.0480058,
+    "id": "world-mobile-token",
+    "symbol": "wmtx",
+    "name": "World Mobile Token",
+    "contract_address": "0xdbb5cf12408a3ac17d668037ce289f9ea75439d7",
+    "local_image": "world-mobile-token.png",
     "alchemy_metadata": {
-      "name": "Swipe",
-      "symbol": "SXP",
-      "decimals": 18,
-      "logo": null
+      "name": "WorldMobileToken",
+      "symbol": "WMTX",
+      "decimals": 6
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "polyhedra-network",
     "symbol": "zkj",
     "name": "Polyhedra Network",
-    "market_cap": 137705194,
-    "current_price": 2.28,
     "contract_address": "0xc71b5f631354be6853efe9c3ab6b9590f8302e81",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/36198/large/ZK.jpg?1710812518",
     "local_image": "polyhedra-network.png",
     "alchemy_metadata": {
       "name": "Polyhedra Network",
       "symbol": "ZK",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "project-galaxy",
     "symbol": "gal",
     "name": "Galxe",
-    "market_cap": 136686063,
-    "current_price": 1.069,
     "contract_address": "0xe4cc45bb5dbda06db6183e8bf016569f40497aa5",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/24530/large/galaxy.jpg?1696523708",
     "local_image": "project-galaxy.png",
     "alchemy_metadata": {
       "name": "Project Galaxy",
       "symbol": "GAL",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
+    "id": "swipe",
+    "symbol": "sxp",
+    "name": "Solar",
+    "contract_address": "0x47bead2563dcbf3bf2c9407fea4dc236faba485a",
+    "local_image": "swipe.png",
+    "alchemy_metadata": {
+      "name": "Swipe",
+      "symbol": "SXP",
+      "decimals": 18
+    }
+  },
+  {
+    "extract_time": 1743074096.0480058,
     "id": "sushi",
     "symbol": "sushi",
     "name": "Sushi",
-    "market_cap": 135530375,
-    "current_price": 0.703187,
     "contract_address": "0x947950bcc74888a40ffa2593c5798f11fc9124c4",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png?1696512101",
     "local_image": "sushi.png",
     "alchemy_metadata": {
       "name": "SushiToken",
       "symbol": "SUSHI",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
-    "id": "alchemy-pay",
-    "symbol": "ach",
-    "name": "Alchemy Pay",
-    "market_cap": 129234534,
-    "current_price": 0.026141,
-    "contract_address": "0xbc7d6b50616989655afd682fb42743507003056d",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/12390/large/ACH_%281%29.png?1696512213",
-    "local_image": "alchemy-pay.png",
-    "alchemy_metadata": {
-      "name": "Alchemy",
-      "symbol": "ACH",
-      "decimals": 8,
-      "logo": null
-    }
-  },
-  {
-    "id": "delysium",
-    "symbol": "agi",
-    "name": "Delysium",
-    "market_cap": 126413227,
-    "current_price": 0.080083,
-    "contract_address": "0x818835503f55283cd51a4399f595e295a9338753",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/29299/large/AGI_logo_200.png?1696528251",
-    "local_image": "delysium.png",
-    "alchemy_metadata": {
-      "name": "AGI Token",
-      "symbol": "AGI",
-      "decimals": 18,
-      "logo": null
-    }
-  },
-  {
+    "extract_time": 1743074096.0480058,
     "id": "zignaly",
     "symbol": "zig",
     "name": "ZIGChain",
-    "market_cap": 126409874,
-    "current_price": 0.089713,
     "contract_address": "0x8c907e0a72c3d55627e853f4ec6a96b0c8771145",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/14796/large/zig.jpg?1731990265",
     "local_image": "zignaly.png",
     "alchemy_metadata": {
       "name": "ZigCoin",
       "symbol": "ZIG",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
-    "id": "non-playable-coin",
-    "symbol": "npc",
-    "name": "Non-Playable Coin",
-    "market_cap": 125514726,
-    "current_price": 0.01559421,
-    "contract_address": "0xfebfa339e44c28e2aa9e62ea1027c9cb4e378605",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/31193/large/NPC_200x200.png?1696530021",
-    "local_image": "non-playable-coin.png",
+    "extract_time": 1743074096.0480058,
+    "id": "delysium",
+    "symbol": "agi",
+    "name": "Delysium",
+    "contract_address": "0x818835503f55283cd51a4399f595e295a9338753",
+    "local_image": "delysium.png",
     "alchemy_metadata": {
-      "name": "Non-Playable Coin",
-      "symbol": "NPC",
-      "decimals": 18,
-      "logo": null
+      "name": "AGI Token",
+      "symbol": "AGI",
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
+    "id": "alchemy-pay",
+    "symbol": "ach",
+    "name": "Alchemy Pay",
+    "contract_address": "0xbc7d6b50616989655afd682fb42743507003056d",
+    "local_image": "alchemy-pay.png",
+    "alchemy_metadata": {
+      "name": "Alchemy",
+      "symbol": "ACH",
+      "decimals": 8
+    }
+  },
+  {
+    "extract_time": 1743074096.0480058,
     "id": "altlayer",
     "symbol": "alt",
     "name": "AltLayer",
-    "market_cap": 123992747,
-    "current_price": 0.04091631,
     "contract_address": "0x8457ca5040ad67fdebbcc8edce889a335bc0fbfb",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/34608/large/Logomark_200x200.png?1715107868",
     "local_image": "altlayer.png",
     "alchemy_metadata": {
       "name": "AltLayer Token",
       "symbol": "ALT",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
-    "id": "g-token",
-    "symbol": "g",
-    "name": "Gravity",
-    "market_cap": 122396301,
-    "current_price": 0.01692667,
-    "contract_address": "0x9c7beba8f6ef6643abd725e45a4e8387ef260649",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/39200/large/gravity.jpg?1721020647",
-    "local_image": "g-token.png",
-    "alchemy_metadata": {
-      "name": "Gravity",
-      "symbol": "G",
-      "decimals": 18,
-      "logo": null
-    }
-  },
-  {
-    "id": "paal-ai",
-    "symbol": "paal",
-    "name": "PAAL AI",
-    "market_cap": 121543055,
-    "current_price": 0.135271,
-    "contract_address": "0xbb1b031c591235408755ff4e0739cb88c5cf2507",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/30815/large/Paal_New_Logo_%281%29.png?1718160584",
-    "local_image": "paal-ai.png",
-    "alchemy_metadata": {
-      "name": "PAAL AI",
-      "symbol": "$PAAL",
-      "decimals": 18,
-      "logo": null
-    }
-  },
-  {
+    "extract_time": 1743074096.0480058,
     "id": "astherus-usdf",
     "symbol": "usdf",
     "name": "Astherus USDF",
-    "market_cap": 121116828,
-    "current_price": 0.999754,
     "contract_address": "0x5a110fc00474038f6c02e89c707d638602ea44b5",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/54133/large/USDF_LOGO.png?1738393978",
     "local_image": "astherus-usdf.png",
     "alchemy_metadata": {
       "name": "Astherus USDF",
       "symbol": "USDF",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
+    "id": "g-token",
+    "symbol": "g",
+    "name": "Gravity",
+    "contract_address": "0x9c7beba8f6ef6643abd725e45a4e8387ef260649",
+    "local_image": "g-token.png",
+    "alchemy_metadata": {
+      "name": "Gravity",
+      "symbol": "G",
+      "decimals": 18
+    }
+  },
+  {
+    "extract_time": 1743074096.0480058,
+    "id": "non-playable-coin",
+    "symbol": "npc",
+    "name": "Non-Playable Coin",
+    "contract_address": "0xfebfa339e44c28e2aa9e62ea1027c9cb4e378605",
+    "local_image": "non-playable-coin.png",
+    "alchemy_metadata": {
+      "name": "Non-Playable Coin",
+      "symbol": "NPC",
+      "decimals": 18
+    }
+  },
+  {
+    "extract_time": 1743074096.0480058,
+    "id": "paal-ai",
+    "symbol": "paal",
+    "name": "PAAL AI",
+    "contract_address": "0xbb1b031c591235408755ff4e0739cb88c5cf2507",
+    "local_image": "paal-ai.png",
+    "alchemy_metadata": {
+      "name": "PAAL AI",
+      "symbol": "$PAAL",
+      "decimals": 18
+    }
+  },
+  {
+    "extract_time": 1743074096.0480058,
     "id": "nkyc-token",
     "symbol": "nkyc",
     "name": "NKYC Token",
-    "market_cap": 119438675,
-    "current_price": 29.87,
     "contract_address": "0x59769630b236398c2471eb26e6a529448030d94f",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/30337/large/NKYC-Logo.png?1696529238",
     "local_image": "nkyc-token.png",
     "alchemy_metadata": {
       "name": "NONKYC",
       "symbol": "NKYC",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "bitdca",
     "symbol": "bdca",
     "name": "BitDCA",
-    "market_cap": 117225210,
-    "current_price": 0.882725,
     "contract_address": "0x0c8382719ef242cae2247e4decb2891fbf699818",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/54590/large/bdca_logo_transparent200x200.png?1740562139",
     "local_image": "bitdca.png",
     "alchemy_metadata": {
       "name": "BDCA Token",
       "symbol": "BDCA",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
-    "id": "space-id",
-    "symbol": "id",
-    "name": "SPACE ID",
-    "market_cap": 113210884,
-    "current_price": 0.263379,
-    "contract_address": "0x2dff88a56767223a5529ea5960da7a3f5f766406",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/29468/large/sid_token_logo_%28green2%29.png?1696528413",
-    "local_image": "space-id.png",
-    "alchemy_metadata": {
-      "name": "SPACE ID",
-      "symbol": "ID",
-      "decimals": 18,
-      "logo": null
-    }
-  },
-  {
-    "id": "vicicoin",
-    "symbol": "vcnt",
-    "name": "ViciCoin",
-    "market_cap": 111341627,
-    "current_price": 19.59,
-    "contract_address": "0xc6bdfc4f2e90196738873e824a9efa03f7c64176",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/31305/large/ViciCoin_-_small.png?1696530124",
-    "local_image": "vicicoin.png",
-    "alchemy_metadata": {
-      "name": "ViciCoin",
-      "symbol": "VCNT",
-      "decimals": 18,
-      "logo": null
-    }
-  },
-  {
+    "extract_time": 1743074096.0480058,
     "id": "astherus-staked-bnb",
     "symbol": "asbnb",
     "name": "Astherus Staked BNB",
-    "market_cap": 110842147,
-    "current_price": 629.63,
     "contract_address": "0x77734e70b6e88b4d82fe632a168edf6e700912b6",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/54129/large/asBNB_logo_%28200x200%29.png?1738393597",
     "local_image": "astherus-staked-bnb.png",
     "alchemy_metadata": {
       "name": "Astherus BNB",
       "symbol": "asBNB",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
-    "id": "prometeus",
-    "symbol": "prom",
-    "name": "Prom",
-    "market_cap": 110783040,
-    "current_price": 6.07,
-    "contract_address": "0xaf53d56ff99f1322515e54fdde93ff8b3b7dafd5",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/8825/large/Ticker.png?1696508978",
-    "local_image": "prometeus.png",
+    "extract_time": 1743074096.0480058,
+    "id": "vicicoin",
+    "symbol": "vcnt",
+    "name": "ViciCoin",
+    "contract_address": "0xc6bdfc4f2e90196738873e824a9efa03f7c64176",
+    "local_image": "vicicoin.png",
     "alchemy_metadata": {
-      "name": "Prometeus",
-      "symbol": "PROM",
-      "decimals": 18,
-      "logo": null
+      "name": "ViciCoin",
+      "symbol": "VCNT",
+      "decimals": 18
     }
   },
   {
-    "id": "swftcoin",
-    "symbol": "swftc",
-    "name": "SWFTCOIN",
-    "market_cap": 109603991,
-    "current_price": 0.01096453,
-    "contract_address": "0xe64e30276c2f826febd3784958d6da7b55dfbad3",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/2346/large/SWFTCoin.jpg?1696503223",
-    "local_image": "swftcoin.png",
-    "alchemy_metadata": {
-      "name": "SwftCoin",
-      "symbol": "SWFTC",
-      "decimals": 18,
-      "logo": null
-    }
-  },
-  {
-    "id": "solo-coin",
-    "symbol": "solo",
-    "name": "Sologenic",
-    "market_cap": 109318639,
-    "current_price": 0.273896,
-    "contract_address": "0xc2c28b58db223da89b567a0a98197fc17c115148",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/10771/large/solo.png?1696510734",
-    "local_image": "solo-coin.png",
-    "alchemy_metadata": {
-      "name": "Sologenic",
-      "symbol": "SOLO",
-      "decimals": 15,
-      "logo": null
-    }
-  },
-  {
+    "extract_time": 1743074096.0480058,
     "id": "h2o-dao",
     "symbol": "h2o",
     "name": "H2O Dao",
-    "market_cap": 103989449,
-    "current_price": 0.131929,
     "contract_address": "0xaf3287cae99c982586c07401c0d911bf7de6cd82",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/24588/large/h2o-cg.jpg?1716876224",
     "local_image": "h2o-dao.png",
     "alchemy_metadata": {
       "name": "H2O DAO",
       "symbol": "H2O",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
-    "id": "venus",
-    "symbol": "xvs",
-    "name": "Venus",
-    "market_cap": 103940034,
-    "current_price": 6.27,
-    "contract_address": "0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/12677/large/XVS_Token.jpg?1727454303",
-    "local_image": "venus.png",
+    "extract_time": 1743074096.0480058,
+    "id": "space-id",
+    "symbol": "id",
+    "name": "SPACE ID",
+    "contract_address": "0x2dff88a56767223a5529ea5960da7a3f5f766406",
+    "local_image": "space-id.png",
     "alchemy_metadata": {
-      "name": "Venus",
-      "symbol": "XVS",
-      "decimals": 18,
-      "logo": null
+      "name": "SPACE ID",
+      "symbol": "ID",
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
+    "id": "prometeus",
+    "symbol": "prom",
+    "name": "Prom",
+    "contract_address": "0xaf53d56ff99f1322515e54fdde93ff8b3b7dafd5",
+    "local_image": "prometeus.png",
+    "alchemy_metadata": {
+      "name": "Prometeus",
+      "symbol": "PROM",
+      "decimals": 18
+    }
+  },
+  {
+    "extract_time": 1743074096.0480058,
+    "id": "swftcoin",
+    "symbol": "swftc",
+    "name": "SWFTCOIN",
+    "contract_address": "0xe64e30276c2f826febd3784958d6da7b55dfbad3",
+    "local_image": "swftcoin.png",
+    "alchemy_metadata": {
+      "name": "SwftCoin",
+      "symbol": "SWFTC",
+      "decimals": 18
+    }
+  },
+  {
+    "extract_time": 1743074096.0480058,
+    "id": "solo-coin",
+    "symbol": "solo",
+    "name": "Sologenic",
+    "contract_address": "0xc2c28b58db223da89b567a0a98197fc17c115148",
+    "local_image": "solo-coin.png",
+    "alchemy_metadata": {
+      "name": "Sologenic",
+      "symbol": "SOLO",
+      "decimals": 15
+    }
+  },
+  {
+    "extract_time": 1743074096.0480058,
     "id": "proton",
     "symbol": "xpr",
     "name": "XPR Network",
-    "market_cap": 103152011,
-    "current_price": 0.00378459,
     "contract_address": "0x5de3939b2f811a61d830e6f52d13b066881412ab",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/10941/large/XPR.jpg?1696510891",
     "local_image": "proton.png",
     "alchemy_metadata": {
       "name": "Proton",
       "symbol": "XPR",
-      "decimals": 4,
-      "logo": null
+      "decimals": 4
     }
   },
   {
+    "extract_time": 1743074096.0480058,
+    "id": "venus",
+    "symbol": "xvs",
+    "name": "Venus",
+    "contract_address": "0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63",
+    "local_image": "venus.png",
+    "alchemy_metadata": {
+      "name": "Venus",
+      "symbol": "XVS",
+      "decimals": 18
+    }
+  },
+  {
+    "extract_time": 1743074096.0480058,
     "id": "velo",
     "symbol": "velo",
     "name": "Velo",
-    "market_cap": 102612366,
-    "current_price": 0.01391544,
     "contract_address": "0xf486ad071f3bee968384d2e39e2d8af0fcf6fd46",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/12538/large/Logo_200x_200.png?1696512350",
     "local_image": "velo.png",
     "alchemy_metadata": {
       "name": "VELO",
       "symbol": "VELO",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
-    "id": "chromaway",
-    "symbol": "chr",
-    "name": "Chromia",
-    "market_cap": 95334546,
-    "current_price": 0.113387,
-    "contract_address": "0xf9cec8d50f6c8ad3fb6dccec577e05aa32b224fe",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/5000/large/Chromia.png?1696505533",
-    "local_image": "chromaway.png",
-    "alchemy_metadata": {
-      "name": "Chroma",
-      "symbol": "CHR",
-      "decimals": 6,
-      "logo": null
-    }
-  },
-  {
+    "extract_time": 1743074096.0480058,
     "id": "everipedia",
     "symbol": "iq",
     "name": "IQ",
-    "market_cap": 95271277,
-    "current_price": 0.00456177,
     "contract_address": "0x0e37d70b51ffa2b98b4d34a5712c5291115464e3",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/5010/large/YAIS3fUh.png?1696505542",
     "local_image": "everipedia.png",
     "alchemy_metadata": {
       "name": "Everipedia IQ",
       "symbol": "IQ",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
-    "id": "crvusd",
-    "symbol": "crvusd",
-    "name": "crvUSD",
-    "market_cap": 92743026,
-    "current_price": 0.999731,
-    "contract_address": "0xe2fb3f127f5450dee44afe054385d74c392bdef4",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/30118/large/0xf939e0a03fb07f59a73314e73794be0e57ac1b4e.png?1721097561",
-    "local_image": "crvusd.png",
-    "alchemy_metadata": {
-      "name": "Curve.fi USD Stablecoin",
-      "symbol": "crvUSD",
-      "decimals": 18,
-      "logo": null
-    }
-  },
-  {
+    "extract_time": 1743074096.0480058,
     "id": "global-commercial-business",
     "symbol": "gcb",
     "name": "Global Commercial Business",
-    "market_cap": 92083131,
-    "current_price": 0.07664,
     "contract_address": "0x84f70be4deb029d5f8aacbeacc74c4dc10737342",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/39089/large/gcbt.png?1720461904",
     "local_image": "global-commercial-business.png",
     "alchemy_metadata": {
       "name": "GCB",
       "symbol": "GCB",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
+    "id": "chromaway",
+    "symbol": "chr",
+    "name": "Chromia",
+    "contract_address": "0xf9cec8d50f6c8ad3fb6dccec577e05aa32b224fe",
+    "local_image": "chromaway.png",
+    "alchemy_metadata": {
+      "name": "Chroma",
+      "symbol": "CHR",
+      "decimals": 6
+    }
+  },
+  {
+    "extract_time": 1743074096.0480058,
+    "id": "crvusd",
+    "symbol": "crvusd",
+    "name": "crvUSD",
+    "contract_address": "0xe2fb3f127f5450dee44afe054385d74c392bdef4",
+    "local_image": "crvusd.png",
+    "alchemy_metadata": {
+      "name": "Curve.fi USD Stablecoin",
+      "symbol": "crvUSD",
+      "decimals": 18
+    }
+  },
+  {
+    "extract_time": 1743074096.0480058,
     "id": "yield-guild-games",
     "symbol": "ygg",
     "name": "Yield Guild Games",
-    "market_cap": 91783894,
-    "current_price": 0.213634,
     "contract_address": "0x13ab6739368a4e4abf24695bf52959224367391f",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/17358/large/Shield_Mark_-_Colored_-_Iridescent.png?1696516909",
     "local_image": "yield-guild-games.png",
     "alchemy_metadata": {
       "name": "Yield Guild Games Token",
       "symbol": "YGG",
-      "decimals": 18,
-      "logo": null
-    }
-  },
-  {
-    "id": "dogelon-mars",
-    "symbol": "elon",
-    "name": "Dogelon Mars",
-    "market_cap": 90116389,
-    "current_price": 1.63702e-7,
-    "contract_address": "0x7bd6fabd64813c48545c9c0e312a0099d9be2540",
-    "chain": "binance-smart-chain",
-    "image_url": "https://coin-images.coingecko.com/coins/images/14962/large/6GxcPRo3_400x400.jpg?1696514622",
-    "local_image": "dogelon-mars.png",
-    "alchemy_metadata": {
-      "name": "Dogelon Mars",
-      "symbol": "ELON",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   }
 ]

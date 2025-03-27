@@ -1,1102 +1,902 @@
 [
   {
+    "extract_time": 1743074096.0480058,
     "id": "tether",
     "symbol": "usdt",
     "name": "Tether",
-    "market_cap": 144183410813,
-    "current_price": 1.0,
     "contract_address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
-    "local_image": "tether.png"
+    "local_image": "tether.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "solana",
     "symbol": "sol",
     "name": "Solana",
-    "market_cap": 71418607783,
-    "current_price": 139.69,
     "contract_address": "native",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/4128/large/solana.png?1718769756",
-    "local_image": "solana.png"
+    "local_image": "solana.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "usd-coin",
     "symbol": "usdc",
     "name": "USDC",
-    "market_cap": 60161596743,
-    "current_price": 0.999787,
     "contract_address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/6319/large/usdc.png?1696506694",
-    "local_image": "usd-coin.png"
+    "local_image": "usd-coin.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "usds",
     "symbol": "usds",
     "name": "USDS",
-    "market_cap": 8311444723,
-    "current_price": 0.999808,
     "contract_address": "USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/39926/large/usds.webp?1726666683",
-    "local_image": "usds.png"
+    "local_image": "usds.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "ethena-usde",
     "symbol": "usde",
     "name": "Ethena USDe",
-    "market_cap": 5369202998,
-    "current_price": 0.999242,
     "contract_address": "DEkqHyPN7GMRJ5cArtQFAWefqbZb33Hyf6s5iCwjEonT",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/33613/large/usde.png?1733810059",
-    "local_image": "ethena-usde.png"
+    "local_image": "ethena-usde.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "coinbase-wrapped-btc",
     "symbol": "cbbtc",
     "name": "Coinbase Wrapped BTC",
-    "market_cap": 2789878248,
-    "current_price": 87657,
     "contract_address": "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/40143/large/cbbtc.webp?1726136727",
-    "local_image": "coinbase-wrapped-btc.png"
+    "local_image": "coinbase-wrapped-btc.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "first-digital-usd",
     "symbol": "fdusd",
     "name": "First Digital USD",
-    "market_cap": 2484766052,
-    "current_price": 0.998717,
     "contract_address": "9zNQRsGLjNKwCUU5Gq5LR8beUCPzQMVMqKAi3SSZh54u",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/31079/large/FDUSD_icon_black.png?1731097953",
-    "local_image": "first-digital-usd.png"
+    "local_image": "first-digital-usd.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "official-trump",
     "symbol": "trump",
     "name": "Official Trump",
-    "market_cap": 2318749611,
-    "current_price": 11.62,
     "contract_address": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/53746/large/trump.png?1737171561",
-    "local_image": "official-trump.png"
+    "local_image": "official-trump.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "render-token",
     "symbol": "render",
     "name": "Render",
-    "market_cap": 2083181177,
-    "current_price": 4.03,
     "contract_address": "rndrizKT3MK1iimdxRdWabcF7Zg7AR5T4nud4EkHBof",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/11636/large/rndr.png?1696511529",
-    "local_image": "render-token.png"
+    "local_image": "render-token.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "blackrock-usd-institutional-digital-liquidity-fund",
     "symbol": "buidl",
     "name": "BlackRock USD Institutional Digital Liquidity Fund",
-    "market_cap": 1955277111,
-    "current_price": 1.0,
     "contract_address": "GyWgeqpy5GueU2YbkE8xqUeVEokCMMCEeUrfbtMw6phr",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/36291/large/blackrock.png?1711013223",
-    "local_image": "blackrock-usd-institutional-digital-liquidity-fund.png"
+    "local_image": "blackrock-usd-institutional-digital-liquidity-fund.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "jupiter-exchange-solana",
     "symbol": "jup",
     "name": "Jupiter",
-    "market_cap": 1488452390,
-    "current_price": 0.55297,
     "contract_address": "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/34188/large/jup.png?1704266489",
-    "local_image": "jupiter-exchange-solana.png"
+    "local_image": "jupiter-exchange-solana.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "binance-staked-sol",
     "symbol": "bnsol",
     "name": "Binance Staked SOL",
-    "market_cap": 1112873334,
-    "current_price": 145.69,
     "contract_address": "BNso1VUJnh4zcfpZa6986Ea66P6TCp59hvtNJ8b1X85",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/40132/large/bnsol.png?1725968367",
-    "local_image": "binance-staked-sol.png"
+    "local_image": "binance-staked-sol.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "bonk",
     "symbol": "bonk",
     "name": "Bonk",
-    "market_cap": 1097403110,
-    "current_price": 1.419e-5,
     "contract_address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/28600/large/bonk.jpg?1696527587",
-    "local_image": "bonk.png"
+    "local_image": "bonk.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "paypal-usd",
     "symbol": "pyusd",
     "name": "PayPal USD",
-    "market_cap": 766326803,
-    "current_price": 1.0,
     "contract_address": "2b1kV6DkPAnxd5ixfnxCpjxmKwqjjaYmCZfHsFu24GXo",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/31212/large/PYUSD_Logo_%282%29.png?1696530039",
-    "local_image": "paypal-usd.png"
+    "local_image": "paypal-usd.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "jito-governance-token",
     "symbol": "jto",
     "name": "Jito",
-    "market_cap": 743862382,
-    "current_price": 2.41,
     "contract_address": "jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/33228/large/jto.png?1701137022",
-    "local_image": "jito-governance-token.png"
+    "local_image": "jito-governance-token.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "msol",
     "symbol": "msol",
     "name": "Marinade Staked SOL",
-    "market_cap": 679702456,
-    "current_price": 178.49,
     "contract_address": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/17752/large/mSOL.png?1696517278",
-    "local_image": "msol.png"
+    "local_image": "msol.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "pyth-network",
     "symbol": "pyth",
     "name": "Pyth Network",
-    "market_cap": 625688940,
-    "current_price": 0.172734,
     "contract_address": "HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/31924/large/pyth.png?1701245725",
-    "local_image": "pyth-network.png"
+    "local_image": "pyth-network.png",
+    "alchemy_metadata": {}
   },
   {
-    "id": "helium",
-    "symbol": "hnt",
-    "name": "Helium",
-    "market_cap": 608143598,
-    "current_price": 3.38,
-    "contract_address": "hntyVP6YFm1Hg25TN9WGLqM12b8TQmcknKrdu1oxWux",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/4284/large/Helium_HNT.png?1696504894",
-    "local_image": "helium.png"
-  },
-  {
-    "id": "raydium",
-    "symbol": "ray",
-    "name": "Raydium",
-    "market_cap": 606489685,
-    "current_price": 2.08,
-    "contract_address": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/13928/large/PSigc4ie_400x400.jpg?1696513668",
-    "local_image": "raydium.png"
-  },
-  {
+    "extract_time": 1743074096.0480058,
     "id": "jupiter-staked-sol",
     "symbol": "jupsol",
     "name": "Jupiter Staked SOL",
-    "market_cap": 590624923,
-    "current_price": 152.97,
     "contract_address": "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/37482/large/jupsol.png?1714473916",
-    "local_image": "jupiter-staked-sol.png"
+    "local_image": "jupiter-staked-sol.png",
+    "alchemy_metadata": {}
   },
   {
-    "id": "fartcoin",
-    "symbol": "fartcoin",
-    "name": "Fartcoin",
-    "market_cap": 580577739,
-    "current_price": 0.580581,
-    "contract_address": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/50891/large/fart.jpg?1729503972",
-    "local_image": "fartcoin.png"
+    "extract_time": 1743074096.0480058,
+    "id": "raydium",
+    "symbol": "ray",
+    "name": "Raydium",
+    "contract_address": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+    "local_image": "raydium.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
+    "id": "helium",
+    "symbol": "hnt",
+    "name": "Helium",
+    "contract_address": "hntyVP6YFm1Hg25TN9WGLqM12b8TQmcknKrdu1oxWux",
+    "local_image": "helium.png",
+    "alchemy_metadata": {}
+  },
+  {
+    "extract_time": 1743074096.0480058,
     "id": "spx6900",
     "symbol": "spx",
     "name": "SPX6900",
-    "market_cap": 570064833,
-    "current_price": 0.611462,
     "contract_address": "J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/31401/large/centeredcoin_%281%29.png?1737048493",
-    "local_image": "spx6900.png"
+    "local_image": "spx6900.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
+    "id": "fartcoin",
+    "symbol": "fartcoin",
+    "name": "Fartcoin",
+    "contract_address": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+    "local_image": "fartcoin.png",
+    "alchemy_metadata": {}
+  },
+  {
+    "extract_time": 1743074096.0480058,
     "id": "dogwifcoin",
     "symbol": "wif",
     "name": "dogwifhat",
-    "market_cap": 548501792,
-    "current_price": 0.550309,
     "contract_address": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/33566/large/dogwifhat.jpg?1702499428",
-    "local_image": "dogwifcoin.png"
+    "local_image": "dogwifcoin.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "virtual-protocol",
     "symbol": "virtual",
     "name": "Virtuals Protocol",
-    "market_cap": 492929129,
-    "current_price": 0.758472,
     "contract_address": "3iQL8BFS2vE7mww4ehAqQHAsbmRNCrPxizWAT2Zfyr9y",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/34057/large/LOGOMARK.png?1708356054",
-    "local_image": "virtual-protocol.png"
+    "local_image": "virtual-protocol.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "pudgy-penguins",
     "symbol": "pengu",
     "name": "Pudgy Penguins",
-    "market_cap": 457168616,
-    "current_price": 0.00728299,
     "contract_address": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-    "local_image": "pudgy-penguins.png"
+    "local_image": "pudgy-penguins.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "grass",
     "symbol": "grass",
     "name": "Grass",
-    "market_cap": 421405797,
-    "current_price": 1.53,
     "contract_address": "Grass7B4RdKfBCjTKgSqnXkqjwiGvQyFbuSCUJr3XXjs",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/40094/large/Grass.jpg?1725697048",
-    "local_image": "grass.png"
+    "local_image": "grass.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "ousg",
     "symbol": "ousg",
     "name": "OUSG",
-    "market_cap": 409560949,
-    "current_price": 110.46,
     "contract_address": "i7u4r16TcsJTgq1kAG8opmVZyVnAKBwLKu6ZPMwzxNc",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/29023/large/OUSG.png?1696527993",
-    "local_image": "ousg.png"
+    "local_image": "ousg.png",
+    "alchemy_metadata": {}
   },
   {
-    "id": "tbtc",
-    "symbol": "tbtc",
-    "name": "tBTC",
-    "market_cap": 388797414,
-    "current_price": 87379,
-    "contract_address": "6DNSN2BJsaPFdFFc1zP37kkeNe4Usc1Sqkzr9C9vPWcU",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/11224/large/0x18084fba666a33d37592fa2633fd49a74dd93a88.png?1696511155",
-    "local_image": "tbtc.png"
-  },
-  {
+    "extract_time": 1743074096.0480058,
     "id": "ondo-us-dollar-yield",
     "symbol": "usdy",
     "name": "Ondo US Dollar Yield",
-    "market_cap": 387861338,
-    "current_price": 1.096,
     "contract_address": "A1KLoBrKBde8Ty9qtNQUtq3C2ortoC3u7twggz7sEto6",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/31700/large/usdy_%281%29.png?1696530524",
-    "local_image": "ondo-us-dollar-yield.png"
+    "local_image": "ondo-us-dollar-yield.png",
+    "alchemy_metadata": {}
   },
   {
-    "id": "solayer",
-    "symbol": "layer",
-    "name": "Solayer",
-    "market_cap": 307276303,
-    "current_price": 1.46,
-    "contract_address": "LAYER4xPpTCb3QL8S9u41EAhAX7mhBn8Q6xMTwY2Yzc",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/53498/large/Layer_320x320.png?1737481230",
-    "local_image": "solayer.png"
+    "extract_time": 1743074096.0480058,
+    "id": "tbtc",
+    "symbol": "tbtc",
+    "name": "tBTC",
+    "contract_address": "6DNSN2BJsaPFdFFc1zP37kkeNe4Usc1Sqkzr9C9vPWcU",
+    "local_image": "tbtc.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "wormhole",
     "symbol": "w",
     "name": "Wormhole",
-    "market_cap": 305284560,
-    "current_price": 0.104451,
     "contract_address": "85VBFQZC9TZkfaptBWjvUw7YbZjy52A6mjtPGjstQAmQ",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/35087/large/womrhole_logo_full_color_rgb_2000px_72ppi_fb766ac85a.png?1708688954",
-    "local_image": "wormhole.png"
+    "local_image": "wormhole.png",
+    "alchemy_metadata": {}
   },
   {
-    "id": "aethir",
-    "symbol": "ath",
-    "name": "Aethir",
-    "market_cap": 281188031,
-    "current_price": 0.03557927,
-    "contract_address": "Dm5BxyMetG3Aq5PaG1BrG7rBYqEMtnkjvPNMExfacVk7",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/36179/large/logogram_circle_dark_green_vb_green_%281%29.png?1718232706",
-    "local_image": "aethir.png"
-  },
-  {
-    "id": "cat-in-a-dogs-world",
-    "symbol": "mew",
-    "name": "cat in a dogs world",
-    "market_cap": 256128088,
-    "current_price": 0.00288131,
-    "contract_address": "MEW1gQWJ3nEXg2qgERiKu7FAFj79PHvQVREQUzScPP5",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/36440/large/MEW.png?1711442286",
-    "local_image": "cat-in-a-dogs-world.png"
-  },
-  {
+    "extract_time": 1743074096.0480058,
     "id": "meow",
     "symbol": "meow",
     "name": "MEOW",
-    "market_cap": 251649665,
-    "current_price": 0.00278173,
     "contract_address": "BUhS5coXEt9hcxN3JSpGYUWSKbNo96RsKu52LcMo12rf",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/38796/large/MEOW.png?1718897555",
-    "local_image": "meow.png"
+    "local_image": "meow.png",
+    "alchemy_metadata": {}
   },
   {
-    "id": "popcat",
-    "symbol": "popcat",
-    "name": "Popcat",
-    "market_cap": 243005265,
-    "current_price": 0.248437,
-    "contract_address": "7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/33760/large/image.jpg?1702964227",
-    "local_image": "popcat.png"
+    "extract_time": 1743074096.0480058,
+    "id": "aethir",
+    "symbol": "ath",
+    "name": "Aethir",
+    "contract_address": "Dm5BxyMetG3Aq5PaG1BrG7rBYqEMtnkjvPNMExfacVk7",
+    "local_image": "aethir.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
+    "id": "solayer",
+    "symbol": "layer",
+    "name": "Solayer",
+    "contract_address": "LAYER4xPpTCb3QL8S9u41EAhAX7mhBn8Q6xMTwY2Yzc",
+    "local_image": "solayer.png",
+    "alchemy_metadata": {}
+  },
+  {
+    "extract_time": 1743074096.0480058,
     "id": "chex-token",
     "symbol": "chex",
     "name": "CHEX Token",
-    "market_cap": 236144617,
-    "current_price": 0.236468,
     "contract_address": "6dKCoWjpj5MFU5gWDEFdpUUeBasBLK3wLEwhUzQPAa1e",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/10349/large/logo-white-bg-dark.png?1733475849",
-    "local_image": "chex-token.png"
+    "local_image": "chex-token.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
+    "id": "cat-in-a-dogs-world",
+    "symbol": "mew",
+    "name": "cat in a dogs world",
+    "contract_address": "MEW1gQWJ3nEXg2qgERiKu7FAFj79PHvQVREQUzScPP5",
+    "local_image": "cat-in-a-dogs-world.png",
+    "alchemy_metadata": {}
+  },
+  {
+    "extract_time": 1743074096.0480058,
+    "id": "popcat",
+    "symbol": "popcat",
+    "name": "Popcat",
+    "contract_address": "7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr",
+    "local_image": "popcat.png",
+    "alchemy_metadata": {}
+  },
+  {
+    "extract_time": 1743074096.0480058,
     "id": "baby-doge-coin",
     "symbol": "babydoge",
     "name": "Baby Doge Coin",
-    "market_cap": 235063452,
-    "current_price": 1.421e-9,
     "contract_address": "7dUKUopcNWW6CcU4eRxCHh1uiMh32zDrmGf6ufqhxann",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/16125/large/babydoge.jpg?1696515731",
-    "local_image": "baby-doge-coin.png"
+    "local_image": "baby-doge-coin.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "basic-attention-token",
     "symbol": "bat",
     "name": "Basic Attention",
-    "market_cap": 233551329,
-    "current_price": 0.156273,
     "contract_address": "EPeUFDgHRxs9xxEPVaL6kfGQvCon7jmAWKVUHuux1Tpz",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/677/large/basic-attention-token.png?1696501867",
-    "local_image": "basic-attention-token.png"
+    "local_image": "basic-attention-token.png",
+    "alchemy_metadata": {}
   },
   {
-    "id": "peanut-the-squirrel",
-    "symbol": "pnut",
-    "name": "Peanut the Squirrel",
-    "market_cap": 211906566,
-    "current_price": 0.211949,
-    "contract_address": "2qEHjDLDLbuBgRYvsxhc5D6uDWAivNFZGan56P1tpump",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/51301/large/Peanut_the_Squirrel.png?1734941241",
-    "local_image": "peanut-the-squirrel.png"
-  },
-  {
-    "id": "gigachad-2",
-    "symbol": "giga",
-    "name": "Gigachad",
-    "market_cap": 211894927,
-    "current_price": 0.02209213,
-    "contract_address": "63LfDmNb3MQ8mw9MtZ2To9bEA2M71kZUUGq5tiJxcqj9",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/34755/large/IMG_0015.png?1705957165",
-    "local_image": "gigachad-2.png"
-  },
-  {
+    "extract_time": 1743074096.0480058,
     "id": "ai16z",
     "symbol": "ai16z",
     "name": "ai16z",
-    "market_cap": 209811946,
-    "current_price": 0.190738,
     "contract_address": "HeLp6NuQkmYB4pYWo2zYs22mESHXPQYzXbB8n4V98jwC",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/51090/large/AI16Z.jpg?1730027175",
-    "local_image": "ai16z.png"
+    "local_image": "ai16z.png",
+    "alchemy_metadata": {}
   },
   {
-    "id": "frax-share",
-    "symbol": "fxs",
-    "name": "Frax Share",
-    "market_cap": 207286208,
-    "current_price": 2.33,
-    "contract_address": "6LX8BhMQ4Sy2otmAWj7Y5sKd9YTVVUgfMsBzT6B9W7ct",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/13423/large/Frax_Shares_icon.png?1696513183",
-    "local_image": "frax-share.png"
-  },
-  {
+    "extract_time": 1743074096.0480058,
     "id": "swissborg",
     "symbol": "borg",
     "name": "SwissBorg",
-    "market_cap": 204987465,
-    "current_price": 0.20859,
     "contract_address": "3dQTr7ror2QPKQ3GbBCokJUmjErGg8kTJzdnYjNfvi3Z",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/2117/large/YJUrRy7r_400x400.png?1696503083",
-    "local_image": "swissborg.png"
+    "local_image": "swissborg.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
+    "id": "peanut-the-squirrel",
+    "symbol": "pnut",
+    "name": "Peanut the Squirrel",
+    "contract_address": "2qEHjDLDLbuBgRYvsxhc5D6uDWAivNFZGan56P1tpump",
+    "local_image": "peanut-the-squirrel.png",
+    "alchemy_metadata": {}
+  },
+  {
+    "extract_time": 1743074096.0480058,
+    "id": "frax-share",
+    "symbol": "fxs",
+    "name": "Frax Share",
+    "contract_address": "6LX8BhMQ4Sy2otmAWj7Y5sKd9YTVVUgfMsBzT6B9W7ct",
+    "local_image": "frax-share.png",
+    "alchemy_metadata": {}
+  },
+  {
+    "extract_time": 1743074096.0480058,
     "id": "ordinals",
     "symbol": "ordi",
     "name": "ORDI",
-    "market_cap": 202905088,
-    "current_price": 9.67,
     "contract_address": "u9nmK5sQovm6ACVCQbbq8xUMpFqdPSYxdxVwXUX4sjY",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/30162/large/ordi.png?1696529082",
-    "local_image": "ordinals.png"
+    "local_image": "ordinals.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
+    "id": "gigachad-2",
+    "symbol": "giga",
+    "name": "Gigachad",
+    "contract_address": "63LfDmNb3MQ8mw9MtZ2To9bEA2M71kZUUGq5tiJxcqj9",
+    "local_image": "gigachad-2.png",
+    "alchemy_metadata": {}
+  },
+  {
+    "extract_time": 1743074096.0480058,
     "id": "global-dollar",
     "symbol": "usdg",
     "name": "Global Dollar",
-    "market_cap": 197231837,
-    "current_price": 1.0,
     "contract_address": "2u1tszSeqZ3qBWF3uNGPFc8TzMk2tdiwknnRMWGWjGWH",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/51281/large/GDN_USDG_Token_200x200.png?1730484111",
-    "local_image": "global-dollar.png"
+    "local_image": "global-dollar.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "drift-protocol",
     "symbol": "drift",
     "name": "Drift Protocol",
-    "market_cap": 195151392,
-    "current_price": 0.666465,
     "contract_address": "DriFtupJYLTosbwoN8koMbEYSx54aFAVLddWsbksjwg7",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/37509/large/DRIFT.png?1715842607",
-    "local_image": "drift-protocol.png"
+    "local_image": "drift-protocol.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "dog-go-to-the-moon-rune",
     "symbol": "dog",
     "name": "Dog (Bitcoin)",
-    "market_cap": 188013649,
-    "current_price": 0.00188087,
     "contract_address": "dog1viwbb2vWDpER5FrJ4YFG6gq6XuyFohUe9TXN65u",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/37352/large/DOGGOTOTHEMOON.png?1714096969",
-    "local_image": "dog-go-to-the-moon-rune.png"
+    "local_image": "dog-go-to-the-moon-rune.png",
+    "alchemy_metadata": {}
   },
   {
-    "id": "woo-network",
-    "symbol": "woo",
-    "name": "WOO",
-    "market_cap": 183291033,
-    "current_price": 0.095665,
-    "contract_address": "Dz8VutERqbHR2aFL5A3s1Ky4dG1unJT1jUFXXPaY9ytX",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/12921/large/WOO_Logos_2023_Profile_Pic_WOO.png?1696512709",
-    "local_image": "woo-network.png"
-  },
-  {
+    "extract_time": 1743074096.0480058,
     "id": "act-i-the-ai-prophecy",
     "symbol": "act",
     "name": "Act I The AI Prophecy",
-    "market_cap": 182886216,
-    "current_price": 0.192868,
     "contract_address": "GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/50984/large/ai_prophecy.jpg?1729653897",
-    "local_image": "act-i-the-ai-prophecy.png"
+    "local_image": "act-i-the-ai-prophecy.png",
+    "alchemy_metadata": {}
   },
   {
-    "id": "gmt-token",
-    "symbol": "gomining",
-    "name": "GoMining Token",
-    "market_cap": 180792107,
-    "current_price": 0.440744,
-    "contract_address": "3KzAE8dPyJRgZ36Eh81v7WPwi6dm7bDhdMb8EAus2RAf",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/15662/large/GoMining_Logo.png?1714757256",
-    "local_image": "gmt-token.png"
-  },
-  {
+    "extract_time": 1743074096.0480058,
     "id": "turbo",
     "symbol": "turbo",
     "name": "Turbo",
-    "market_cap": 180655081,
-    "current_price": 0.00261677,
     "contract_address": "2Dyzu65QA9zdX1UeE7Gx71k7fiwyUK6sZdrvJ7auq5wm",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/30117/large/TurboMark-QL_200.png?1708079597",
-    "local_image": "turbo.png"
+    "local_image": "turbo.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
+    "id": "woo-network",
+    "symbol": "woo",
+    "name": "WOO",
+    "contract_address": "Dz8VutERqbHR2aFL5A3s1Ky4dG1unJT1jUFXXPaY9ytX",
+    "local_image": "woo-network.png",
+    "alchemy_metadata": {}
+  },
+  {
+    "extract_time": 1743074096.0480058,
+    "id": "gmt-token",
+    "symbol": "gomining",
+    "name": "GoMining Token",
+    "contract_address": "3KzAE8dPyJRgZ36Eh81v7WPwi6dm7bDhdMb8EAus2RAf",
+    "local_image": "gmt-token.png",
+    "alchemy_metadata": {}
+  },
+  {
+    "extract_time": 1743074096.0480058,
     "id": "threshold-network-token",
     "symbol": "t",
     "name": "Threshold Network",
-    "market_cap": 172013554,
-    "current_price": 0.01698725,
     "contract_address": "4Njvi3928U3figEF5tf8xvjLC5GqUN33oe4XTJNe7xXC",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/22228/large/nFPNiSbL_400x400.jpg?1696521570",
-    "local_image": "threshold-network-token.png"
+    "local_image": "threshold-network-token.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "metaplex",
     "symbol": "mplx",
     "name": "Metaplex",
-    "market_cap": 170149658,
-    "current_price": 0.217824,
     "contract_address": "METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/27344/large/mplx.png?1696526391",
-    "local_image": "metaplex.png"
+    "local_image": "metaplex.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "magic-eden",
     "symbol": "me",
     "name": "Magic Eden",
-    "market_cap": 169435084,
-    "current_price": 1.27,
     "contract_address": "MEFNBXixkEbait3xn9bkm8WsJzXtVsaJEn4c8Sam21u",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/39850/large/_ME_Profile_Dark_2x.png?1734013082",
-    "local_image": "magic-eden.png"
+    "local_image": "magic-eden.png",
+    "alchemy_metadata": {}
   },
   {
-    "id": "bio-protocol",
-    "symbol": "bio",
-    "name": "Bio Protocol",
-    "market_cap": 164070713,
-    "current_price": 0.101043,
-    "contract_address": "bioJ9JTqW62MLz7UKHU69gtKhPpGi1BQhccj2kmSvUJ",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/53022/large/bio.jpg?1735011002",
-    "local_image": "bio-protocol.png"
-  },
-  {
-    "id": "hivemapper",
-    "symbol": "honey",
-    "name": "Hivemapper",
-    "market_cap": 163722782,
-    "current_price": 0.03955146,
-    "contract_address": "4vMsoUT2BWatFweudnQM1xedRLfJgJ7hswhcpz4xgBTy",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/28388/large/honey.png?1696527388",
-    "local_image": "hivemapper.png"
-  },
-  {
-    "id": "orca",
-    "symbol": "orca",
-    "name": "Orca",
-    "market_cap": 158332582,
-    "current_price": 2.85,
-    "contract_address": "orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/17547/large/Orca_Logo.png?1696517083",
-    "local_image": "orca.png"
-  },
-  {
-    "id": "stepn",
-    "symbol": "gmt",
-    "name": "GMT",
-    "market_cap": 157520460,
-    "current_price": 0.057203,
-    "contract_address": "7i5KKsX2weiTkry7jA4ZwSuXGhs5eJBEjY8vVxR4pfRx",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/23597/large/token-gmt-200x200.png?1703153841",
-    "local_image": "stepn.png"
-  },
-  {
+    "extract_time": 1743074096.0480058,
     "id": "zeus-network",
     "symbol": "zeus",
     "name": "Zeus Network",
-    "market_cap": 156012615,
-    "current_price": 0.407837,
     "contract_address": "ZEUS1aR7aX8DFFJf5QjWj2ftDDdNTroMNGo8YoQm3Gq",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/36692/large/logo-v1.png?1712427948",
-    "local_image": "zeus-network.png"
+    "local_image": "zeus-network.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
+    "id": "hivemapper",
+    "symbol": "honey",
+    "name": "Hivemapper",
+    "contract_address": "4vMsoUT2BWatFweudnQM1xedRLfJgJ7hswhcpz4xgBTy",
+    "local_image": "hivemapper.png",
+    "alchemy_metadata": {}
+  },
+  {
+    "extract_time": 1743074096.0480058,
+    "id": "bio-protocol",
+    "symbol": "bio",
+    "name": "Bio Protocol",
+    "contract_address": "bioJ9JTqW62MLz7UKHU69gtKhPpGi1BQhccj2kmSvUJ",
+    "local_image": "bio-protocol.png",
+    "alchemy_metadata": {}
+  },
+  {
+    "extract_time": 1743074096.0480058,
+    "id": "stepn",
+    "symbol": "gmt",
+    "name": "GMT",
+    "contract_address": "7i5KKsX2weiTkry7jA4ZwSuXGhs5eJBEjY8vVxR4pfRx",
+    "local_image": "stepn.png",
+    "alchemy_metadata": {}
+  },
+  {
+    "extract_time": 1743074096.0480058,
+    "id": "orca",
+    "symbol": "orca",
+    "name": "Orca",
+    "contract_address": "orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE",
+    "local_image": "orca.png",
+    "alchemy_metadata": {}
+  },
+  {
+    "extract_time": 1743074096.0480058,
     "id": "euro-coin",
     "symbol": "eurc",
     "name": "EURC",
-    "market_cap": 149430492,
-    "current_price": 1.077,
     "contract_address": "HzwqbKZw8HxMN6bF2yFZNrht3c2iXXzpKcFu7uBEDKtr",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/26045/large/euro.png?1696525125",
-    "local_image": "euro-coin.png"
+    "local_image": "euro-coin.png",
+    "alchemy_metadata": {}
   },
   {
-    "id": "bybit-staked-sol",
-    "symbol": "bbsol",
-    "name": "Bybit Staked SOL",
-    "market_cap": 146747322,
-    "current_price": 149.65,
-    "contract_address": "Bybit2vBJGhPF52GBdNaQfUJ6ZpThSgHBobjWZpLPb4B",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/40095/large/400x400.png?1725628094",
-    "local_image": "bybit-staked-sol.png"
-  },
-  {
+    "extract_time": 1743074096.0480058,
     "id": "saros-finance",
     "symbol": "saros",
     "name": "Saros",
-    "market_cap": 146505391,
-    "current_price": 0.055827,
     "contract_address": "SarosY6Vscao718M4A778z4CGtvcwcGef5M9MEH1LGL",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/34594/large/saros-token-logo.png?1705476813",
-    "local_image": "saros-finance.png"
+    "local_image": "saros-finance.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
+    "id": "bybit-staked-sol",
+    "symbol": "bbsol",
+    "name": "Bybit Staked SOL",
+    "contract_address": "Bybit2vBJGhPF52GBdNaQfUJ6ZpThSgHBobjWZpLPb4B",
+    "local_image": "bybit-staked-sol.png",
+    "alchemy_metadata": {}
+  },
+  {
+    "extract_time": 1743074096.0480058,
     "id": "sushi",
     "symbol": "sushi",
     "name": "Sushi",
-    "market_cap": 135530375,
-    "current_price": 0.703187,
     "contract_address": "ChVzxWRmrTeSgwd3Ui3UumcN8KX7VK3WaD4KGeSKpypj",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png?1696512101",
-    "local_image": "sushi.png"
+    "local_image": "sushi.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "io",
     "symbol": "io",
     "name": "io.net",
-    "market_cap": 133824398,
-    "current_price": 0.908044,
     "contract_address": "BZLbGTNCSFfoth2GYDtwr7e4imWzpR5jqcUuGEwr646K",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/37754/large/io_blackbg.png?1715446363",
-    "local_image": "io.png"
+    "local_image": "io.png",
+    "alchemy_metadata": {}
   },
   {
-    "id": "delysium",
-    "symbol": "agi",
-    "name": "Delysium",
-    "market_cap": 126413227,
-    "current_price": 0.080083,
-    "contract_address": "8bUbe1ujsM1G3JEbBWVVCXa2widmuPdKUB2rGKMYFw7R",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/29299/large/AGI_logo_200.png?1696528251",
-    "local_image": "delysium.png"
-  },
-  {
+    "extract_time": 1743074096.0480058,
     "id": "zignaly",
     "symbol": "zig",
     "name": "ZIGChain",
-    "market_cap": 126409874,
-    "current_price": 0.089713,
     "contract_address": "26f12PmBk77wQV1TzLe8XKkNBvMFggbuypxdtMLzNLzz",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/14796/large/zig.jpg?1731990265",
-    "local_image": "zignaly.png"
+    "local_image": "zignaly.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
+    "id": "delysium",
+    "symbol": "agi",
+    "name": "Delysium",
+    "contract_address": "8bUbe1ujsM1G3JEbBWVVCXa2widmuPdKUB2rGKMYFw7R",
+    "local_image": "delysium.png",
+    "alchemy_metadata": {}
+  },
+  {
+    "extract_time": 1743074096.0480058,
     "id": "non-playable-coin",
     "symbol": "npc",
     "name": "Non-Playable Coin",
-    "market_cap": 125514726,
-    "current_price": 0.01559421,
     "contract_address": "BeGY8KqKxboEwRbJd1q9H2K829jS4Rc5dEyNMYXCbV5p",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/31193/large/NPC_200x200.png?1696530021",
-    "local_image": "non-playable-coin.png"
+    "local_image": "non-playable-coin.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "book-of-meme",
     "symbol": "bome",
     "name": "BOOK OF MEME",
-    "market_cap": 114457565,
-    "current_price": 0.00166001,
     "contract_address": "ukHH6c7mMyiWCf1b9pnWe25TSpkDDt3H5pQZgZ74J82",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/36071/large/bome.png?1710407255",
-    "local_image": "book-of-meme.png"
+    "local_image": "book-of-meme.png",
+    "alchemy_metadata": {}
   },
   {
-    "id": "bonfida",
-    "symbol": "fida",
-    "name": "Solana Name Service",
-    "market_cap": 114415476,
-    "current_price": 0.115485,
-    "contract_address": "EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/13395/large/bonfida.png?1696513157",
-    "local_image": "bonfida.png"
-  },
-  {
+    "extract_time": 1743074096.0480058,
     "id": "aixbt",
     "symbol": "aixbt",
     "name": "aixbt by Virtuals",
-    "market_cap": 107867910,
-    "current_price": 0.125978,
     "contract_address": "14zP2ToQ79XWvc7FQpm4bRnp9d6Mp1rFfsUW3gpLcRX",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/51784/large/3.png?1731981138",
-    "local_image": "aixbt.png"
+    "local_image": "aixbt.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
+    "id": "bonfida",
+    "symbol": "fida",
+    "name": "Solana Name Service",
+    "contract_address": "EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp",
+    "local_image": "bonfida.png",
+    "alchemy_metadata": {}
+  },
+  {
+    "extract_time": 1743074096.0480058,
     "id": "uxd-protocol-token",
     "symbol": "uxp",
     "name": "UXD Protocol",
-    "market_cap": 104179042,
-    "current_price": 0.01488272,
     "contract_address": "UXPhBoR3qG4UCiGNJfV7MqhHyFqKN68g45GoYvAeL2M",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/20319/large/UXP.jpg?1696519722",
-    "local_image": "uxd-protocol-token.png"
+    "local_image": "uxd-protocol-token.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "drift-staked-sol",
     "symbol": "dsol",
     "name": "Drift Staked SOL",
-    "market_cap": 103064602,
-    "current_price": 153.35,
     "contract_address": "Dso1bDeDjCQxTrWHqUUi63oBvV7Mdm6WaobLbQ7gnPQ",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/37479/large/solana.png?1714471411",
-    "local_image": "drift-staked-sol.png"
+    "local_image": "drift-staked-sol.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "sonic-svm",
     "symbol": "sonic",
     "name": "Sonic SVM",
-    "market_cap": 102175613,
-    "current_price": 0.284158,
     "contract_address": "SonicxvLud67EceaEzCLRnMTBqzYUUYNr93DBkBdDES",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/53061/large/Token.png?1735169618",
-    "local_image": "sonic-svm.png"
+    "local_image": "sonic-svm.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "melania-meme",
     "symbol": "melania",
     "name": "Melania Meme",
-    "market_cap": 100048507,
-    "current_price": 0.667359,
     "contract_address": "FUAfBo2jgks6gB4Z4LfZkqSZgzNucisEHqnNebaRxM1P",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/53775/large/melania-meme.png?1737329885",
-    "local_image": "melania-meme.png"
+    "local_image": "melania-meme.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "solayer-staked-sol",
     "symbol": "ssol",
     "name": "Solayer Staked SOL",
-    "market_cap": 95760702,
-    "current_price": 149.0,
     "contract_address": "sSo14endRuUbvQaJS3dq36Q829a3A6BEfoeeRGJywEh",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/39933/large/image_%283%29.png?1731705921",
-    "local_image": "solayer-staked-sol.png"
+    "local_image": "solayer-staked-sol.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "dogelon-mars",
     "symbol": "elon",
     "name": "Dogelon Mars",
-    "market_cap": 90116389,
-    "current_price": 1.63702e-7,
     "contract_address": "7ZCm8WBN9aLa3o47SoYctU6iLdj7wkGG5SV2hE5CgtD5",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/14962/large/6GxcPRo3_400x400.jpg?1696514622",
-    "local_image": "dogelon-mars.png"
+    "local_image": "dogelon-mars.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "heyanon",
     "symbol": "anon",
     "name": "Hey Anon",
-    "market_cap": 87363990,
-    "current_price": 6.67,
     "contract_address": "9McvH6w97oewLmPxqQEoHUAv3u5iYMyQ9AeZZhguYf1T",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/52961/large/AAI__ANON_SQ_Wb_250x250.png?1740500195",
-    "local_image": "heyanon.png"
+    "local_image": "heyanon.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "carv",
     "symbol": "carv",
     "name": "CARV",
-    "market_cap": 84085344,
-    "current_price": 0.379698,
     "contract_address": "AFJtnuqGMaj5jAo6Pwxo28r1f7XAXXTSA8q3rG3q8b4A",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/37689/large/CARV_%281%29.png?1728418485",
-    "local_image": "carv.png"
+    "local_image": "carv.png",
+    "alchemy_metadata": {}
   },
   {
-    "id": "m2-global-wealth-limited-mmx",
-    "symbol": "mmx",
-    "name": "MMX",
-    "market_cap": 81723324,
-    "current_price": 0.519107,
-    "contract_address": "8bd3PSBp15xbjjCJzEJDrQDPiBTXgAJtgoxTcmXxytWL",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/33161/large/mmx.png?1700830276",
-    "local_image": "m2-global-wealth-limited-mmx.png"
-  },
-  {
-    "id": "geodnet",
-    "symbol": "geod",
-    "name": "Geodnet",
-    "market_cap": 80162217,
-    "current_price": 0.252708,
-    "contract_address": "7JA5eZdCzztSfQbJvS8aVVxMFfd81Rs9VvwnocV1mKHu",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/31608/large/Circular_White.png?1696530424",
-    "local_image": "geodnet.png"
-  },
-  {
-    "id": "paxos-standard",
-    "symbol": "usdp",
-    "name": "Pax Dollar",
-    "market_cap": 79347237,
-    "current_price": 1.002,
-    "contract_address": "HVbpJAQGNpkgBaYBZQBR1t7yFdvaYVp2vCQQfKKEN4tM",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/6013/large/Pax_Dollar.png?1696506427",
-    "local_image": "paxos-standard.png"
-  },
-  {
+    "extract_time": 1743074096.0480058,
     "id": "kamino",
     "symbol": "kmno",
     "name": "Kamino",
-    "market_cap": 78901170,
-    "current_price": 0.058437,
     "contract_address": "KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/35801/large/tP0Lcgwp_400x400.jpg?1709824189",
-    "local_image": "kamino.png"
+    "local_image": "kamino.png",
+    "alchemy_metadata": {}
   },
   {
-    "id": "alchemist-ai",
-    "symbol": "alch",
-    "name": "Alchemist AI",
-    "market_cap": 76733538,
-    "current_price": 0.090116,
-    "contract_address": "HNg5PYJmtqcmzXrv6S9zP1CDKk5BgDuyFBxbvNApump",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/52302/large/small-logo.png?1733053544",
-    "local_image": "alchemist-ai.png"
+    "extract_time": 1743074096.0480058,
+    "id": "geodnet",
+    "symbol": "geod",
+    "name": "Geodnet",
+    "contract_address": "7JA5eZdCzztSfQbJvS8aVVxMFfd81Rs9VvwnocV1mKHu",
+    "local_image": "geodnet.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
+    "id": "paxos-standard",
+    "symbol": "usdp",
+    "name": "Pax Dollar",
+    "contract_address": "HVbpJAQGNpkgBaYBZQBR1t7yFdvaYVp2vCQQfKKEN4tM",
+    "local_image": "paxos-standard.png",
+    "alchemy_metadata": {}
+  },
+  {
+    "extract_time": 1743074096.0480058,
     "id": "zebec-network",
     "symbol": "zbcn",
     "name": "Zebec Network",
-    "market_cap": 75107927,
-    "current_price": 0.00098476,
     "contract_address": "ZBCNpuD7YMXzTHB2fhGkGi78MNsHGLRXUhRewNRm9RU",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/37052/large/zbcn.jpeg?1713168241",
-    "local_image": "zebec-network.png"
+    "local_image": "zebec-network.png",
+    "alchemy_metadata": {}
   },
   {
-    "id": "renzo-restaked-sol",
-    "symbol": "ezsol",
-    "name": "Renzo Restaked SOL",
-    "market_cap": 70059099,
-    "current_price": 165.31,
-    "contract_address": "ezSoL6fY1PVdJcJsUpe5CM3xkfmy3zoVCABybm5WtiC",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/39705/large/ezSOL_Logo.png?1730786654",
-    "local_image": "renzo-restaked-sol.png"
+    "extract_time": 1743074096.0480058,
+    "id": "alchemist-ai",
+    "symbol": "alch",
+    "name": "Alchemist AI",
+    "contract_address": "HNg5PYJmtqcmzXrv6S9zP1CDKk5BgDuyFBxbvNApump",
+    "local_image": "alchemist-ai.png",
+    "alchemy_metadata": {}
   },
   {
-    "id": "tensor",
-    "symbol": "tnsr",
-    "name": "Tensor",
-    "market_cap": 69909330,
-    "current_price": 0.209017,
-    "contract_address": "TNSRxcUxoT9xBG3de7PiJyTDYu7kskLqcpddxnEJAS6",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/35972/large/tnsr.png?1712687367",
-    "local_image": "tensor.png"
-  },
-  {
-    "id": "solend",
-    "symbol": "slnd",
-    "name": "Solend",
-    "market_cap": 69360419,
-    "current_price": 0.310533,
-    "contract_address": "SLNDpmoWTVADgEdndyvWzroNL7zSi1dF9PC3xHGtPwp",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/19573/large/logo.webp?1733979407",
-    "local_image": "solend.png"
-  },
-  {
-    "id": "coin98",
-    "symbol": "c98",
-    "name": "Coin98",
-    "market_cap": 69156709,
-    "current_price": 0.076795,
-    "contract_address": "C98A4nkJXhpVZNAZdHUA95RpTF3T4whtQubL3YobiUX9",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/17117/large/logo.png?1696516677",
-    "local_image": "coin98.png"
-  },
-  {
+    "extract_time": 1743074096.0480058,
     "id": "pepecoin-2",
     "symbol": "pepecoin",
     "name": "PepeCoin",
-    "market_cap": 68702746,
-    "current_price": 0.635931,
     "contract_address": "EXJvx3KksbWP9QmPmtRr8mkQXD2kZrFRENCJitMs1eZ6",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/30219/large/pepecoin-icon_200x200.png?1735790725",
-    "local_image": "pepecoin-2.png"
+    "local_image": "pepecoin-2.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
+    "id": "tensor",
+    "symbol": "tnsr",
+    "name": "Tensor",
+    "contract_address": "TNSRxcUxoT9xBG3de7PiJyTDYu7kskLqcpddxnEJAS6",
+    "local_image": "tensor.png",
+    "alchemy_metadata": {}
+  },
+  {
+    "extract_time": 1743074096.0480058,
+    "id": "solend",
+    "symbol": "slnd",
+    "name": "Solend",
+    "contract_address": "SLNDpmoWTVADgEdndyvWzroNL7zSi1dF9PC3xHGtPwp",
+    "local_image": "solend.png",
+    "alchemy_metadata": {}
+  },
+  {
+    "extract_time": 1743074096.0480058,
+    "id": "renzo-restaked-sol",
+    "symbol": "ezsol",
+    "name": "Renzo Restaked SOL",
+    "contract_address": "ezSoL6fY1PVdJcJsUpe5CM3xkfmy3zoVCABybm5WtiC",
+    "local_image": "renzo-restaked-sol.png",
+    "alchemy_metadata": {}
+  },
+  {
+    "extract_time": 1743074096.0480058,
+    "id": "coin98",
+    "symbol": "c98",
+    "name": "Coin98",
+    "contract_address": "C98A4nkJXhpVZNAZdHUA95RpTF3T4whtQubL3YobiUX9",
+    "local_image": "coin98.png",
+    "alchemy_metadata": {}
+  },
+  {
+    "extract_time": 1743074096.0480058,
     "id": "apollo-diversified-credit-securitize-fund",
     "symbol": "acred",
     "name": "Apollo Diversified Credit Securitize Fund",
-    "market_cap": 65509238,
-    "current_price": 1010.0,
     "contract_address": "FubtUcvhSCr3VPXEcxouoQjKQ7NWTCzXyECe76B7L3f8",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/54809/large/ACRED.png?1741801356",
-    "local_image": "apollo-diversified-credit-securitize-fund.png"
+    "local_image": "apollo-diversified-credit-securitize-fund.png",
+    "alchemy_metadata": {}
   },
   {
-    "id": "degen-base",
-    "symbol": "degen",
-    "name": "Degen",
-    "market_cap": 63754955,
-    "current_price": 0.00350122,
-    "contract_address": "A7n89LqW67HJKzJkdWZa2xojuK4N5GBKHz3dfjATCZPz",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/34515/large/android-chrome-512x512.png?1706198225",
-    "local_image": "degen-base.png"
-  },
-  {
+    "extract_time": 1743074096.0480058,
     "id": "corgiai",
     "symbol": "corgiai",
     "name": "CorgiAI",
-    "market_cap": 63688740,
-    "current_price": 0.00018556,
     "contract_address": "79F32BvHBE49gPsvypYTGzcpWGvt66mgvenQow3mJjXu",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/30933/large/Token.png?1696529775",
-    "local_image": "corgiai.png"
+    "local_image": "corgiai.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "goatseus-maximus",
     "symbol": "goat",
     "name": "Goatseus Maximus",
-    "market_cap": 63487579,
-    "current_price": 0.063471,
     "contract_address": "CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/50717/large/GOAT_LOGO_NEW.jpg?1731292759",
-    "local_image": "goatseus-maximus.png"
+    "local_image": "goatseus-maximus.png",
+    "alchemy_metadata": {}
   },
   {
-    "id": "ponke",
-    "symbol": "ponke",
-    "name": "PONKE",
-    "market_cap": 62332692,
-    "current_price": 0.113464,
-    "contract_address": "5z3EqYQo9HiCEs3R84RCDMu2n7anpDMxRhdK8PSWmrRC",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/33929/large/ponke.jpeg?1738897723",
-    "local_image": "ponke.png"
+    "extract_time": 1743074096.0480058,
+    "id": "degen-base",
+    "symbol": "degen",
+    "name": "Degen",
+    "contract_address": "A7n89LqW67HJKzJkdWZa2xojuK4N5GBKHz3dfjATCZPz",
+    "local_image": "degen-base.png",
+    "alchemy_metadata": {}
   },
   {
-    "id": "access-protocol",
-    "symbol": "acs",
-    "name": "Access Protocol",
-    "market_cap": 61819507,
-    "current_price": 0.00151179,
-    "contract_address": "5MAYDfq5yxtudAhtfyuMBuHZjgAbaS9tbEyEQYAhDS5y",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/28747/large/dR4FovX4_400x400.jpg?1696527727",
-    "local_image": "access-protocol.png"
-  },
-  {
-    "id": "autonolas",
-    "symbol": "olas",
-    "name": "Autonolas",
-    "market_cap": 60638872,
-    "current_price": 0.379176,
-    "contract_address": "Ez3nzG9ofodYCvEmw73XhQ87LWNYVRM2s7diB5tBZPyM",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/31099/large/OLAS-token.png?1696529930",
-    "local_image": "autonolas.png"
-  },
-  {
+    "extract_time": 1743074096.0480058,
     "id": "nosana",
     "symbol": "nos",
     "name": "Nosana",
-    "market_cap": 60528766,
-    "current_price": 0.725822,
     "contract_address": "nosXBVoaCTtYdLvKY6Csb4AC8JCdQKKAaWYtx2ZMoo7",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/22553/large/POfb_I4u_400x400.jpg?1696521873",
-    "local_image": "nosana.png"
+    "local_image": "nosana.png",
+    "alchemy_metadata": {}
   },
   {
-    "id": "harrypotterobamasonic10in",
-    "symbol": "bitcoin",
-    "name": "HarryPotterObamaSonic10Inu (ETH)",
-    "market_cap": 59551987,
-    "current_price": 0.059583,
-    "contract_address": "CTgiaZUK12kCcB8sosn4Nt2NZtzLgtPqDwyQyr2syATC",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/30323/large/hpos10i_logo_casino_night-dexview.png?1696529224",
-    "local_image": "harrypotterobamasonic10in.png"
+    "extract_time": 1743074096.0480058,
+    "id": "ponke",
+    "symbol": "ponke",
+    "name": "PONKE",
+    "contract_address": "5z3EqYQo9HiCEs3R84RCDMu2n7anpDMxRhdK8PSWmrRC",
+    "local_image": "ponke.png",
+    "alchemy_metadata": {}
   },
   {
-    "id": "layer3",
-    "symbol": "l3",
-    "name": "Layer3",
-    "market_cap": 58604475,
-    "current_price": 0.102376,
-    "contract_address": "5k84VjAKoGPXa7ias1BNgKUrX7e61eMPWhZDqsiD4Bpe",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/37768/large/Square.png?1722045128",
-    "local_image": "layer3.png"
+    "extract_time": 1743074096.0480058,
+    "id": "access-protocol",
+    "symbol": "acs",
+    "name": "Access Protocol",
+    "contract_address": "5MAYDfq5yxtudAhtfyuMBuHZjgAbaS9tbEyEQYAhDS5y",
+    "local_image": "access-protocol.png",
+    "alchemy_metadata": {}
   },
   {
+    "extract_time": 1743074096.0480058,
+    "id": "autonolas",
+    "symbol": "olas",
+    "name": "Autonolas",
+    "contract_address": "Ez3nzG9ofodYCvEmw73XhQ87LWNYVRM2s7diB5tBZPyM",
+    "local_image": "autonolas.png",
+    "alchemy_metadata": {}
+  },
+  {
+    "extract_time": 1743074096.0480058,
     "id": "der-daku",
     "symbol": "daku",
     "name": "Daku",
-    "market_cap": 58324349,
-    "current_price": 0.058174,
     "contract_address": "HRiLLm6hYiSdniFGjvcSvQ7XJrA8YSoktcqFbWjmpump",
-    "chain": "solana",
-    "image_url": "https://coin-images.coingecko.com/coins/images/53161/large/IMG_3161.png?1742358032",
-    "local_image": "der-daku.png"
+    "local_image": "der-daku.png",
+    "alchemy_metadata": {}
+  },
+  {
+    "extract_time": 1743074096.0480058,
+    "id": "comedian",
+    "symbol": "ban",
+    "name": "Comedian",
+    "contract_address": "9PR7nCP9DpcUotnDPVLUBUZKu5WAYkwrCUx9wDnSpump",
+    "local_image": "comedian.png",
+    "alchemy_metadata": {}
+  },
+  {
+    "extract_time": 1743074096.0480058,
+    "id": "harrypotterobamasonic10in",
+    "symbol": "bitcoin",
+    "name": "HarryPotterObamaSonic10Inu (ETH)",
+    "contract_address": "CTgiaZUK12kCcB8sosn4Nt2NZtzLgtPqDwyQyr2syATC",
+    "local_image": "harrypotterobamasonic10in.png",
+    "alchemy_metadata": {}
+  },
+  {
+    "extract_time": 1743074096.0480058,
+    "id": "layer3",
+    "symbol": "l3",
+    "name": "Layer3",
+    "contract_address": "5k84VjAKoGPXa7ias1BNgKUrX7e61eMPWhZDqsiD4Bpe",
+    "local_image": "layer3.png",
+    "alchemy_metadata": {}
   }
 ]

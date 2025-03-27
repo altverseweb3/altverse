@@ -1,1702 +1,1302 @@
 [
   {
+    "extract_time": 1743074096.0480058,
     "id": "usd-coin",
     "symbol": "usdc",
     "name": "USDC",
-    "market_cap": 60161596743,
-    "current_price": 0.999787,
     "contract_address": "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/6319/large/usdc.png?1696506694",
     "local_image": "usd-coin.png",
     "alchemy_metadata": {
       "name": "USDC",
       "symbol": "USDC",
-      "decimals": 6,
-      "logo": "https://static.alchemyapi.io/images/assets/3408.png"
+      "decimals": 6
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "chainlink",
     "symbol": "link",
     "name": "Chainlink",
-    "market_cap": 9987592436,
-    "current_price": 15.66,
     "contract_address": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/877/large/chainlink-new-logo.png?1696502009",
     "local_image": "chainlink.png",
     "alchemy_metadata": {
       "name": "Chainlink",
       "symbol": "LINK",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/1975.png"
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "mantra-dao",
     "symbol": "om",
     "name": "MANTRA",
-    "market_cap": 6509042157,
-    "current_price": 6.61,
     "contract_address": "0xc3ec80343d2bae2f8e680fdadde7c17e71e114ea",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/12151/large/OM_Token.png?1696511991",
     "local_image": "mantra-dao.png",
     "alchemy_metadata": {
       "name": "MANTRA",
       "symbol": "OM",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/6536.png"
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "uniswap",
     "symbol": "uni",
     "name": "Uniswap",
-    "market_cap": 4117339931,
-    "current_price": 6.86,
     "contract_address": "0xb33eaad8d922b1083446dc23f610c2567fb5180f",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/12504/large/uniswap-logo.png?1720676669",
     "local_image": "uniswap.png",
     "alchemy_metadata": {
       "name": "Uniswap",
       "symbol": "UNI",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/7083.png"
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "aave",
     "symbol": "aave",
     "name": "Aave",
-    "market_cap": 2751872207,
-    "current_price": 182.49,
     "contract_address": "0xd6df932a45c0f255f85145f286ea0b292b21c90b",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/12645/large/aave-token-round.png?1720472354",
     "local_image": "aave.png",
     "alchemy_metadata": {
       "name": "Aave",
       "symbol": "AAVE",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/7278.png"
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "render-token",
     "symbol": "render",
     "name": "Render",
-    "market_cap": 2083181177,
-    "current_price": 4.03,
     "contract_address": "0x61299774020da444af134c82fa83e3810b309991",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/11636/large/rndr.png?1696511529",
     "local_image": "render-token.png",
     "alchemy_metadata": {
       "name": "Render",
       "symbol": "RENDER",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/5690.png"
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "polygon-ecosystem-token",
     "symbol": "pol",
     "name": "POL (ex-MATIC)",
-    "market_cap": 2044889405,
-    "current_price": 0.236611,
     "contract_address": "0x0000000000000000000000000000000000001010",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/32440/large/polygon.png?1698233684",
     "local_image": "polygon-ecosystem-token.png",
     "alchemy_metadata": {
       "name": "Matic Token",
       "symbol": "MATIC",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "blackrock-usd-institutional-digital-liquidity-fund",
     "symbol": "buidl",
     "name": "BlackRock USD Institutional Digital Liquidity Fund",
-    "market_cap": 1955277111,
-    "current_price": 1.0,
     "contract_address": "0x2893ef551b6dd69f661ac00f11d93e5dc5dc0e99",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/36291/large/blackrock.png?1711013223",
     "local_image": "blackrock-usd-institutional-digital-liquidity-fund.png",
     "alchemy_metadata": {
       "name": "BlackRock USD Institutional Digital Liquidity Fund",
       "symbol": "BUIDL",
-      "decimals": 6,
-      "logo": null
+      "decimals": 6
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "maker",
     "symbol": "mkr",
     "name": "Maker",
-    "market_cap": 1215809875,
-    "current_price": 1435.89,
     "contract_address": "0x6f7c932e7684666c9fd1d44527765433e01ff61d",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/1364/large/Mark_Maker.png?1696502423",
     "local_image": "maker.png",
     "alchemy_metadata": {
       "name": "MAKER (PoS)",
       "symbol": "MKR",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "nexo",
     "symbol": "nexo",
     "name": "NEXO",
-    "market_cap": 1182643150,
-    "current_price": 1.18,
     "contract_address": "0x41b3966b4ff7b427969ddf5da3627d6aeae9a48e",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/3695/large/CG-nexo-token-200x200_2x.png?1730414360",
     "local_image": "nexo.png",
     "alchemy_metadata": {
       "name": "Nexo",
       "symbol": "NEXO",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/2694.png"
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "bonk",
     "symbol": "bonk",
     "name": "Bonk",
-    "market_cap": 1097403110,
-    "current_price": 1.419e-5,
     "contract_address": "0xe5b49820e5a1063f6f4ddf851327b5e8b2301048",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/28600/large/bonk.jpg?1696527587",
     "local_image": "bonk.png",
     "alchemy_metadata": {
       "name": "Bonk",
       "symbol": "BONK",
-      "decimals": 5,
-      "logo": "https://static.alchemyapi.io/images/assets/23095.png"
+      "decimals": 5
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "the-graph",
     "symbol": "grt",
     "name": "The Graph",
-    "market_cap": 1019816756,
-    "current_price": 0.106823,
     "contract_address": "0x5fe2b58c013d7601147dcdd68c143a77499f5531",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/13397/large/Graph_Token.png?1696513159",
     "local_image": "the-graph.png",
     "alchemy_metadata": {
       "name": "Graph Token (PoS)",
       "symbol": "GRT",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "rocket-pool-eth",
     "symbol": "reth",
     "name": "Rocket Pool ETH",
-    "market_cap": 996959956,
-    "current_price": 2292.42,
     "contract_address": "0x0266f4f08d82372cf0fcbccc0ff74309089c74d1",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/20764/large/reth.png?1696520159",
     "local_image": "rocket-pool-eth.png",
     "alchemy_metadata": {
       "name": "Rocket Pool ETH (PoS)",
       "symbol": "rETH",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "lido-dao",
     "symbol": "ldo",
     "name": "Lido DAO",
-    "market_cap": 946581666,
-    "current_price": 1.056,
     "contract_address": "0xc3c7d422809852031b44ab29eec9f1eff2a58756",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/13573/large/Lido_DAO.png?1696513326",
     "local_image": "lido-dao.png",
     "alchemy_metadata": {
       "name": "Lido DAO Token (PoS)",
       "symbol": "LDO",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "polygon-bridged-usdt-polygon",
     "symbol": "usdt",
     "name": "Polygon Bridged USDT (Polygon)",
-    "market_cap": 814209458,
-    "current_price": 1.0,
     "contract_address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/35023/large/USDT.png?1707233644",
     "local_image": "polygon-bridged-usdt-polygon.png",
     "alchemy_metadata": {
       "name": "Tether USDt",
       "symbol": "USDT",
-      "decimals": 6,
-      "logo": "https://static.alchemyapi.io/images/assets/825.png"
+      "decimals": 6
     }
   },
   {
-    "id": "the-sandbox",
-    "symbol": "sand",
-    "name": "The Sandbox",
-    "market_cap": 766696049,
-    "current_price": 0.313509,
-    "contract_address": "0xbbba073c31bf03b8acf7c28ef0738decf3695683",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/12129/large/sandbox_logo.jpg?1696511971",
-    "local_image": "the-sandbox.png",
-    "alchemy_metadata": {
-      "name": "The Sandbox",
-      "symbol": "SAND",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/6210.png"
-    }
-  },
-  {
+    "extract_time": 1743074096.0480058,
     "id": "curve-dao-token",
     "symbol": "crv",
     "name": "Curve DAO",
-    "market_cap": 758437610,
-    "current_price": 0.580499,
     "contract_address": "0x172370d5cd63279efa6d502dab29171933a610af",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/12124/large/Curve.png?1696511967",
     "local_image": "curve-dao-token.png",
     "alchemy_metadata": {
       "name": "Curve DAO Token",
       "symbol": "CRV",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/6538.png"
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
+    "id": "the-sandbox",
+    "symbol": "sand",
+    "name": "The Sandbox",
+    "contract_address": "0xbbba073c31bf03b8acf7c28ef0738decf3695683",
+    "local_image": "the-sandbox.png",
+    "alchemy_metadata": {
+      "name": "The Sandbox",
+      "symbol": "SAND",
+      "decimals": 18
+    }
+  },
+  {
+    "extract_time": 1743074096.0480058,
     "id": "telcoin",
     "symbol": "tel",
     "name": "Telcoin",
-    "market_cap": 558561680,
-    "current_price": 0.00608553,
     "contract_address": "0xdf7837de1f2fa4631d716cf2502f8b230f1dcc32",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/1899/large/tel.png?1696502892",
     "local_image": "telcoin.png",
     "alchemy_metadata": {
       "name": "Telcoin",
       "symbol": "TEL",
-      "decimals": 2,
-      "logo": "https://static.alchemyapi.io/images/assets/2394.png"
+      "decimals": 2
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "decentraland",
     "symbol": "mana",
     "name": "Decentraland",
-    "market_cap": 533653524,
-    "current_price": 0.285703,
     "contract_address": "0xa1c57f48f0deb89f569dfbe6e2b7f46d33606fd4",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/878/large/decentraland-mana.png?1696502010",
     "local_image": "decentraland.png",
     "alchemy_metadata": {
       "name": "(PoS) Decentraland MANA",
       "symbol": "MANA",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "bridged-usdc-polygon-pos-bridge",
     "symbol": "usdc.e",
     "name": "Bridged USDC (Polygon PoS Bridge)",
-    "market_cap": 465447530,
-    "current_price": 1.0,
     "contract_address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/33000/large/usdc.png?1700119918",
     "local_image": "bridged-usdc-polygon-pos-bridge.png",
     "alchemy_metadata": {
       "name": "USD Coin Bridged",
       "symbol": "USDCE",
-      "decimals": 6,
-      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/18852.png"
+      "decimals": 6
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "apecoin",
     "symbol": "ape",
     "name": "ApeCoin",
-    "market_cap": 454614280,
-    "current_price": 0.568619,
     "contract_address": "0xb7b31a6bc18e48888545ce79e83e06003be70930",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/24383/large/apecoin.jpg?1696523566",
     "local_image": "apecoin.png",
     "alchemy_metadata": {
       "name": "ApeCoin (PoS)",
       "symbol": "APE",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "ousg",
     "symbol": "ousg",
     "name": "OUSG",
-    "market_cap": 409560949,
-    "current_price": 110.46,
     "contract_address": "0xba11c5effa33c4d6f8f593cfa394241cfe925811",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/29023/large/OUSG.png?1696527993",
     "local_image": "ousg.png",
     "alchemy_metadata": {
       "name": "Ondo Short-Term U.S. Government Bond Fund",
       "symbol": "OUSG",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "compound-governance-token",
     "symbol": "comp",
     "name": "Compound",
-    "market_cap": 404046853,
-    "current_price": 45.21,
     "contract_address": "0x8505b9d2254a7ae468c0e9dd10ccea3a837aef5c",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/10775/large/COMP.png?1696510737",
     "local_image": "compound-governance-token.png",
     "alchemy_metadata": {
       "name": "(PoS) Compound",
       "symbol": "COMP",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "axelar",
     "symbol": "axl",
     "name": "Axelar",
-    "market_cap": 403958593,
-    "current_price": 0.430125,
     "contract_address": "0x6e4e624106cb12e168e6533f8ec7c82263358940",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/27277/large/V-65_xQ1_400x400.jpeg?1696526329",
     "local_image": "axelar.png",
     "alchemy_metadata": {
       "name": "Axelar",
       "symbol": "AXL",
-      "decimals": 6,
-      "logo": "https://static.alchemyapi.io/images/assets/17799.png"
+      "decimals": 6
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "tbtc",
     "symbol": "tbtc",
     "name": "tBTC",
-    "market_cap": 388797414,
-    "current_price": 87379,
     "contract_address": "0x236aa50979d5f3de3bd1eeb40e81137f22ab794b",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/11224/large/0x18084fba666a33d37592fa2633fd49a74dd93a88.png?1696511155",
     "local_image": "tbtc.png",
     "alchemy_metadata": {
       "name": "tBTC",
       "symbol": "TBTC",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/26133.png"
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "layerzero",
     "symbol": "zro",
     "name": "LayerZero",
-    "market_cap": 356463170,
-    "current_price": 3.21,
     "contract_address": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/28206/large/ftxG9_TJ_400x400.jpeg?1696527208",
     "local_image": "layerzero.png",
     "alchemy_metadata": {
       "name": "LayerZero",
       "symbol": "ZRO",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/26997.png"
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "frax",
     "symbol": "frax",
     "name": "Frax",
-    "market_cap": 348428060,
-    "current_price": 0.999229,
     "contract_address": "0x45c32fa6df82ead1e2ef74d17b76547eddfaff89",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/13422/large/frax-logo.png?1739780303",
     "local_image": "frax.png",
     "alchemy_metadata": {
       "name": "Frax",
       "symbol": "FRAX",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/6952.png"
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "binance-peg-busd",
     "symbol": "busd",
     "name": "Binance-Peg BUSD",
-    "market_cap": 324372250,
-    "current_price": 1.006,
     "contract_address": "0x9c9e5fd8bbc25984b178fdce6117defa39d2db39",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/31273/large/new_binance-peg-busd.png?1696530096",
     "local_image": "binance-peg-busd.png",
     "alchemy_metadata": {
       "name": "BUSD",
       "symbol": "BUSD",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/4687.png"
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "havven",
     "symbol": "snx",
     "name": "Synthetix Network",
-    "market_cap": 316543171,
-    "current_price": 0.933524,
     "contract_address": "0x50b728d8d964fd00c2d0aad81718b71311fef68a",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/3406/large/SNX.png?1696504103",
     "local_image": "havven.png",
     "alchemy_metadata": {
       "name": "Synthetix",
       "symbol": "SNX",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/2586.png"
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "polygon-pos-bridged-weth-polygon-pos",
     "symbol": "weth",
     "name": "Polygon PoS Bridged WETH (Polygon POS)",
-    "market_cap": 306812548,
-    "current_price": 2026.37,
     "contract_address": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/39708/large/WETH.PNG?1723730343",
     "local_image": "polygon-pos-bridged-weth-polygon-pos.png",
     "alchemy_metadata": {
       "name": "WETH",
       "symbol": "WETH",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/2396.png"
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "1inch",
     "symbol": "1inch",
     "name": "1inch",
-    "market_cap": 299191803,
-    "current_price": 0.2173,
     "contract_address": "0x9c2c5fd7b07e95ee044ddeba0e97a665f142394f",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/13469/large/1inch-token.png?1696513230",
     "local_image": "1inch.png",
     "alchemy_metadata": {
       "name": "1Inch (PoS)",
       "symbol": "1INCH",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "coinbase-wrapped-staked-eth",
     "symbol": "cbeth",
     "name": "Coinbase Wrapped Staked ETH",
-    "market_cap": 288666031,
-    "current_price": 2216.77,
     "contract_address": "0x4b4327db1600b8b1440163f667e199cef35385f5",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/27008/large/cbeth.png?1709186989",
     "local_image": "coinbase-wrapped-staked-eth.png",
     "alchemy_metadata": {
       "name": "Coinbase Wrapped Staked ETH (FXERC20)",
       "symbol": "fxcbETH",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "polygon-bridged-wbtc-polygon-pos",
     "symbol": "wbtc",
     "name": "Polygon Bridged WBTC (Polygon POS)",
-    "market_cap": 282289349,
-    "current_price": 87522,
     "contract_address": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/39530/large/wbtc.png?1722809402",
     "local_image": "polygon-bridged-wbtc-polygon-pos.png",
     "alchemy_metadata": {
       "name": "Wrapped Bitcoin",
       "symbol": "WBTC",
-      "decimals": 8,
-      "logo": "https://static.alchemyapi.io/images/assets/3717.png"
+      "decimals": 8
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "superfarm",
     "symbol": "super",
     "name": "SuperVerse",
-    "market_cap": 273710147,
-    "current_price": 0.604538,
     "contract_address": "0xa1428174f516f527fafdd146b883bb4428682737",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/14040/large/SV-Logo-200x200.png?1706880312",
     "local_image": "superfarm.png",
     "alchemy_metadata": {
       "name": "SuperVerse",
       "symbol": "SUPER",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/8290.png"
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "frax-ether",
     "symbol": "frxeth",
     "name": "Frax Ether",
-    "market_cap": 256241885,
-    "current_price": 2022.63,
     "contract_address": "0xee327f889d5947c1dc1934bb208a1e792f953e96",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/28284/large/frxETH_icon.png?1696527284",
     "local_image": "frax-ether.png",
     "alchemy_metadata": {
       "name": "Frax Finance - Frax Ether",
       "symbol": "FRXETH",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/23225.png"
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "basic-attention-token",
     "symbol": "bat",
     "name": "Basic Attention",
-    "market_cap": 233551329,
-    "current_price": 0.156273,
     "contract_address": "0x3cef98bb43d732e2f285ee605a8158cde967d219",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/677/large/basic-attention-token.png?1696501867",
     "local_image": "basic-attention-token.png",
     "alchemy_metadata": {
       "name": "Basic Attention Token (PoS)",
       "symbol": "BAT",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
-    "id": "stargate-finance",
-    "symbol": "stg",
-    "name": "Stargate Finance",
-    "market_cap": 224493276,
-    "current_price": 0.231575,
-    "contract_address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/24413/large/STG_LOGO.png?1696523595",
-    "local_image": "stargate-finance.png",
-    "alchemy_metadata": {
-      "name": "Stargate Finance",
-      "symbol": "STG",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/18934.png"
-    }
-  },
-  {
+    "extract_time": 1743074096.0480058,
     "id": "mask-network",
     "symbol": "mask",
     "name": "Mask Network",
-    "market_cap": 223432441,
-    "current_price": 2.23,
     "contract_address": "0x2b9e7ccdf0f4e5b24757c1e1a80e311e34cb10c7",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/14051/large/Mask_Network.jpg?1696513776",
     "local_image": "mask-network.png",
     "alchemy_metadata": {
       "name": "Mask Network",
       "symbol": "MASK",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/8536.png"
+      "decimals": 18
     }
   },
   {
-    "id": "frax-share",
-    "symbol": "fxs",
-    "name": "Frax Share",
-    "market_cap": 207286208,
-    "current_price": 2.33,
-    "contract_address": "0x1a3acf6d19267e2d3e7f898f42803e90c9219062",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/13423/large/Frax_Shares_icon.png?1696513183",
-    "local_image": "frax-share.png",
-    "alchemy_metadata": {
-      "name": "Frax Share",
-      "symbol": "FXS",
-      "decimals": 18,
-      "logo": null
-    }
-  },
-  {
+    "extract_time": 1743074096.0480058,
     "id": "instadapp",
     "symbol": "fluid",
     "name": "Fluid",
-    "market_cap": 203417241,
-    "current_price": 5.16,
     "contract_address": "0xf50d05a1402d0adafa880d36050736f9f6ee7dee",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/14688/large/Logo_1_%28brighter%29.png?1734430693",
     "local_image": "instadapp.png",
     "alchemy_metadata": {
       "name": "Instadapp (PoS)",
       "symbol": "INST",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
+    "id": "stargate-finance",
+    "symbol": "stg",
+    "name": "Stargate Finance",
+    "contract_address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+    "local_image": "stargate-finance.png",
+    "alchemy_metadata": {
+      "name": "Stargate Finance",
+      "symbol": "STG",
+      "decimals": 18
+    }
+  },
+  {
+    "extract_time": 1743074096.0480058,
+    "id": "frax-share",
+    "symbol": "fxs",
+    "name": "Frax Share",
+    "contract_address": "0x1a3acf6d19267e2d3e7f898f42803e90c9219062",
+    "local_image": "frax-share.png",
+    "alchemy_metadata": {
+      "name": "Frax Share",
+      "symbol": "FXS",
+      "decimals": 18
+    }
+  },
+  {
+    "extract_time": 1743074096.0480058,
     "id": "ankr",
     "symbol": "ankr",
     "name": "Ankr Network",
-    "market_cap": 199553096,
-    "current_price": 0.01996592,
     "contract_address": "0x101a023270368c0d50bffb62780f4afd4ea79c35",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/4324/large/U85xTl2.png?1696504928",
     "local_image": "ankr.png",
     "alchemy_metadata": {
       "name": "Ankr",
       "symbol": "ANKR",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/3783.png"
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "staked-frax-ether",
     "symbol": "sfrxeth",
     "name": "Staked Frax Ether",
-    "market_cap": 193393036,
-    "current_price": 2260.09,
     "contract_address": "0x6d1fdbb266fcc09a16a22016369210a15bb95761",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/28285/large/sfrxETH_icon.png?1696527285",
     "local_image": "staked-frax-ether.png",
     "alchemy_metadata": {
       "name": "Frax Staked Ether",
       "symbol": "SFRXETH",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/23177.png"
+      "decimals": 18
     }
   },
   {
-    "id": "woo-network",
-    "symbol": "woo",
-    "name": "WOO",
-    "market_cap": 183291033,
-    "current_price": 0.095665,
-    "contract_address": "0x1b815d120b3ef02039ee11dc2d33de7aa4a8c603",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/12921/large/WOO_Logos_2023_Profile_Pic_WOO.png?1696512709",
-    "local_image": "woo-network.png",
-    "alchemy_metadata": {
-      "name": "WOO",
-      "symbol": "WOO",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/7501.png"
-    }
-  },
-  {
+    "extract_time": 1743074096.0480058,
     "id": "yearn-finance",
     "symbol": "yfi",
     "name": "yearn.finance",
-    "market_cap": 183029454,
-    "current_price": 5418.54,
     "contract_address": "0xda537104d6a5edd53c6fbba9a898708e465260b6",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/11849/large/yearn.jpg?1696511720",
     "local_image": "yearn-finance.png",
     "alchemy_metadata": {
       "name": "(PoS) yearn.finance",
       "symbol": "YFI",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
+    "id": "woo-network",
+    "symbol": "woo",
+    "name": "WOO",
+    "contract_address": "0x1b815d120b3ef02039ee11dc2d33de7aa4a8c603",
+    "local_image": "woo-network.png",
+    "alchemy_metadata": {
+      "name": "WOO",
+      "symbol": "WOO",
+      "decimals": 18
+    }
+  },
+  {
+    "extract_time": 1743074096.0480058,
     "id": "stepn",
     "symbol": "gmt",
     "name": "GMT",
-    "market_cap": 157520460,
-    "current_price": 0.057203,
     "contract_address": "0x714db550b574b3e927af3d93e26127d15721d4c2",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/23597/large/token-gmt-200x200.png?1703153841",
     "local_image": "stepn.png",
     "alchemy_metadata": {
       "name": "GMT",
       "symbol": "GMT",
-      "decimals": 8,
-      "logo": "https://static.alchemyapi.io/images/assets/18069.png"
+      "decimals": 8
     }
   },
   {
-    "id": "sushi",
-    "symbol": "sushi",
-    "name": "Sushi",
-    "market_cap": 135530375,
-    "current_price": 0.703187,
-    "contract_address": "0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png?1696512101",
-    "local_image": "sushi.png",
-    "alchemy_metadata": {
-      "name": "SushiSwap",
-      "symbol": "SUSHI",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/6758.png"
-    }
-  },
-  {
-    "id": "stasis-eurs",
-    "symbol": "eurs",
-    "name": "STASIS EURO",
-    "market_cap": 134257770,
-    "current_price": 1.082,
-    "contract_address": "0xe111178a87a3bff0c8d18decba5798827539ae99",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/5164/large/EURS_300x300.png?1696505680",
-    "local_image": "stasis-eurs.png",
-    "alchemy_metadata": {
-      "name": "STASIS EURS Token (PoS)",
-      "symbol": "EURS",
-      "decimals": 2,
-      "logo": null
-    }
-  },
-  {
-    "id": "polygon-pos-bridged-dai-polygon-pos",
-    "symbol": "dai",
-    "name": "Polygon PoS Bridged DAI (Polygon POS)",
-    "market_cap": 133379913,
-    "current_price": 1.0,
-    "contract_address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/39787/large/dai.png?1724110678",
-    "local_image": "polygon-pos-bridged-dai-polygon-pos.png",
-    "alchemy_metadata": {
-      "name": "Dai",
-      "symbol": "DAI",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/4943.png"
-    }
-  },
-  {
+    "extract_time": 1743074096.0480058,
     "id": "eutbl",
     "symbol": "eutbl",
     "name": "Spiko EU T-Bills Money Market Fund",
-    "market_cap": 133341303,
-    "current_price": 1.11,
     "contract_address": "0xa0769f7a8fc65e47de93797b4e21c073c117fc80",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/39657/large/EUTBL.png?1723517425",
     "local_image": "eutbl.png",
     "alchemy_metadata": {
       "name": "Spiko EU T-Bills Money Market Fund",
       "symbol": "EUTBL",
-      "decimals": 5,
-      "logo": null
+      "decimals": 5
     }
   },
   {
+    "extract_time": 1743074096.0480058,
+    "id": "stasis-eurs",
+    "symbol": "eurs",
+    "name": "STASIS EURO",
+    "contract_address": "0xe111178a87a3bff0c8d18decba5798827539ae99",
+    "local_image": "stasis-eurs.png",
+    "alchemy_metadata": {
+      "name": "STASIS EURS Token (PoS)",
+      "symbol": "EURS",
+      "decimals": 2
+    }
+  },
+  {
+    "extract_time": 1743074096.0480058,
+    "id": "polygon-pos-bridged-dai-polygon-pos",
+    "symbol": "dai",
+    "name": "Polygon PoS Bridged DAI (Polygon POS)",
+    "contract_address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+    "local_image": "polygon-pos-bridged-dai-polygon-pos.png",
+    "alchemy_metadata": {
+      "name": "Dai",
+      "symbol": "DAI",
+      "decimals": 18
+    }
+  },
+  {
+    "extract_time": 1743074096.0480058,
+    "id": "sushi",
+    "symbol": "sushi",
+    "name": "Sushi",
+    "contract_address": "0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a",
+    "local_image": "sushi.png",
+    "alchemy_metadata": {
+      "name": "SushiSwap",
+      "symbol": "SUSHI",
+      "decimals": 18
+    }
+  },
+  {
+    "extract_time": 1743074096.0480058,
     "id": "zignaly",
     "symbol": "zig",
     "name": "ZIGChain",
-    "market_cap": 126409874,
-    "current_price": 0.089713,
     "contract_address": "0x7bebd226154e865954a87650faefa8f485d36081",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/14796/large/zig.jpg?1731990265",
     "local_image": "zignaly.png",
     "alchemy_metadata": {
       "name": "ZIGChain",
       "symbol": "ZIG",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/9260.png"
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "across-protocol",
     "symbol": "acx",
     "name": "Across Protocol",
-    "market_cap": 116580712,
-    "current_price": 0.28804,
     "contract_address": "0xf328b73b6c685831f238c30a23fc19140cb4d8fc",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/28161/large/across-200x200.png?1696527165",
     "local_image": "across-protocol.png",
     "alchemy_metadata": {
       "name": "Across Protocol Token (PoS)",
       "symbol": "ACX",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "rocket-pool",
     "symbol": "rpl",
     "name": "Rocket Pool",
-    "market_cap": 115860776,
-    "current_price": 5.46,
     "contract_address": "0x7205705771547cf79201111b4bd8aaf29467b9ec",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/2090/large/rocket_pool_%28RPL%29.png?1696503058",
     "local_image": "rocket-pool.png",
     "alchemy_metadata": {
       "name": "Rocket Pool (PoS)",
       "symbol": "RPL",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "vicicoin",
     "symbol": "vcnt",
     "name": "ViciCoin",
-    "market_cap": 111341627,
-    "current_price": 19.59,
     "contract_address": "0x8a16d4bf8a0a716017e8d2262c4ac32927797a2f",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/31305/large/ViciCoin_-_small.png?1696530124",
     "local_image": "vicicoin.png",
     "alchemy_metadata": {
       "name": "ViciCoin",
       "symbol": "VCNT",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/28656.png"
+      "decimals": 18
     }
   },
   {
-    "id": "gamebitcoin-power",
-    "symbol": "pwr",
-    "name": "Gamebitcoin Power",
-    "market_cap": 96157517,
-    "current_price": 0.112936,
-    "contract_address": "0xc2a7195cef4605bd80b949cd7eb1f7ad1566c850",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/53262/large/pwr_200x200.png?1735911290",
-    "local_image": "gamebitcoin-power.png",
-    "alchemy_metadata": {
-      "name": "Gamebitcoin Power",
-      "symbol": "PWR",
-      "decimals": 18,
-      "logo": null
-    }
-  },
-  {
+    "extract_time": 1743074096.0480058,
     "id": "everipedia",
     "symbol": "iq",
     "name": "IQ",
-    "market_cap": 95271277,
-    "current_price": 0.00456177,
     "contract_address": "0xb9638272ad6998708de56bbc0a290a1de534a578",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/5010/large/YAIS3fUh.png?1696505542",
     "local_image": "everipedia.png",
     "alchemy_metadata": {
       "name": "IQ",
       "symbol": "IQ",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/2930.png"
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "balancer",
     "symbol": "bal",
     "name": "Balancer",
-    "market_cap": 95135769,
-    "current_price": 1.52,
     "contract_address": "0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a3",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/11683/large/Balancer.png?1696511572",
     "local_image": "balancer.png",
     "alchemy_metadata": {
       "name": "Balancer",
       "symbol": "BAL",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/5728.png"
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "blockv",
     "symbol": "vee",
     "name": "BLOCKv",
-    "market_cap": 93290604,
-    "current_price": 0.02581795,
     "contract_address": "0xf1c1a3c2481a3a8a3f173a9ab5ade275292a6fa3",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/1266/large/blockv.png?1696502339",
     "local_image": "blockv.png",
     "alchemy_metadata": {
       "name": "BLOCKv",
       "symbol": "VEE",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/2223.png"
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "crvusd",
     "symbol": "crvusd",
     "name": "crvUSD",
-    "market_cap": 92743026,
-    "current_price": 0.999731,
     "contract_address": "0xc4ce1d6f5d98d65ee25cf85e9f2e9dcfee6cb5d6",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/30118/large/0xf939e0a03fb07f59a73314e73794be0e57ac1b4e.png?1721097561",
     "local_image": "crvusd.png",
     "alchemy_metadata": {
       "name": "crvUSD",
       "symbol": "CRVUSD",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/24927.png"
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
+    "id": "gamebitcoin-power",
+    "symbol": "pwr",
+    "name": "Gamebitcoin Power",
+    "contract_address": "0xc2a7195cef4605bd80b949cd7eb1f7ad1566c850",
+    "local_image": "gamebitcoin-power.png",
+    "alchemy_metadata": {
+      "name": "Gamebitcoin Power",
+      "symbol": "PWR",
+      "decimals": 18
+    }
+  },
+  {
+    "extract_time": 1743074096.0480058,
     "id": "yield-guild-games",
     "symbol": "ygg",
     "name": "Yield Guild Games",
-    "market_cap": 91783894,
-    "current_price": 0.213634,
     "contract_address": "0x82617aa52dddf5ed9bb7b370ed777b3182a30fd1",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/17358/large/Shield_Mark_-_Colored_-_Iridescent.png?1696516909",
     "local_image": "yield-guild-games.png",
     "alchemy_metadata": {
       "name": "Yield Guild Games",
       "symbol": "YGG",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/10688.png"
+      "decimals": 18
     }
   },
   {
-    "id": "dogelon-mars",
-    "symbol": "elon",
-    "name": "Dogelon Mars",
-    "market_cap": 90116389,
-    "current_price": 1.63702e-7,
-    "contract_address": "0xe0339c80ffde91f3e20494df88d4206d86024cdf",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/14962/large/6GxcPRo3_400x400.jpg?1696514622",
-    "local_image": "dogelon-mars.png",
-    "alchemy_metadata": {
-      "name": "Dogelon Mars",
-      "symbol": "ELON",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/9436.png"
-    }
-  },
-  {
+    "extract_time": 1743074096.0480058,
     "id": "orbs",
     "symbol": "orbs",
     "name": "Orbs",
-    "market_cap": 89316363,
-    "current_price": 0.01962467,
     "contract_address": "0x614389eaae0a6821dc49062d56bda3d9d45fa2ff",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/4630/large/Orbs.jpg?1696505200",
     "local_image": "orbs.png",
     "alchemy_metadata": {
       "name": "Orbs",
       "symbol": "ORBS",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/3835.png"
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
+    "id": "dogelon-mars",
+    "symbol": "elon",
+    "name": "Dogelon Mars",
+    "contract_address": "0xe0339c80ffde91f3e20494df88d4206d86024cdf",
+    "local_image": "dogelon-mars.png",
+    "alchemy_metadata": {
+      "name": "Dogelon Mars",
+      "symbol": "ELON",
+      "decimals": 18
+    }
+  },
+  {
+    "extract_time": 1743074096.0480058,
     "id": "request-network",
     "symbol": "req",
     "name": "Request",
-    "market_cap": 87464499,
-    "current_price": 0.117522,
     "contract_address": "0xb25e20de2f2ebb4cffd4d16a55c7b395e8a94762",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/1031/large/Request_icon_green.png?1696502140",
     "local_image": "request-network.png",
     "alchemy_metadata": {
       "name": "Request",
       "symbol": "REQ",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/2071.png"
+      "decimals": 18
     }
   },
   {
-    "id": "tellor",
-    "symbol": "trb",
-    "name": "Tellor Tributes",
-    "market_cap": 84155250,
-    "current_price": 31.68,
-    "contract_address": "0xe3322702bedaaed36cddab233360b939775ae5f1",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/9644/large/TRB-New_Logo.png?1737722143",
-    "local_image": "tellor.png",
-    "alchemy_metadata": {
-      "name": "Tellor",
-      "symbol": "TRB",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/4944.png"
-    }
-  },
-  {
-    "id": "civic",
-    "symbol": "cvc",
-    "name": "Civic",
-    "market_cap": 82966116,
-    "current_price": 0.103414,
-    "contract_address": "0x66dc5a08091d1968e08c16aa5b27bac8398b02be",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/788/large/civic-orange.png?1696501939",
-    "local_image": "civic.png",
-    "alchemy_metadata": {
-      "name": "Civic (PoS)",
-      "symbol": "CVC",
-      "decimals": 8,
-      "logo": null
-    }
-  },
-  {
+    "extract_time": 1743074096.0480058,
     "id": "crypto-trading-fund",
     "symbol": "ctf",
     "name": "Crypto Trading Fund",
-    "market_cap": 82614109,
-    "current_price": 0.689244,
     "contract_address": "0x7b3bd12675c6b9d6993eb81283cb68e6eb9260b5",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/37122/large/33DE079C-182B-40D7-B26D-0D7E12158140.jpeg?1713366927",
     "local_image": "crypto-trading-fund.png",
     "alchemy_metadata": {
       "name": "CryptoTradingFund",
       "symbol": "CTF",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/29396.png"
+      "decimals": 18
     }
   },
   {
-    "id": "m2-global-wealth-limited-mmx",
-    "symbol": "mmx",
-    "name": "MMX",
-    "market_cap": 81723324,
-    "current_price": 0.519107,
-    "contract_address": "0x95a62521c655e7a24a3919aa1f99764c05b7ec4e",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/33161/large/mmx.png?1700830276",
-    "local_image": "m2-global-wealth-limited-mmx.png",
+    "extract_time": 1743074096.0480058,
+    "id": "tellor",
+    "symbol": "trb",
+    "name": "Tellor Tributes",
+    "contract_address": "0xe3322702bedaaed36cddab233360b939775ae5f1",
+    "local_image": "tellor.png",
     "alchemy_metadata": {
-      "name": "MMX",
-      "symbol": "MMX",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/28506.png"
+      "name": "Tellor",
+      "symbol": "TRB",
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
+    "id": "civic",
+    "symbol": "cvc",
+    "name": "Civic",
+    "contract_address": "0x66dc5a08091d1968e08c16aa5b27bac8398b02be",
+    "local_image": "civic.png",
+    "alchemy_metadata": {
+      "name": "Civic (PoS)",
+      "symbol": "CVC",
+      "decimals": 8
+    }
+  },
+  {
+    "extract_time": 1743074096.0480058,
     "id": "geodnet",
     "symbol": "geod",
     "name": "Geodnet",
-    "market_cap": 80162217,
-    "current_price": 0.252708,
     "contract_address": "0xac0f66379a6d7801d7726d5a943356a172549adb",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/31608/large/Circular_White.png?1696530424",
     "local_image": "geodnet.png",
     "alchemy_metadata": {
       "name": "GEODNET",
       "symbol": "GEOD",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/20969.png"
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "dodo",
     "symbol": "dodo",
     "name": "DODO",
-    "market_cap": 78302356,
-    "current_price": 0.078322,
     "contract_address": "0xe4bf2864ebec7b7fdf6eeca9bacae7cdfdaffe78",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/12651/large/dodo_logo.png?1696512458",
     "local_image": "dodo.png",
     "alchemy_metadata": {
       "name": "DODO bird (PoS)",
       "symbol": "DODO",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "spiko-us-t-bills-money-market-fund",
     "symbol": "ustbl",
     "name": "Spiko US T-Bills Money Market Fund",
-    "market_cap": 72823160,
-    "current_price": 1.038,
     "contract_address": "0xe4880249745eac5f1ed9d8f7df844792d560e750",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/39666/large/USTB.png?1723541269",
     "local_image": "spiko-us-t-bills-money-market-fund.png",
     "alchemy_metadata": {
       "name": "Spiko US T-Bills Money Market Fund",
       "symbol": "USTBL",
-      "decimals": 5,
-      "logo": null
+      "decimals": 5
     }
   },
   {
-    "id": "coin98",
-    "symbol": "c98",
-    "name": "Coin98",
-    "market_cap": 69156709,
-    "current_price": 0.076795,
-    "contract_address": "0x77f56cf9365955486b12c4816992388ee8606f0e",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/17117/large/logo.png?1696516677",
-    "local_image": "coin98.png",
-    "alchemy_metadata": {
-      "name": "Coin98",
-      "symbol": "C98",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/10903.png"
-    }
-  },
-  {
+    "extract_time": 1743074096.0480058,
     "id": "vanar-chain",
     "symbol": "vanry",
     "name": "Vanar Chain",
-    "market_cap": 67061637,
-    "current_price": 0.03464794,
     "contract_address": "0x8de5b80a0c1b02fe4976851d030b36122dbb8624",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/33466/large/apple-touch-icon.png?1701942541",
     "local_image": "vanar-chain.png",
     "alchemy_metadata": {
       "name": "Vanar Chain",
       "symbol": "VANRY",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/8037.png"
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "kyber-network-crystal",
     "symbol": "knc",
     "name": "Kyber Network Crystal",
-    "market_cap": 66673300,
-    "current_price": 0.391945,
     "contract_address": "0x1c954e8fe737f99f68fa1ccda3e51ebdb291948c",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/14899/large/RwdVsGcw_400x400.jpg?1696514562",
     "local_image": "kyber-network-crystal.png",
     "alchemy_metadata": {
       "name": "Kyber Network Crystal v2",
       "symbol": "KNC",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/9444.png"
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
+    "id": "coin98",
+    "symbol": "c98",
+    "name": "Coin98",
+    "contract_address": "0x77f56cf9365955486b12c4816992388ee8606f0e",
+    "local_image": "coin98.png",
+    "alchemy_metadata": {
+      "name": "Coin98",
+      "symbol": "C98",
+      "decimals": 18
+    }
+  },
+  {
+    "extract_time": 1743074096.0480058,
     "id": "apollo-diversified-credit-securitize-fund",
     "symbol": "acred",
     "name": "Apollo Diversified Credit Securitize Fund",
-    "market_cap": 65509238,
-    "current_price": 1010.0,
     "contract_address": "0xfce60bbc52a5705cec5b445501fbaf3274dc43d0",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/54809/large/ACRED.png?1741801356",
     "local_image": "apollo-diversified-credit-securitize-fund.png",
     "alchemy_metadata": {
       "name": "Apollo Diversified Credit Securitize Fund",
       "symbol": "ACRED",
-      "decimals": 6,
-      "logo": null
+      "decimals": 6
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "cartesi",
     "symbol": "ctsi",
     "name": "Cartesi",
-    "market_cap": 65121251,
-    "current_price": 0.075553,
     "contract_address": "0x2727ab1c2d22170abc9b595177b2d5c6e1ab7b7b",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/11038/large/Cartesi_Logo.png?1696510982",
     "local_image": "cartesi.png",
     "alchemy_metadata": {
       "name": "Cartesi",
       "symbol": "CTSI",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/5444.png"
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "bit2me",
     "symbol": "b2m",
     "name": "Bit2Me",
-    "market_cap": 60881941,
-    "current_price": 0.01230302,
     "contract_address": "0xe613a914bbb433855378183c3ab13003285da40a",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/19848/large/b2m-circle-solid-default.png?1696519271",
     "local_image": "bit2me.png",
     "alchemy_metadata": {
       "name": "Bit2Me",
       "symbol": "B2M",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/13901.png"
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "autonolas",
     "symbol": "olas",
     "name": "Autonolas",
-    "market_cap": 60638872,
-    "current_price": 0.379176,
     "contract_address": "0xfef5d947472e72efbb2e388c730b7428406f2f95",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/31099/large/OLAS-token.png?1696529930",
     "local_image": "autonolas.png",
     "alchemy_metadata": {
       "name": "Autonolas(PoS)",
       "symbol": "OLAS",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "layer3",
     "symbol": "l3",
     "name": "Layer3",
-    "market_cap": 58604475,
-    "current_price": 0.102376,
     "contract_address": "0x46777c76dbbe40fabb2aab99e33ce20058e76c59",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/37768/large/Square.png?1722045128",
     "local_image": "layer3.png",
     "alchemy_metadata": {
       "name": "Layer3",
       "symbol": "L3",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
-    "id": "alethea-artificial-liquid-intelligence-token",
-    "symbol": "ali",
-    "name": "Artificial Liquid Intelligence",
-    "market_cap": 57301644,
-    "current_price": 0.00699648,
-    "contract_address": "0xbfc70507384047aa74c29cdc8c5cb88d0f7213ac",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/22062/large/ALI-v2.webp?1728501978",
-    "local_image": "alethea-artificial-liquid-intelligence-token.png",
-    "alchemy_metadata": {
-      "name": "Artificial Liquid Intelligence",
-      "symbol": "ALI",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/16876.png"
-    }
-  },
-  {
+    "extract_time": 1743074096.0480058,
     "id": "osaka-protocol",
     "symbol": "osak",
     "name": "Osaka Protocol",
-    "market_cap": 55458369,
-    "current_price": 7.277e-8,
     "contract_address": "0x11cd72f7a4b699c67f225ca8abb20bc9f8db90c7",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/30911/large/OSAK_LOGO_200x200.png?1723662197",
     "local_image": "osaka-protocol.png",
     "alchemy_metadata": {
       "name": "Osaka Protocol",
       "symbol": "OSAK",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/27533.png"
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
+    "id": "alethea-artificial-liquid-intelligence-token",
+    "symbol": "ali",
+    "name": "Artificial Liquid Intelligence",
+    "contract_address": "0xbfc70507384047aa74c29cdc8c5cb88d0f7213ac",
+    "local_image": "alethea-artificial-liquid-intelligence-token.png",
+    "alchemy_metadata": {
+      "name": "Artificial Liquid Intelligence",
+      "symbol": "ALI",
+      "decimals": 18
+    }
+  },
+  {
+    "extract_time": 1743074096.0480058,
     "id": "ocean-protocol",
     "symbol": "ocean",
     "name": "Ocean Protocol",
-    "market_cap": 52137335,
-    "current_price": 0.24967,
     "contract_address": "0x282d8efce846a88b159800bd4130ad77443fa1a1",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/3687/large/ocean-protocol-logo.jpg?1696504363",
     "local_image": "ocean-protocol.png",
     "alchemy_metadata": {
       "name": "Ocean Token (PoS)",
       "symbol": "mOCEAN",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
+    "id": "m2-global-wealth-limited-mmx",
+    "symbol": "mmx",
+    "name": "MMX",
+    "contract_address": "0x95a62521c655e7a24a3919aa1f99764c05b7ec4e",
+    "local_image": "m2-global-wealth-limited-mmx.png",
+    "alchemy_metadata": {
+      "name": "MMX",
+      "symbol": "MMX",
+      "decimals": 18
+    }
+  },
+  {
+    "extract_time": 1743074096.0480058,
     "id": "cobak-token",
     "symbol": "cbk",
     "name": "Cobak",
-    "market_cap": 50830293,
-    "current_price": 0.549656,
     "contract_address": "0x4ec203dd0699fac6adaf483cdd2519bc05d2c573",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/13459/large/cbk-128-128.png?1696513222",
     "local_image": "cobak-token.png",
     "alchemy_metadata": {
       "name": "Cobak Token (PoS)",
       "symbol": "CBK",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
-    "id": "gains-network",
-    "symbol": "gns",
-    "name": "Gains Network",
-    "market_cap": 49703393,
-    "current_price": 1.6,
-    "contract_address": "0xe5417af564e4bfda1c483642db72007871397896",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/19737/large/logo.png?1696519161",
-    "local_image": "gains-network.png",
-    "alchemy_metadata": {
-      "name": "Gains Network",
-      "symbol": "GNS",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/13663.png"
-    }
-  },
-  {
+    "extract_time": 1743074096.0480058,
     "id": "btu-protocol",
     "symbol": "btu",
     "name": "BTU Protocol",
-    "market_cap": 49034101,
-    "current_price": 0.612554,
     "contract_address": "0xfdc26cda2d2440d0e83cd1dee8e8be48405806dc",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/3697/large/logo-btu-white-background_%281%29.png?1707407754",
     "local_image": "btu-protocol.png",
     "alchemy_metadata": {
       "name": "BTU Protocol",
       "symbol": "BTU",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/3737.png"
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
+    "id": "gains-network",
+    "symbol": "gns",
+    "name": "Gains Network",
+    "contract_address": "0xe5417af564e4bfda1c483642db72007871397896",
+    "local_image": "gains-network.png",
+    "alchemy_metadata": {
+      "name": "Gains Network",
+      "symbol": "GNS",
+      "decimals": 18
+    }
+  },
+  {
+    "extract_time": 1743074096.0480058,
     "id": "liquity-usd",
     "symbol": "lusd",
     "name": "Liquity USD",
-    "market_cap": 48438716,
-    "current_price": 1.001,
     "contract_address": "0x23001f892c0c82b79303edc9b9033cd190bb21c7",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/14666/large/Group_3.png?1696514341",
     "local_image": "liquity-usd.png",
     "alchemy_metadata": {
       "name": "LUSD Stablecoin (PoS)",
       "symbol": "LUSD",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
-    "id": "insure",
-    "symbol": "sure",
-    "name": "inSure DeFi",
-    "market_cap": 48399624,
-    "current_price": 0.00182818,
-    "contract_address": "0xf88332547c680f755481bf489d890426248bb275",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/10354/large/logo-grey-circle.png?1696510355",
-    "local_image": "insure.png",
-    "alchemy_metadata": {
-      "name": "inSure DeFi",
-      "symbol": "SURE",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/5113.png"
-    }
-  },
-  {
+    "extract_time": 1743074096.0480058,
     "id": "usd",
     "symbol": "usd+",
     "name": "Overnight.fi USD+",
-    "market_cap": 48040631,
-    "current_price": 0.998611,
     "contract_address": "0x236eec6359fb44cce8f97e99387aa7f8cd5cde1f",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/25757/large/USD__logo.png?1696524843",
     "local_image": "usd.png",
     "alchemy_metadata": {
       "name": "USD+",
       "symbol": "USD+",
-      "decimals": 6,
-      "logo": null
+      "decimals": 6
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "mountain-protocol-usdm",
     "symbol": "usdm",
     "name": "Mountain Protocol USD",
-    "market_cap": 48007949,
-    "current_price": 1.0,
     "contract_address": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/31719/large/usdm.png?1696530540",
     "local_image": "mountain-protocol-usdm.png",
     "alchemy_metadata": {
       "name": "Mountain Protocol",
       "symbol": "USDM",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/29569.png"
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
+    "id": "insure",
+    "symbol": "sure",
+    "name": "inSure DeFi",
+    "contract_address": "0xf88332547c680f755481bf489d890426248bb275",
+    "local_image": "insure.png",
+    "alchemy_metadata": {
+      "name": "inSure DeFi",
+      "symbol": "SURE",
+      "decimals": 18
+    }
+  },
+  {
+    "extract_time": 1743074096.0480058,
     "id": "telos",
     "symbol": "tlos",
     "name": "Telos",
-    "market_cap": 45630367,
-    "current_price": 0.108792,
     "contract_address": "0x193f4a4a6ea24102f49b931deeeb931f6e32405d",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/7588/large/tlos_png.png?1722391289",
     "local_image": "telos.png",
     "alchemy_metadata": {
       "name": "TLOS",
       "symbol": "TLOS",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
-    "id": "smardex",
-    "symbol": "sdex",
-    "name": "SMARDEX",
-    "market_cap": 43311020,
-    "current_price": 0.00477829,
-    "contract_address": "0x6899face15c14348e1759371049ab64a3a06bfa6",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/29470/large/SDEX_logo_transparent_outside_240x240.png?1696930070",
-    "local_image": "smardex.png",
-    "alchemy_metadata": {
-      "name": "SmarDex",
-      "symbol": "SDEX",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/24203.png"
-    }
-  },
-  {
-    "id": "forta",
-    "symbol": "fort",
-    "name": "Forta",
-    "market_cap": 43030179,
-    "current_price": 0.079175,
-    "contract_address": "0x9ff62d1fc52a907b6dcba8077c2ddca6e6a9d3e1",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/25060/large/Forta_lgo_%281%29.png?1696524210",
-    "local_image": "forta.png",
-    "alchemy_metadata": {
-      "name": "Forta",
-      "symbol": "FORT",
-      "decimals": 18,
-      "logo": null
-    }
-  },
-  {
-    "id": "synapse-2",
-    "symbol": "syn",
-    "name": "Synapse",
-    "market_cap": 42617642,
-    "current_price": 0.19455,
-    "contract_address": "0xf8f9efc0db77d8881500bb06ff5d6abc3070e695",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/18024/large/synapse_social_icon.png?1696517540",
-    "local_image": "synapse-2.png",
-    "alchemy_metadata": {
-      "name": "Synapse",
-      "symbol": "SYN",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/12147.png"
-    }
-  },
-  {
+    "extract_time": 1743074096.0480058,
     "id": "realtoken-ecosystem-governance",
     "symbol": "reg",
     "name": "RealToken Ecosystem Governance",
-    "market_cap": 42529910,
-    "current_price": 0.589556,
     "contract_address": "0x0aa1e96d2a46ec6beb2923de1e61addf5f5f1dce",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/37785/large/REG_Logo_200x200.png?1737625372",
     "local_image": "realtoken-ecosystem-governance.png",
     "alchemy_metadata": {
       "name": "RealToken Ecosystem Governance",
       "symbol": "REG",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
-    "id": "automata",
-    "symbol": "ata",
-    "name": "Automata",
-    "market_cap": 40560065,
-    "current_price": 0.068954,
-    "contract_address": "0x0df0f72ee0e5c9b7ca761ecec42754992b2da5bf",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/15985/large/ATA_Icon_%28Profile_2%29.png?1720487988",
-    "local_image": "automata.png",
+    "extract_time": 1743074096.0480058,
+    "id": "forta",
+    "symbol": "fort",
+    "name": "Forta",
+    "contract_address": "0x9ff62d1fc52a907b6dcba8077c2ddca6e6a9d3e1",
+    "local_image": "forta.png",
     "alchemy_metadata": {
-      "name": "Automata Network",
-      "symbol": "ATA",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/10188.png"
+      "name": "Forta",
+      "symbol": "FORT",
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
+    "id": "smardex",
+    "symbol": "sdex",
+    "name": "SMARDEX",
+    "contract_address": "0x6899face15c14348e1759371049ab64a3a06bfa6",
+    "local_image": "smardex.png",
+    "alchemy_metadata": {
+      "name": "SmarDex",
+      "symbol": "SDEX",
+      "decimals": 18
+    }
+  },
+  {
+    "extract_time": 1743074096.0480058,
+    "id": "synapse-2",
+    "symbol": "syn",
+    "name": "Synapse",
+    "contract_address": "0xf8f9efc0db77d8881500bb06ff5d6abc3070e695",
+    "local_image": "synapse-2.png",
+    "alchemy_metadata": {
+      "name": "Synapse",
+      "symbol": "SYN",
+      "decimals": 18
+    }
+  },
+  {
+    "extract_time": 1743074096.0480058,
     "id": "edu-coin",
     "symbol": "edu",
     "name": "Open Campus",
-    "market_cap": 40065138,
-    "current_price": 0.154025,
     "contract_address": "0xb03e3b00baf9954bf1604d09a4dbd5cf88e1f695",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/29948/large/EDU_Logo.png?1696528874",
     "local_image": "edu-coin.png",
     "alchemy_metadata": {
       "name": "Open Campus",
       "symbol": "EDU",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/24613.png"
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
+    "id": "automata",
+    "symbol": "ata",
+    "name": "Automata",
+    "contract_address": "0x0df0f72ee0e5c9b7ca761ecec42754992b2da5bf",
+    "local_image": "automata.png",
+    "alchemy_metadata": {
+      "name": "Automata Network",
+      "symbol": "ATA",
+      "decimals": 18
+    }
+  },
+  {
+    "extract_time": 1743074096.0480058,
     "id": "polyswarm",
     "symbol": "nct",
     "name": "PolySwarm",
-    "market_cap": 39382933,
-    "current_price": 0.02087229,
     "contract_address": "0x4985e0b13554fb521840e893574d3848c10fcc6f",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/2843/large/ImcYCVfX_400x400.jpg?1696503602",
     "local_image": "polyswarm.png",
     "alchemy_metadata": {
       "name": "Nectar (PoS)",
       "symbol": "NCT",
-      "decimals": 18,
-      "logo": null
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
     "id": "wmatic",
     "symbol": "wpol",
     "name": "Wrapped POL",
-    "market_cap": 38610886,
-    "current_price": 0.236597,
     "contract_address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/14073/large/matic.png?1696513797",
     "local_image": "wmatic.png",
     "alchemy_metadata": {
       "name": "Wrapped Matic",
       "symbol": "WMATIC",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/8925.png"
+      "decimals": 18
     }
   },
   {
-    "id": "sweatcoin",
-    "symbol": "sweat",
-    "name": "Sweat Economy",
-    "market_cap": 38291158,
-    "current_price": 0.00501035,
-    "contract_address": "0x0cc931c30f4fc7fa36d290a4cd8d94acd738826e",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/25057/large/fhD9Xs16_400x400.jpg?1696524208",
-    "local_image": "sweatcoin.png",
-    "alchemy_metadata": {
-      "name": "SWEAT",
-      "symbol": "SWEAT",
-      "decimals": 18,
-      "logo": null
-    }
-  },
-  {
+    "extract_time": 1743074096.0480058,
     "id": "ix-swap",
     "symbol": "ixs",
     "name": "IX Swap",
-    "market_cap": 37206448,
-    "current_price": 0.206769,
     "contract_address": "0x1ba17c639bdaecd8dc4aac37df062d17ee43a1b8",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/18069/large/IXS-ava-square_2x.png?1737363112",
     "local_image": "ix-swap.png",
     "alchemy_metadata": {
       "name": "IX Swap",
       "symbol": "IXS",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/11620.png"
+      "decimals": 18
     }
   },
   {
+    "extract_time": 1743074096.0480058,
+    "id": "sweatcoin",
+    "symbol": "sweat",
+    "name": "Sweat Economy",
+    "contract_address": "0x0cc931c30f4fc7fa36d290a4cd8d94acd738826e",
+    "local_image": "sweatcoin.png",
+    "alchemy_metadata": {
+      "name": "SWEAT",
+      "symbol": "SWEAT",
+      "decimals": 18
+    }
+  },
+  {
+    "extract_time": 1743074096.0480058,
+    "id": "human-protocol",
+    "symbol": "hmt",
+    "name": "HUMAN Protocol",
+    "contract_address": "0xc748b2a084f8efc47e086ccddd9b7e67aeb571bf",
+    "local_image": "human-protocol.png",
+    "alchemy_metadata": {
+      "name": "Human",
+      "symbol": "HMT",
+      "decimals": 18
+    }
+  },
+  {
+    "extract_time": 1743074096.0480058,
     "id": "stader",
     "symbol": "sd",
     "name": "Stader",
-    "market_cap": 37014827,
-    "current_price": 0.657261,
     "contract_address": "0x1d734a02ef1e1f5886e66b0673b71af5b53ffa94",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/20658/large/SD_Token_Logo.png?1696520060",
     "local_image": "stader.png",
     "alchemy_metadata": {
       "name": "Stader",
       "symbol": "SD",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/12623.png"
-    }
-  },
-  {
-    "id": "escoin-token",
-    "symbol": "elg",
-    "name": "Escoin",
-    "market_cap": 36800138,
-    "current_price": 0.199834,
-    "contract_address": "0x8226ac9edb26ff16da19151042a8ba3bb2cc237f",
-    "chain": "polygon",
-    "image_url": "https://coin-images.coingecko.com/coins/images/13566/large/escoin-200.png?1696513320",
-    "local_image": "escoin-token.png",
-    "alchemy_metadata": {
-      "name": "EscoinToken",
-      "symbol": "ELG",
-      "decimals": 18,
-      "logo": "https://static.alchemyapi.io/images/assets/10312.png"
+      "decimals": 18
     }
   }
 ]
