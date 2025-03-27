@@ -1,0 +1,1702 @@
+[
+  {
+    "id": "tether",
+    "symbol": "usdt",
+    "name": "Tether",
+    "market_cap": 144183410813,
+    "current_price": 1.0,
+    "contract_address": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
+    "local_image": "tether.png",
+    "alchemy_metadata": {
+      "name": "TetherToken",
+      "symbol": "USDt",
+      "decimals": 6,
+      "logo": null
+    }
+  },
+  {
+    "id": "usd-coin",
+    "symbol": "usdc",
+    "name": "USDC",
+    "market_cap": 60161596743,
+    "current_price": 0.999787,
+    "contract_address": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/6319/large/usdc.png?1696506694",
+    "local_image": "usd-coin.png",
+    "alchemy_metadata": {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logo": null
+    }
+  },
+  {
+    "id": "chainlink",
+    "symbol": "link",
+    "name": "Chainlink",
+    "market_cap": 9987592436,
+    "current_price": 15.66,
+    "contract_address": "0x5947bb275c521040051d82396192181b413227a3",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/877/large/chainlink-new-logo.png?1696502009",
+    "local_image": "chainlink.png",
+    "alchemy_metadata": {
+      "name": "Chainlink Token",
+      "symbol": "LINK.e",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "uniswap",
+    "symbol": "uni",
+    "name": "Uniswap",
+    "market_cap": 4117339931,
+    "current_price": 6.86,
+    "contract_address": "0x8ebaf22b6f053dffeaf46f4dd9efa95d89ba8580",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/12504/large/uniswap-logo.png?1720676669",
+    "local_image": "uniswap.png",
+    "alchemy_metadata": {
+      "name": "Uniswap",
+      "symbol": "UNI.e",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "aave",
+    "symbol": "aave",
+    "name": "Aave",
+    "market_cap": 2751872207,
+    "current_price": 182.49,
+    "contract_address": "0x63a72806098bd3d9520cc43356dd78afe5d386d9",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/12645/large/aave-token-round.png?1720472354",
+    "local_image": "aave.png",
+    "alchemy_metadata": {
+      "name": "Aave Token",
+      "symbol": "AAVE.e",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "blackrock-usd-institutional-digital-liquidity-fund",
+    "symbol": "buidl",
+    "name": "BlackRock USD Institutional Digital Liquidity Fund",
+    "market_cap": 1955277111,
+    "current_price": 1.0,
+    "contract_address": "0x53fc82f14f009009b440a706e31c9021e1196a2f",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/36291/large/blackrock.png?1711013223",
+    "local_image": "blackrock-usd-institutional-digital-liquidity-fund.png",
+    "alchemy_metadata": {
+      "name": "BlackRock USD Institutional Digital Liquidity Fund",
+      "symbol": "BUIDL",
+      "decimals": 6,
+      "logo": null
+    }
+  },
+  {
+    "id": "solv-btc",
+    "symbol": "solvbtc",
+    "name": "Solv Protocol SolvBTC",
+    "market_cap": 1363271309,
+    "current_price": 87536,
+    "contract_address": "0xbc78d84ba0c46dfe32cf2895a19939c86b81a777",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/36800/large/solvBTC.png?1719810684",
+    "local_image": "solv-btc.png",
+    "alchemy_metadata": {
+      "name": "Solv BTC",
+      "symbol": "SolvBTC",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "maker",
+    "symbol": "mkr",
+    "name": "Maker",
+    "market_cap": 1215809875,
+    "current_price": 1435.89,
+    "contract_address": "0x88128fd4b259552a9a1d457f435a6527aab72d42",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/1364/large/Mark_Maker.png?1696502423",
+    "local_image": "maker.png",
+    "alchemy_metadata": {
+      "name": "Maker",
+      "symbol": "MKR.e",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "the-graph",
+    "symbol": "grt",
+    "name": "The Graph",
+    "market_cap": 1019816756,
+    "current_price": 0.106823,
+    "contract_address": "0x8a0cac13c7da965a312f08ea4229c37869e85cb9",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/13397/large/Graph_Token.png?1696513159",
+    "local_image": "the-graph.png",
+    "alchemy_metadata": {
+      "name": "Graph Token",
+      "symbol": "GRT.e",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "solv-protocol-solvbtc-bbn",
+    "symbol": "solvbtc.bbn",
+    "name": "Solv Protocol SolvBTC.BBN",
+    "market_cap": 838111872,
+    "current_price": 86961,
+    "contract_address": "0xcc0966d8418d412c599a6421b760a847eb169a8c",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/39384/large/unnamed.png?1721961640",
+    "local_image": "solv-protocol-solvbtc-bbn.png",
+    "alchemy_metadata": {
+      "name": "SolvBTC Babylon",
+      "symbol": "SolvBTC.BBN",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "beam-2",
+    "symbol": "beam",
+    "name": "Beam",
+    "market_cap": 528779658,
+    "current_price": 0.01007968,
+    "contract_address": "0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/32417/large/chain-logo.png?1698114384",
+    "local_image": "beam-2.png",
+    "alchemy_metadata": {
+      "name": "Beam",
+      "symbol": "BEAM",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "bitcoin-avalanche-bridged-btc-b",
+    "symbol": "btc.b",
+    "name": "Avalanche Bridged BTC (Avalanche)",
+    "market_cap": 497934036,
+    "current_price": 87569,
+    "contract_address": "0x152b9d0fdc40c096757f570a51e494bd4b943e50",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/26115/large/btcb.png?1696525205",
+    "local_image": "bitcoin-avalanche-bridged-btc-b.png",
+    "alchemy_metadata": {
+      "name": "Bitcoin",
+      "symbol": "BTC.b",
+      "decimals": 8,
+      "logo": null
+    }
+  },
+  {
+    "id": "true-usd",
+    "symbol": "tusd",
+    "name": "TrueUSD",
+    "market_cap": 495196114,
+    "current_price": 0.999325,
+    "contract_address": "0x1c20e891bab6b1727d14da358fae2984ed9b59eb",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/3449/large/tusd.png?1696504140",
+    "local_image": "true-usd.png",
+    "alchemy_metadata": {
+      "name": "TrueUSD",
+      "symbol": "TUSD",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "compound-governance-token",
+    "symbol": "comp",
+    "name": "Compound",
+    "market_cap": 404046853,
+    "current_price": 45.21,
+    "contract_address": "0xc3048e19e76cb9a3aa9d77d8c03c29fc906e2437",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/10775/large/COMP.png?1696510737",
+    "local_image": "compound-governance-token.png",
+    "alchemy_metadata": {
+      "name": "Compound",
+      "symbol": "COMP.e",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "axelar",
+    "symbol": "axl",
+    "name": "Axelar",
+    "market_cap": 403958593,
+    "current_price": 0.430125,
+    "contract_address": "0x44c784266cf024a60e8acf2427b9857ace194c5d",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/27277/large/V-65_xQ1_400x400.jpeg?1696526329",
+    "local_image": "axelar.png",
+    "alchemy_metadata": {
+      "name": "Axelar",
+      "symbol": "AXL",
+      "decimals": 6,
+      "logo": null
+    }
+  },
+  {
+    "id": "layerzero",
+    "symbol": "zro",
+    "name": "LayerZero",
+    "market_cap": 356463170,
+    "current_price": 3.21,
+    "contract_address": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/28206/large/ftxG9_TJ_400x400.jpeg?1696527208",
+    "local_image": "layerzero.png",
+    "alchemy_metadata": {
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "frax",
+    "symbol": "frax",
+    "name": "Frax",
+    "market_cap": 348428060,
+    "current_price": 0.999229,
+    "contract_address": "0xd24c2ad096400b6fbcd2ad8b24e7acbc21a1da64",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/13422/large/frax-logo.png?1739780303",
+    "local_image": "frax.png",
+    "alchemy_metadata": {
+      "name": "Frax",
+      "symbol": "FRAX",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "binance-peg-busd",
+    "symbol": "busd",
+    "name": "Binance-Peg BUSD",
+    "market_cap": 324372250,
+    "current_price": 1.006,
+    "contract_address": "0x9c9e5fd8bbc25984b178fdce6117defa39d2db39",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/31273/large/new_binance-peg-busd.png?1696530096",
+    "local_image": "binance-peg-busd.png",
+    "alchemy_metadata": {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "havven",
+    "symbol": "snx",
+    "name": "Synthetix Network",
+    "market_cap": 316543171,
+    "current_price": 0.933524,
+    "contract_address": "0xbec243c995409e6520d7c41e404da5deba4b209b",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/3406/large/SNX.png?1696504103",
+    "local_image": "havven.png",
+    "alchemy_metadata": {
+      "name": "Synthetix Network Token",
+      "symbol": "SNX.e",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "1inch",
+    "symbol": "1inch",
+    "name": "1inch",
+    "market_cap": 299191803,
+    "current_price": 0.2173,
+    "contract_address": "0xd501281565bf7789224523144fe5d98e8b28f267",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/13469/large/1inch-token.png?1696513230",
+    "local_image": "1inch.png",
+    "alchemy_metadata": {
+      "name": "1INCH Token",
+      "symbol": "1INCH.e",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "ket",
+    "symbol": "ket",
+    "name": "Ket",
+    "market_cap": 266872846,
+    "current_price": 0.265199,
+    "contract_address": "0xffff003a6bad9b743d658048742935fffe2b6ed7",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/53789/large/edfw.jpg?1737381234",
+    "local_image": "ket.png",
+    "alchemy_metadata": {
+      "name": "yellow ket",
+      "symbol": "KET",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "usdd",
+    "symbol": "usdd",
+    "name": "USDD",
+    "market_cap": 265266349,
+    "current_price": 1.0,
+    "contract_address": "0xb514cabd09ef5b169ed3fe0fa8dbd590741e81c2",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/25380/large/UUSD.jpg?1696524513",
+    "local_image": "usdd.png",
+    "alchemy_metadata": {
+      "name": "USDD",
+      "symbol": "USDD",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "0x",
+    "symbol": "zrx",
+    "name": "0x Protocol",
+    "market_cap": 238930101,
+    "current_price": 0.28164,
+    "contract_address": "0x596fa47043f99a4e0f122243b841e55375cde0d2",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/863/large/0x.png?1696501996",
+    "local_image": "0x.png",
+    "alchemy_metadata": {
+      "name": "ZRX",
+      "symbol": "ZRX.e",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "basic-attention-token",
+    "symbol": "bat",
+    "name": "Basic Attention",
+    "market_cap": 233551329,
+    "current_price": 0.156273,
+    "contract_address": "0x98443b96ea4b0858fdf3219cd13e98c7a4690588",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/677/large/basic-attention-token.png?1696501867",
+    "local_image": "basic-attention-token.png",
+    "alchemy_metadata": {
+      "name": "Basic Attention Token",
+      "symbol": "BAT.e",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "stargate-finance",
+    "symbol": "stg",
+    "name": "Stargate Finance",
+    "market_cap": 224493276,
+    "current_price": 0.231575,
+    "contract_address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/24413/large/STG_LOGO.png?1696523595",
+    "local_image": "stargate-finance.png",
+    "alchemy_metadata": {
+      "name": "StargateToken",
+      "symbol": "STG",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "wrapped-avax",
+    "symbol": "wavax",
+    "name": "Wrapped AVAX",
+    "market_cap": 221778775,
+    "current_price": 22.26,
+    "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/15075/large/wrapped-avax.png?1696514734",
+    "local_image": "wrapped-avax.png",
+    "alchemy_metadata": {
+      "name": "Wrapped AVAX",
+      "symbol": "WAVAX",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "benqi-liquid-staked-avax",
+    "symbol": "savax",
+    "name": "BENQI Liquid Staked AVAX",
+    "market_cap": 207333429,
+    "current_price": 26.55,
+    "contract_address": "0x2b2c81e08f1af8835a78bb2a90ae924ace0ea4be",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/23657/large/savax_blue.png?1696522860",
+    "local_image": "benqi-liquid-staked-avax.png",
+    "alchemy_metadata": {
+      "name": "Staked AVAX",
+      "symbol": "sAVAX",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "frax-share",
+    "symbol": "fxs",
+    "name": "Frax Share",
+    "market_cap": 207286208,
+    "current_price": 2.33,
+    "contract_address": "0x214db107654ff987ad859f34125307783fc8e387",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/13423/large/Frax_Shares_icon.png?1696513183",
+    "local_image": "frax-share.png",
+    "alchemy_metadata": {
+      "name": "Frax Share",
+      "symbol": "FXS",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "ankr",
+    "symbol": "ankr",
+    "name": "Ankr Network",
+    "market_cap": 199553096,
+    "current_price": 0.01996592,
+    "contract_address": "0xdf474b7109b73b7d57926d43598d5934131136b2",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/4324/large/U85xTl2.png?1696504928",
+    "local_image": "ankr.png",
+    "alchemy_metadata": {
+      "name": "Ankr Network",
+      "symbol": "ANKR",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "woo-network",
+    "symbol": "woo",
+    "name": "WOO",
+    "market_cap": 183291033,
+    "current_price": 0.095665,
+    "contract_address": "0xabc9547b534519ff73921b1fba6e672b5f58d083",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/12921/large/WOO_Logos_2023_Profile_Pic_WOO.png?1696512709",
+    "local_image": "woo-network.png",
+    "alchemy_metadata": {
+      "name": "Wootrade Network",
+      "symbol": "WOO.e",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "yearn-finance",
+    "symbol": "yfi",
+    "name": "yearn.finance",
+    "market_cap": 183029454,
+    "current_price": 5418.54,
+    "contract_address": "0x9eaac1b23d935365bd7b542fe22ceee2922f52dc",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/11849/large/yearn.jpg?1696511720",
+    "local_image": "yearn-finance.png",
+    "alchemy_metadata": {
+      "name": "yearn.finance",
+      "symbol": "YFI.e",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "euro-coin",
+    "symbol": "eurc",
+    "name": "EURC",
+    "market_cap": 149430492,
+    "current_price": 1.077,
+    "contract_address": "0xc891eb4cbdeff6e073e859e987815ed1505c2acd",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/26045/large/euro.png?1696525125",
+    "local_image": "euro-coin.png",
+    "alchemy_metadata": {
+      "name": "Euro Coin",
+      "symbol": "EURC",
+      "decimals": 6,
+      "logo": null
+    }
+  },
+  {
+    "id": "gmx",
+    "symbol": "gmx",
+    "name": "GMX",
+    "market_cap": 144205019,
+    "current_price": 14.38,
+    "contract_address": "0x62edc0692bd897d2295872a9ffcac5425011c661",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/18323/large/arbit.png?1696517814",
+    "local_image": "gmx.png",
+    "alchemy_metadata": {
+      "name": "GMX",
+      "symbol": "GMX",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "sushi",
+    "symbol": "sushi",
+    "name": "Sushi",
+    "market_cap": 135530375,
+    "current_price": 0.703187,
+    "contract_address": "0x37b608519f91f70f2eeb0e5ed9af4061722e4f76",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png?1696512101",
+    "local_image": "sushi.png",
+    "alchemy_metadata": {
+      "name": "SushiToken",
+      "symbol": "SUSHI.e",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "uma",
+    "symbol": "uma",
+    "name": "UMA",
+    "market_cap": 122499240,
+    "current_price": 1.42,
+    "contract_address": "0x3bd2b1c7ed8d396dbb98ded3aebb41350a5b2339",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/10951/large/UMA.png?1696510900",
+    "local_image": "uma.png",
+    "alchemy_metadata": {
+      "name": "UMA Voting Token v1",
+      "symbol": "UMA.e",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "vicicoin",
+    "symbol": "vcnt",
+    "name": "ViciCoin",
+    "market_cap": 111341627,
+    "current_price": 19.59,
+    "contract_address": "0xc6bdfc4f2e90196738873e824a9efa03f7c64176",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/31305/large/ViciCoin_-_small.png?1696530124",
+    "local_image": "vicicoin.png",
+    "alchemy_metadata": {
+      "name": "ViciCoin",
+      "symbol": "VCNT",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "spell-token",
+    "symbol": "spell",
+    "name": "Spell",
+    "market_cap": 105817456,
+    "current_price": 0.00066732,
+    "contract_address": "0xce1bffbd5374dac86a2893119683f4911a2f7814",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/15861/large/abracadabra-3.png?1696515477",
+    "local_image": "spell-token.png",
+    "alchemy_metadata": {
+      "name": "Spell Token",
+      "symbol": "SPELL",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "balancer",
+    "symbol": "bal",
+    "name": "Balancer",
+    "market_cap": 95135769,
+    "current_price": 1.52,
+    "contract_address": "0xe15bcb9e0ea69e6ab9fa080c4c4a5632896298c3",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/11683/large/Balancer.png?1696511572",
+    "local_image": "balancer.png",
+    "alchemy_metadata": {
+      "name": "Balancer",
+      "symbol": "BAL",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "orbs",
+    "symbol": "orbs",
+    "name": "Orbs",
+    "market_cap": 89316363,
+    "current_price": 0.01962467,
+    "contract_address": "0x3ab1c9adb065f3fca0059652cd7a52b05c98f9a9",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/4630/large/Orbs.jpg?1696505200",
+    "local_image": "orbs.png",
+    "alchemy_metadata": {
+      "name": "Orbs",
+      "symbol": "ORBS",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "joe",
+    "symbol": "joe",
+    "name": "JOE",
+    "market_cap": 82711901,
+    "current_price": 0.208723,
+    "contract_address": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/17569/large/LFJ_JOE_Logo.png?1727200941",
+    "local_image": "joe.png",
+    "alchemy_metadata": {
+      "name": "JoeToken",
+      "symbol": "JOE",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "kyber-network-crystal",
+    "symbol": "knc",
+    "name": "Kyber Network Crystal",
+    "market_cap": 66673300,
+    "current_price": 0.391945,
+    "contract_address": "0x39fc9e94caeacb435842fadedecb783589f50f5f",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/14899/large/RwdVsGcw_400x400.jpg?1696514562",
+    "local_image": "kyber-network-crystal.png",
+    "alchemy_metadata": {
+      "name": "Kyber Network Crystal v2",
+      "symbol": "KNC",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "ampleforth",
+    "symbol": "ampl",
+    "name": "Ampleforth",
+    "market_cap": 66473736,
+    "current_price": 1.23,
+    "contract_address": "0x027dbca046ca156de9622cd1e2d907d375e53aa7",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/4708/large/Ampleforth.png?1696505273",
+    "local_image": "ampleforth.png",
+    "alchemy_metadata": {
+      "name": "Ampleforth secured by Meter Passport",
+      "symbol": "AMPL",
+      "decimals": 9,
+      "logo": null
+    }
+  },
+  {
+    "id": "apollo-diversified-credit-securitize-fund",
+    "symbol": "acred",
+    "name": "Apollo Diversified Credit Securitize Fund",
+    "market_cap": 65509238,
+    "current_price": 1010.0,
+    "contract_address": "0x7c64925002bfa705834b118a923e9911bee32875",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/54809/large/ACRED.png?1741801356",
+    "local_image": "apollo-diversified-credit-securitize-fund.png",
+    "alchemy_metadata": {
+      "name": "Apollo Diversified Credit Securitize Fund",
+      "symbol": "ACRED",
+      "decimals": 6,
+      "logo": null
+    }
+  },
+  {
+    "id": "staked-frax",
+    "symbol": "sfrax",
+    "name": "Staked FRAX",
+    "market_cap": 65474009,
+    "current_price": 1.12,
+    "contract_address": "0x3405e88af759992937b84e58f2fe691ef0eea320",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/35383/large/sfrax-logo.png?1739780377",
+    "local_image": "staked-frax.png",
+    "alchemy_metadata": {
+      "name": "Staked FRAX",
+      "symbol": "sFRAX",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "cartesi",
+    "symbol": "ctsi",
+    "name": "Cartesi",
+    "market_cap": 65121251,
+    "current_price": 0.075553,
+    "contract_address": "0x6b289cceaa8639e3831095d75a3e43520fabf552",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/11038/large/Cartesi_Logo.png?1696510982",
+    "local_image": "cartesi.png",
+    "alchemy_metadata": {
+      "name": "Cartesi Token",
+      "symbol": "CTSI",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "benqi",
+    "symbol": "qi",
+    "name": "BENQI",
+    "market_cap": 57826448,
+    "current_price": 0.00888589,
+    "contract_address": "0x8729438eb15e2c8b576fcc6aecda6a148776c0f5",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/16362/large/GergDDN3_400x400.jpg?1696515961",
+    "local_image": "benqi.png",
+    "alchemy_metadata": {
+      "name": "BENQI",
+      "symbol": "QI",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "osaka-protocol",
+    "symbol": "osak",
+    "name": "Osaka Protocol",
+    "market_cap": 55458369,
+    "current_price": 7.277e-8,
+    "contract_address": "0x96e1056a8814de39c8c3cd0176042d6cecd807d7",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/30911/large/OSAK_LOGO_200x200.png?1723662197",
+    "local_image": "osaka-protocol.png",
+    "alchemy_metadata": {
+      "name": "Osaka Protocol",
+      "symbol": "OSAK",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "coq-inu",
+    "symbol": "coq",
+    "name": "Coq Inu",
+    "market_cap": 49503295,
+    "current_price": 7.12813e-7,
+    "contract_address": "0x420fca0121dc28039145009570975747295f2329",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/33511/large/Coin_CoqInu_1200px.png?1702041053",
+    "local_image": "coq-inu.png",
+    "alchemy_metadata": {
+      "name": "COQINU",
+      "symbol": "COQ",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "insure",
+    "symbol": "sure",
+    "name": "inSure DeFi",
+    "market_cap": 48399624,
+    "current_price": 0.00182818,
+    "contract_address": "0x5fc17416925789e0852fbfcd81c490ca4abc51f9",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/10354/large/logo-grey-circle.png?1696510355",
+    "local_image": "insure.png",
+    "alchemy_metadata": {
+      "name": "inSure",
+      "symbol": "SURE",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "avalanche-bridged-weth-avalanche",
+    "symbol": "weth",
+    "name": "Avalanche Bridged WETH (Avalanche)",
+    "market_cap": 48268263,
+    "current_price": 2025.1,
+    "contract_address": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/39707/large/WETH.PNG?1723730205",
+    "local_image": "avalanche-bridged-weth-avalanche.png",
+    "alchemy_metadata": {
+      "name": "Wrapped Ether",
+      "symbol": "WETH.e",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "mountain-protocol-usdm",
+    "symbol": "usdm",
+    "name": "Mountain Protocol USD",
+    "market_cap": 48007949,
+    "current_price": 1.0,
+    "contract_address": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/31719/large/usdm.png?1696530540",
+    "local_image": "mountain-protocol-usdm.png",
+    "alchemy_metadata": {
+      "name": "Mountain Protocol USD",
+      "symbol": "USDM",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "usd-coin-avalanche-bridged-usdc-e",
+    "symbol": "usdc.e",
+    "name": "Avalanche Bridged USDC (Avalanche)",
+    "market_cap": 46574600,
+    "current_price": 1.007,
+    "contract_address": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/23263/large/3408.png?1696522483",
+    "local_image": "usd-coin-avalanche-bridged-usdc-e.png",
+    "alchemy_metadata": {
+      "name": "USD Coin",
+      "symbol": "USDC.e",
+      "decimals": 6,
+      "logo": null
+    }
+  },
+  {
+    "id": "telos",
+    "symbol": "tlos",
+    "name": "Telos",
+    "market_cap": 45630367,
+    "current_price": 0.108792,
+    "contract_address": "0x193f4a4a6ea24102f49b931deeeb931f6e32405d",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/7588/large/tlos_png.png?1722391289",
+    "local_image": "telos.png",
+    "alchemy_metadata": {
+      "name": "",
+      "symbol": "",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "cortex-2",
+    "symbol": "cx",
+    "name": "Cortex",
+    "market_cap": 42739178,
+    "current_price": 0.03534516,
+    "contract_address": "0x000000000000012def132e61759048be5b5c6033",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/53285/large/CX_Round.png?1735994730",
+    "local_image": "cortex-2.png",
+    "alchemy_metadata": {
+      "name": "Cortex",
+      "symbol": "CX",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "synapse-2",
+    "symbol": "syn",
+    "name": "Synapse",
+    "market_cap": 42617642,
+    "current_price": 0.19455,
+    "contract_address": "0x1f1e7c893855525b303f99bdf5c3c05be09ca251",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/18024/large/synapse_social_icon.png?1696517540",
+    "local_image": "synapse-2.png",
+    "alchemy_metadata": {
+      "name": "Synapse",
+      "symbol": "SYN",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "avalanche-old-bridged-wbtc-avalanche",
+    "symbol": "wbtc",
+    "name": "Avalanche Bridged WBTC (Avalanche)",
+    "market_cap": 42430079,
+    "current_price": 87344,
+    "contract_address": "0x50b7545627a5162f82a992c33b87adc75187b218",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/39529/large/wbtc.png?1722809081",
+    "local_image": "avalanche-old-bridged-wbtc-avalanche.png",
+    "alchemy_metadata": {
+      "name": "Wrapped BTC",
+      "symbol": "WBTC.e",
+      "decimals": 8,
+      "logo": null
+    }
+  },
+  {
+    "id": "sweatcoin",
+    "symbol": "sweat",
+    "name": "Sweat Economy",
+    "market_cap": 38291158,
+    "current_price": 0.00501035,
+    "contract_address": "0x1e4c0e060fba7d62fa9fbb1aa624e58f796b4efe",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/25057/large/fhD9Xs16_400x400.jpg?1696524208",
+    "local_image": "sweatcoin.png",
+    "alchemy_metadata": {
+      "name": "SWEAT",
+      "symbol": "SWEAT",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "alpha-finance",
+    "symbol": "alpha",
+    "name": "Stella",
+    "market_cap": 38109159,
+    "current_price": 0.04134774,
+    "contract_address": "0x2147efff675e4a4ee1c2f918d181cdbd7a8e208f",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/12738/large/Stella200x200-06.png?1696512537",
+    "local_image": "alpha-finance.png",
+    "alchemy_metadata": {
+      "name": "AlphaToken",
+      "symbol": "ALPHA.e",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "pangolin",
+    "symbol": "png",
+    "name": "Pangolin",
+    "market_cap": 37228153,
+    "current_price": 0.17015,
+    "contract_address": "0x60781c2586d68229fde47564546784ab3faca982",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/14023/large/PNG_token.png?1696513750",
+    "local_image": "pangolin.png",
+    "alchemy_metadata": {
+      "name": "Pangolin",
+      "symbol": "PNG",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "snowbank",
+    "symbol": "sb",
+    "name": "Snowbank",
+    "market_cap": 35768998,
+    "current_price": 224.13,
+    "contract_address": "0x7d1232b90d3f809a54eeaeebc639c62df8a8942f",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/19947/large/sb.png?1696519364",
+    "local_image": "snowbank.png",
+    "alchemy_metadata": {
+      "name": "Snowbank",
+      "symbol": "SB",
+      "decimals": 9,
+      "logo": null
+    }
+  },
+  {
+    "id": "deapcoin",
+    "symbol": "dep",
+    "name": "DEAPCOIN",
+    "market_cap": 31931875,
+    "current_price": 0.00115922,
+    "contract_address": "0xd4d026322c88c2d49942a75dff920fcfbc5614c1",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/10970/large/DEAPcoin_01.png?1696510917",
+    "local_image": "deapcoin.png",
+    "alchemy_metadata": {
+      "name": "DEAPCOIN",
+      "symbol": "DEP",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "liquity-bold",
+    "symbol": "bold",
+    "name": "Liquity BOLD",
+    "market_cap": 28980126,
+    "current_price": 1.0,
+    "contract_address": "0x087c440f251ff6cfe62b86dde1be558b95b4bb9b",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/53755/large/BOLD_logo.png?1737183873",
+    "local_image": "liquity-bold.png",
+    "alchemy_metadata": {
+      "name": "Bold Stablecoin",
+      "symbol": "Bold",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "wagmi-2",
+    "symbol": "wagmi",
+    "name": "Wagmi",
+    "market_cap": 26093521,
+    "current_price": 0.01511388,
+    "contract_address": "0xaf20f5f19698f1d19351028cd7103b63d30de7d7",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/31887/large/wagmi_token_logo.png?1696530698",
+    "local_image": "wagmi-2.png",
+    "alchemy_metadata": {
+      "name": "Wagmi",
+      "symbol": "WAGMI",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "gogopool",
+    "symbol": "ggp",
+    "name": "GoGoPool",
+    "market_cap": 25974932,
+    "current_price": 3.65,
+    "contract_address": "0x69260b9483f9871ca57f81a90d91e2f96c2cd11d",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/30267/large/GGP_logo_square.png?1696529174",
+    "local_image": "gogopool.png",
+    "alchemy_metadata": {
+      "name": "GoGoPool Protocol",
+      "symbol": "GGP",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "ankreth",
+    "symbol": "ankreth",
+    "name": "Ankr Staked ETH",
+    "market_cap": 25940740,
+    "current_price": 2415.86,
+    "contract_address": "0x12d8ce035c5de3ce39b1fdd4c1d5a745eaba3b8c",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/13403/large/aETHc.png?1696513165",
+    "local_image": "ankreth.png",
+    "alchemy_metadata": {
+      "name": "Ankr Staked ETH",
+      "symbol": "ankrETH",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "xsgd",
+    "symbol": "xsgd",
+    "name": "XSGD",
+    "market_cap": 25103494,
+    "current_price": 0.747235,
+    "contract_address": "0xb2f85b7ab3c2b6f62df06de6ae7d09c010a5096e",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/12832/large/StraitsX_Singapore_Dollar_%28XSGD%29_Token_Logo.png?1696512623",
+    "local_image": "xsgd.png",
+    "alchemy_metadata": {
+      "name": "XSGD",
+      "symbol": "XSGD",
+      "decimals": 6,
+      "logo": null
+    }
+  },
+  {
+    "id": "gyroscope-gyd",
+    "symbol": "gyd",
+    "name": "Gyroscope GYD",
+    "market_cap": 24203600,
+    "current_price": 0.999781,
+    "contract_address": "0xca5d8f8a8d49439357d3cf46ca2e720702f132b8",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/33428/large/GYD-gradient_resized_transparent.png?1702316822",
+    "local_image": "gyroscope-gyd.png",
+    "alchemy_metadata": {
+      "name": "Gyro Dollar",
+      "symbol": "GYD",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "dexalot",
+    "symbol": "alot",
+    "name": "Dexalot",
+    "market_cap": 21479412,
+    "current_price": 0.386167,
+    "contract_address": "0x093783055f9047c2bff99c4e414501f8a147bc69",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/24188/large/logo_200x200.png?1696523376",
+    "local_image": "dexalot.png",
+    "alchemy_metadata": {
+      "name": "Dexalot Token",
+      "symbol": "ALOT",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "metamui",
+    "symbol": "mmui",
+    "name": "MetaMUI",
+    "market_cap": 20916103,
+    "current_price": 0.04393025,
+    "contract_address": "0xfc8a21dbcab432fb5e469d80f976e022c2f56ea0",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/16588/large/MMUI.jpg?1696516148",
+    "local_image": "metamui.png",
+    "alchemy_metadata": {
+      "name": "MetaMUI Token",
+      "symbol": "MMUI",
+      "decimals": 6,
+      "logo": null
+    }
+  },
+  {
+    "id": "idia",
+    "symbol": "idia",
+    "name": "Impossible Finance Launchpad",
+    "market_cap": 20786660,
+    "current_price": 0.02776008,
+    "contract_address": "0xfcaf13227dcbfa2dc2b1928acfca03b85e2d25dd",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/17803/large/IDIA.png?1696517325",
+    "local_image": "idia.png",
+    "alchemy_metadata": {
+      "name": "Impossible Decentralized Incubator Access Token",
+      "symbol": "IDIA",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "miracle-play",
+    "symbol": "mpt",
+    "name": "Miracle Play",
+    "market_cap": 19997837,
+    "current_price": 0.0235008,
+    "contract_address": "0x422812fc000e831b5ff13c181d85f34dd71380b3",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/32653/large/MPT.png?1698895300",
+    "local_image": "miracle-play.png",
+    "alchemy_metadata": {
+      "name": "Miracleplay Token",
+      "symbol": "MPT",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "beta-finance",
+    "symbol": "beta",
+    "name": "Beta Finance",
+    "market_cap": 19249011,
+    "current_price": 0.02165275,
+    "contract_address": "0x511d35c52a3c244e7b8bd92c0c297755fbd89212",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/18715/large/beta_finance.jpg?1696518183",
+    "local_image": "beta-finance.png",
+    "alchemy_metadata": {
+      "name": "Beta Token",
+      "symbol": "BETA",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "tether-avalanche-bridged-usdt-e",
+    "symbol": "usdte",
+    "name": "Bridged Tether (Avalanche)",
+    "market_cap": 18766604,
+    "current_price": 1.0,
+    "contract_address": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/24189/large/Usdt.e.png?1696523377",
+    "local_image": "tether-avalanche-bridged-usdt-e.png",
+    "alchemy_metadata": {
+      "name": "Tether USD",
+      "symbol": "USDT.e",
+      "decimals": 6,
+      "logo": null
+    }
+  },
+  {
+    "id": "opulous",
+    "symbol": "opul",
+    "name": "Opulous",
+    "market_cap": 17092620,
+    "current_price": 0.0341954,
+    "contract_address": "0x6c44e09737ac84bcf27633883daf7487898e4e5e",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/16548/large/opulous.PNG?1696516110",
+    "local_image": "opulous.png",
+    "alchemy_metadata": {
+      "name": "OpulousToken",
+      "symbol": "OPUL",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "gogopool-ggavax",
+    "symbol": "ggavax",
+    "name": "GoGoPool ggAVAX",
+    "market_cap": 15637529,
+    "current_price": 24.67,
+    "contract_address": "0xa25eaf2906fa1a3a13edac9b9657108af7b703e3",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/33543/large/ggavax-token-flat.png?1702383352",
+    "local_image": "gogopool-ggavax.png",
+    "alchemy_metadata": {
+      "name": "GoGoPool Liquid Staking Token",
+      "symbol": "ggAVAX",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "ox-fun",
+    "symbol": "ox",
+    "name": "OX Coin",
+    "market_cap": 14793927,
+    "current_price": 0.00498806,
+    "contract_address": "0xba0dda8762c24da9487f5fa026a9b64b695a07ea",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/35365/large/9.png?1727331352",
+    "local_image": "ox-fun.png",
+    "alchemy_metadata": {
+      "name": "OX Coin",
+      "symbol": "OX",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "avalanche-bridged-dai-avalanche",
+    "symbol": "dai",
+    "name": "Avalanche Bridged DAI (Avalanche)",
+    "market_cap": 14641058,
+    "current_price": 1.0,
+    "contract_address": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/39786/large/dai.png?1724110324",
+    "local_image": "avalanche-bridged-dai-avalanche.png",
+    "alchemy_metadata": {
+      "name": "Dai Stablecoin",
+      "symbol": "DAI.e",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "the-arena",
+    "symbol": "arena",
+    "name": "The Arena",
+    "market_cap": 14313235,
+    "current_price": 0.00842908,
+    "contract_address": "0xb8d7710f7d8349a506b75dd184f05777c82dad0c",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/51173/large/_ARENA_TokenLogo_200x200.png?1730282003",
+    "local_image": "the-arena.png",
+    "alchemy_metadata": {
+      "name": "ArenaToken",
+      "symbol": "ARENA",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "xen-crypto",
+    "symbol": "xen",
+    "name": "XEN Crypto",
+    "market_cap": 14048027,
+    "current_price": 7.8251e-8,
+    "contract_address": "0xc0c5aa69dbe4d6dddfbc89c0957686ec60f24389",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/27713/large/Xen.jpeg?1696526739",
+    "local_image": "xen-crypto.png",
+    "alchemy_metadata": {
+      "name": "XEN Crypto",
+      "symbol": "aXEN",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "dextf",
+    "symbol": "dextf",
+    "name": "Memento",
+    "market_cap": 13930829,
+    "current_price": 0.211652,
+    "contract_address": "0x03e8d118a1864c7dc53bf91e007ab7d91f5a06fa",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/12634/large/Logo_DEXTF_avatar_gradientFG_transparentBG.png?1741774960",
+    "local_image": "dextf.png",
+    "alchemy_metadata": {
+      "name": "DEXTF Token",
+      "symbol": "DEXTF",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "avant-usd",
+    "symbol": "avusd",
+    "name": "Avant USD",
+    "market_cap": 13793695,
+    "current_price": 0.997694,
+    "contract_address": "0x24de8771bc5ddb3362db529fc3358f2df3a0e346",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/53527/large/token-avusd.png?1736579003",
+    "local_image": "avant-usd.png",
+    "alchemy_metadata": {
+      "name": "avUSD",
+      "symbol": "avUSD",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "agora-dollar",
+    "symbol": "ausd",
+    "name": "AUSD",
+    "market_cap": 13332382,
+    "current_price": 0.999506,
+    "contract_address": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/39284/large/Circle_Agora_White_on_Olive_1080px.png?1722961274",
+    "local_image": "agora-dollar.png",
+    "alchemy_metadata": {
+      "name": "AUSD",
+      "symbol": "AUSD",
+      "decimals": 6,
+      "logo": null
+    }
+  },
+  {
+    "id": "wink-3",
+    "symbol": "wink",
+    "name": "Wink",
+    "market_cap": 13044322,
+    "current_price": 0.01291545,
+    "contract_address": "0x7698a5311da174a95253ce86c21ca7272b9b05f8",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/54466/large/Jc8Xgw8j_400x400.jpg?1739897165",
+    "local_image": "wink-3.png",
+    "alchemy_metadata": {
+      "name": "Wink",
+      "symbol": "WINK",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "colony",
+    "symbol": "cly",
+    "name": "Colony",
+    "market_cap": 12848658,
+    "current_price": 0.114066,
+    "contract_address": "0xec3492a2508ddf4fdc0cd76f31f340b30d1793e6",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/21358/large/colony.PNG?1696520723",
+    "local_image": "colony.png",
+    "alchemy_metadata": {
+      "name": "Colony Token",
+      "symbol": "CLY",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "allianceblock-nexera",
+    "symbol": "nxra",
+    "name": "Nexera",
+    "market_cap": 12584943,
+    "current_price": 0.01371262,
+    "contract_address": "0x644192291cc835a93d6330b24ea5f5fedd0eef9e",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/29181/large/nxra.png?1712255778",
+    "local_image": "allianceblock-nexera.png",
+    "alchemy_metadata": {
+      "name": "AllianceBlock Nexera Token",
+      "symbol": "NXRA",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "pharaoh",
+    "symbol": "phar",
+    "name": "Pharaoh",
+    "market_cap": 12291201,
+    "current_price": 670.53,
+    "contract_address": "0xaaab9d12a30504559b0c5a9a5977fee4a6081c6b",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/34686/large/PHAROAH.jpg?1705842746",
+    "local_image": "pharaoh.png",
+    "alchemy_metadata": {
+      "name": "PHARAOH",
+      "symbol": "PHAR",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "aleph",
+    "symbol": "aleph",
+    "name": "Aleph.im",
+    "market_cap": 12190113,
+    "current_price": 0.065386,
+    "contract_address": "0xc0fbc4967259786c743361a5885ef49380473dcf",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/11676/large/Aleph-Logo-BW.png?1696511566",
+    "local_image": "aleph.png",
+    "alchemy_metadata": {
+      "name": "Aleph.im V2 SuperToken",
+      "symbol": "ALEPH",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "yusd-stablecoin",
+    "symbol": "yusd",
+    "name": "YUSD Stablecoin",
+    "market_cap": 11754993,
+    "current_price": 0.991142,
+    "contract_address": "0x111111111111ed1d73f860f57b2798b683f2d325",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/25024/large/1_oJ0F2Zf6CuAhLP0zOboo6w.png?1696524176",
+    "local_image": "yusd-stablecoin.png",
+    "alchemy_metadata": {
+      "name": "YUSD Stablecoin",
+      "symbol": "YUSD",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "playa3ull-games-2",
+    "symbol": "3ull",
+    "name": "PLAYA3ULL GAMES",
+    "market_cap": 11411519,
+    "current_price": 0.00082519,
+    "contract_address": "0xa77e70d0af1ac7ff86726740db1bd065c3566937",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/30695/large/App_Icon_Round.png?1696529564",
+    "local_image": "playa3ull-games-2.png",
+    "alchemy_metadata": {
+      "name": "w3ULL",
+      "symbol": "w3ULL",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "bilira",
+    "symbol": "tryb",
+    "name": "BiLira",
+    "market_cap": 11297343,
+    "current_price": 0.02615261,
+    "contract_address": "0x564a341df6c126f90cf3ecb92120fd7190acb401",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/10119/large/JBs9jiXO_400x400.jpg?1696510144",
+    "local_image": "bilira.png",
+    "alchemy_metadata": {
+      "name": "BiLira",
+      "symbol": "TRYB",
+      "decimals": 6,
+      "logo": null
+    }
+  },
+  {
+    "id": "avalaunch",
+    "symbol": "xava",
+    "name": "Avalaunch",
+    "market_cap": 10725280,
+    "current_price": 0.281107,
+    "contract_address": "0xd1c3f94de7e5b45fa4edbba472491a9f4b166fc4",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/15466/large/avalaunch.png?1696515112",
+    "local_image": "avalaunch.png",
+    "alchemy_metadata": {
+      "name": "Avalaunch",
+      "symbol": "XAVA",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "trustswap",
+    "symbol": "swap",
+    "name": "TrustSwap",
+    "market_cap": 10165656,
+    "current_price": 0.101687,
+    "contract_address": "0xc7b5d72c836e718cda8888eaf03707faef675079",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/11795/large/Untitled_design-removebg-preview.png?1696511671",
+    "local_image": "trustswap.png",
+    "alchemy_metadata": {
+      "name": "TrustSwap Token",
+      "symbol": "SWAP.e",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "vnx-swiss-franc",
+    "symbol": "vchf",
+    "name": "VNX Swiss Franc",
+    "market_cap": 9728894,
+    "current_price": 1.13,
+    "contract_address": "0x228a48df6819ccc2eca01e2192ebafffdad56c19",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/29547/large/VNXCHF_%282%29.png?1696528488",
+    "local_image": "vnx-swiss-franc.png",
+    "alchemy_metadata": {
+      "name": "VNX Franc",
+      "symbol": "VCHF",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "nuklai",
+    "symbol": "nai",
+    "name": "Nuklai",
+    "market_cap": 9210564,
+    "current_price": 0.00260031,
+    "contract_address": "0x5ac34c53a04b9aaa0bf047e7291fb4e8a48f2a18",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/36904/large/nuklai_-_full_color_SQ_200.png?1712711676",
+    "local_image": "nuklai.png",
+    "alchemy_metadata": {
+      "name": "Nuklai Token",
+      "symbol": "NAI",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "shrapnel-2",
+    "symbol": "shrap",
+    "name": "Shrapnel",
+    "market_cap": 8036874,
+    "current_price": 0.00747853,
+    "contract_address": "0xd402298a793948698b9a63311404fbbee944eafd",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/32793/large/shrapnel.png?1699441661",
+    "local_image": "shrapnel-2.png",
+    "alchemy_metadata": {
+      "name": "SHRAPToken",
+      "symbol": "SHRAP",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "avant-staked-usd",
+    "symbol": "savusd",
+    "name": "Avant Staked USD",
+    "market_cap": 7968522,
+    "current_price": 1.028,
+    "contract_address": "0x06d47f3fb376649c3a9dafe069b3d6e35572219e",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/53558/large/token-savusd.png?1736674786",
+    "local_image": "avant-staked-usd.png",
+    "alchemy_metadata": {
+      "name": "Staked avUSD",
+      "symbol": "savUSD",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "defi-kingdoms",
+    "symbol": "jewel",
+    "name": "DeFi Kingdoms",
+    "market_cap": 7634920,
+    "current_price": 0.067716,
+    "contract_address": "0x997ddaa07d716995de90577c123db411584e5e46",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/18570/large/jewel_token_x2.png?1702076846",
+    "local_image": "defi-kingdoms.png",
+    "alchemy_metadata": {
+      "name": "JEWEL",
+      "symbol": "JEWEL",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "tarot-2",
+    "symbol": "tarot",
+    "name": "Tarot",
+    "market_cap": 7037709,
+    "current_price": 0.105336,
+    "contract_address": "0x5ecfec22aa950cb5a3b4fd7249dc30b2bd160f18",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/31800/large/TAROT.jpg?1696530615",
+    "local_image": "tarot-2.png",
+    "alchemy_metadata": {
+      "name": "Tarot",
+      "symbol": "TAROT",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "kepler",
+    "symbol": "avia",
+    "name": "Kepler",
+    "market_cap": 6587909,
+    "current_price": 0.065888,
+    "contract_address": "0xb9a98894ffbfa98c73a818b5b044e5b1c8666f56",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/52429/large/0xb9a98894ffbfa98c73a818b5b044e5b1c8666f56_%281%29.png?1733332999",
+    "local_image": "kepler.png",
+    "alchemy_metadata": {
+      "name": "Kepler",
+      "symbol": "AVIA",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "be-for-fwx",
+    "symbol": "b4fwx",
+    "name": "Be For FWX",
+    "market_cap": 6484518,
+    "current_price": 0.00635147,
+    "contract_address": "0x13b1f0579bc895b2ffb835f295fd9b63fef36da0",
+    "chain": "avalanche",
+    "image_url": "https://coin-images.coingecko.com/coins/images/38663/large/b4fwx-token.png?1736959778",
+    "local_image": "be-for-fwx.png",
+    "alchemy_metadata": {
+      "name": "Be For FWX",
+      "symbol": "B4FWX",
+      "decimals": 18,
+      "logo": null
+    }
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "id": "usd-coin",
+    "symbol": "usdc",
+    "name": "USDC",
+    "market_cap": 60161596743,
+    "current_price": 0.999787,
+    "contract_address": "0x078d782b760474a361dda0af3839290b0ef57ad6",
+    "chain": "unichain",
+    "image_url": "https://coin-images.coingecko.com/coins/images/6319/large/usdc.png?1696506694",
+    "local_image": "usd-coin.png",
+    "alchemy_metadata": {
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logo": null
+    }
+  },
+  {
+    "id": "wrapped-steth",
+    "symbol": "wsteth",
+    "name": "Wrapped stETH",
+    "market_cap": 8694945110,
+    "current_price": 2424.56,
+    "contract_address": "0xc02fe7317d4eb8753a02c35fe019786854a92001",
+    "chain": "unichain",
+    "image_url": "https://coin-images.coingecko.com/coins/images/18834/large/wstETH.png?1696518295",
+    "local_image": "wrapped-steth.png",
+    "alchemy_metadata": {
+      "name": "Wrapped liquid staked Ether 2.0",
+      "symbol": "wstETH",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "uniswap",
+    "symbol": "uni",
+    "name": "Uniswap",
+    "market_cap": 4117339931,
+    "current_price": 6.86,
+    "contract_address": "0x8f187aa05619a017077f5308904739877ce9ea21",
+    "chain": "unichain",
+    "image_url": "https://coin-images.coingecko.com/coins/images/12504/large/uniswap-logo.png?1720676669",
+    "local_image": "uniswap.png",
+    "alchemy_metadata": {
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "venus",
+    "symbol": "xvs",
+    "name": "Venus",
+    "market_cap": 103940034,
+    "current_price": 6.27,
+    "contract_address": "0x81908bbaad3f6fc74093540ab2e9b749bb62aa0d",
+    "chain": "unichain",
+    "image_url": "https://coin-images.coingecko.com/coins/images/12677/large/XVS_Token.jpg?1727454303",
+    "local_image": "venus.png",
+    "alchemy_metadata": {
+      "name": "Venus XVS",
+      "symbol": "XVS",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "abe-cto",
+    "symbol": "abe",
+    "name": "ABE CTO",
+    "market_cap": 1415724,
+    "current_price": 0.0013952,
+    "contract_address": "0xd4390b4a41a1057ae0acdd4b9435a0c7555ab464",
+    "chain": "unichain",
+    "image_url": "https://coin-images.coingecko.com/coins/images/54953/large/200x200.jpg?1742809697",
+    "local_image": "abe-cto.png",
+    "alchemy_metadata": {
+      "name": "ABE",
+      "symbol": "ABE",
+      "decimals": 9,
+      "logo": null
+    }
+  },
+  {
+    "id": "unicorn-4",
+    "symbol": "unicorn",
+    "name": "Unicorn",
+    "market_cap": 630187,
+    "current_price": 0.0006307,
+    "contract_address": "0x926dc7b96bb2f4a91c2a67e291faf482691a3001",
+    "chain": "unichain",
+    "image_url": "https://coin-images.coingecko.com/coins/images/54332/large/unicorn.jpg?1739325321",
+    "local_image": "unicorn-4.png",
+    "alchemy_metadata": {
+      "name": "UNICORN",
+      "symbol": "UNICORN",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "openusdt",
+    "symbol": "ousdt",
+    "name": "OpenUSDT",
+    "market_cap": 0.0,
+    "current_price": 1.001,
+    "contract_address": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
+    "chain": "unichain",
+    "image_url": "https://coin-images.coingecko.com/coins/images/54815/large/ousdt.jpg?1741848258",
+    "local_image": "openusdt.png",
+    "alchemy_metadata": {
+      "name": "OpenUSDT",
+      "symbol": "oUSDT",
+      "decimals": 6,
+      "logo": null
+    }
+  }
+]

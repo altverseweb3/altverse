@@ -1,0 +1,1702 @@
+[
+  {
+    "id": "usd-coin",
+    "symbol": "usdc",
+    "name": "USDC",
+    "market_cap": 60161596743,
+    "current_price": 0.999787,
+    "contract_address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/6319/large/usdc.png?1696506694",
+    "local_image": "usd-coin.png",
+    "alchemy_metadata": {
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logo": "https://static.alchemyapi.io/images/assets/3408.png"
+    }
+  },
+  {
+    "id": "chainlink",
+    "symbol": "link",
+    "name": "Chainlink",
+    "market_cap": 9987592436,
+    "current_price": 15.66,
+    "contract_address": "0xf97f4df75117a78c1a5a0dbb814af92458539fb4",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/877/large/chainlink-new-logo.png?1696502009",
+    "local_image": "chainlink.png",
+    "alchemy_metadata": {
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/1975.png"
+    }
+  },
+  {
+    "id": "usds",
+    "symbol": "usds",
+    "name": "USDS",
+    "market_cap": 8311444723,
+    "current_price": 0.999808,
+    "contract_address": "0x6491c05a82219b8d1479057361ff1654749b876b",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/39926/large/usds.webp?1726666683",
+    "local_image": "usds.png",
+    "alchemy_metadata": {
+      "name": "USDS Stablecoin",
+      "symbol": "USDS",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "wrapped-eeth",
+    "symbol": "weeth",
+    "name": "Wrapped eETH",
+    "market_cap": 4532994656,
+    "current_price": 2153.08,
+    "contract_address": "0x35751007a407ca6feffe80b3cb397736d2cf4dbe",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/33033/large/weETH.png?1701438396",
+    "local_image": "wrapped-eeth.png",
+    "alchemy_metadata": {
+      "name": "Wrapped eETH",
+      "symbol": "weETH",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/28695.png"
+    }
+  },
+  {
+    "id": "uniswap",
+    "symbol": "uni",
+    "name": "Uniswap",
+    "market_cap": 4117339931,
+    "current_price": 6.86,
+    "contract_address": "0xfa7f8980b0f1e64a2062791cc3b0871572f1f7f0",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/12504/large/uniswap-logo.png?1720676669",
+    "local_image": "uniswap.png",
+    "alchemy_metadata": {
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/7083.png"
+    }
+  },
+  {
+    "id": "pepe",
+    "symbol": "pepe",
+    "name": "Pepe",
+    "market_cap": 3616246828,
+    "current_price": 8.6e-6,
+    "contract_address": "0x25d887ce7a35172c62febfd67a1856f20faebb00",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/29850/large/pepe-token.jpeg?1696528776",
+    "local_image": "pepe.png",
+    "alchemy_metadata": {
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "susds",
+    "symbol": "susds",
+    "name": "sUSDS",
+    "market_cap": 3228864497,
+    "current_price": 1.047,
+    "contract_address": "0xddb46999f8891663a8f2828d25298f70416d7610",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/52721/large/sUSDS_Coin.png?1734086971",
+    "local_image": "susds.png",
+    "alchemy_metadata": {
+      "name": "Savings USDS",
+      "symbol": "sUSDS",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "coinbase-wrapped-btc",
+    "symbol": "cbbtc",
+    "name": "Coinbase Wrapped BTC",
+    "market_cap": 2789878248,
+    "current_price": 87657,
+    "contract_address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/40143/large/cbbtc.webp?1726136727",
+    "local_image": "coinbase-wrapped-btc.png",
+    "alchemy_metadata": {
+      "name": "",
+      "symbol": "",
+      "decimals": null,
+      "logo": null
+    }
+  },
+  {
+    "id": "aave",
+    "symbol": "aave",
+    "name": "Aave",
+    "market_cap": 2751872207,
+    "current_price": 182.49,
+    "contract_address": "0xba5ddd1f9d7f570dc94a51479a000e3bce967196",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/12645/large/aave-token-round.png?1720472354",
+    "local_image": "aave.png",
+    "alchemy_metadata": {
+      "name": "Aave Token",
+      "symbol": "AAVE",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "blackrock-usd-institutional-digital-liquidity-fund",
+    "symbol": "buidl",
+    "name": "BlackRock USD Institutional Digital Liquidity Fund",
+    "market_cap": 1955277111,
+    "current_price": 1.0,
+    "contract_address": "0xa6525ae43edcd03dc08e775774dcabd3bb925872",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/36291/large/blackrock.png?1711013223",
+    "local_image": "blackrock-usd-institutional-digital-liquidity-fund.png",
+    "alchemy_metadata": {
+      "name": "BlackRock USD Institutional Digital Liquidity Fund",
+      "symbol": "BUIDL",
+      "decimals": 6,
+      "logo": null
+    }
+  },
+  {
+    "id": "arbitrum",
+    "symbol": "arb",
+    "name": "Arbitrum",
+    "market_cap": 1793598828,
+    "current_price": 0.388555,
+    "contract_address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/16547/large/arb.jpg?1721358242",
+    "local_image": "arbitrum.png",
+    "alchemy_metadata": {
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/11841.png"
+    }
+  },
+  {
+    "id": "usdt0",
+    "symbol": "usdt0",
+    "name": "USDT0",
+    "market_cap": 1571856023,
+    "current_price": 1.0,
+    "contract_address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/53705/large/usdt0.jpg?1737086183",
+    "local_image": "usdt0.png",
+    "alchemy_metadata": {
+      "name": "Tether USDt",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logo": "https://static.alchemyapi.io/images/assets/825.png"
+    }
+  },
+  {
+    "id": "solv-btc",
+    "symbol": "solvbtc",
+    "name": "Solv Protocol SolvBTC",
+    "market_cap": 1363271309,
+    "current_price": 87536,
+    "contract_address": "0x3647c54c4c2c65bc7a2d63c0da2809b399dbbdc0",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/36800/large/solvBTC.png?1719810684",
+    "local_image": "solv-btc.png",
+    "alchemy_metadata": {
+      "name": "SolvBTC",
+      "symbol": "SolvBTC",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/33312.png"
+    }
+  },
+  {
+    "id": "bonk",
+    "symbol": "bonk",
+    "name": "Bonk",
+    "market_cap": 1097403110,
+    "current_price": 1.419e-5,
+    "contract_address": "0x09199d9a5f4448d0848e4395d065e1ad9c4a1f74",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/28600/large/bonk.jpg?1696527587",
+    "local_image": "bonk.png",
+    "alchemy_metadata": {
+      "name": "Bonk",
+      "symbol": "BONK",
+      "decimals": 5,
+      "logo": "https://static.alchemyapi.io/images/assets/23095.png"
+    }
+  },
+  {
+    "id": "the-graph",
+    "symbol": "grt",
+    "name": "The Graph",
+    "market_cap": 1019816756,
+    "current_price": 0.106823,
+    "contract_address": "0x9623063377ad1b27544c965ccd7342f7ea7e88c7",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/13397/large/Graph_Token.png?1696513159",
+    "local_image": "the-graph.png",
+    "alchemy_metadata": {
+      "name": "The Graph",
+      "symbol": "GRT",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/6719.png"
+    }
+  },
+  {
+    "id": "rocket-pool-eth",
+    "symbol": "reth",
+    "name": "Rocket Pool ETH",
+    "market_cap": 996959956,
+    "current_price": 2292.42,
+    "contract_address": "0xec70dcb4a1efa46b8f2d97c310c9c4790ba5ffa8",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/20764/large/reth.png?1696520159",
+    "local_image": "rocket-pool-eth.png",
+    "alchemy_metadata": {
+      "name": "Rocket Pool ETH",
+      "symbol": "rETH",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "usual-usd",
+    "symbol": "usd0",
+    "name": "Usual USD",
+    "market_cap": 948860515,
+    "current_price": 0.997814,
+    "contract_address": "0x35f1c5cb7fb977e669fd244c567da99d8a3a6850",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/38272/large/USD0LOGO.png?1716962811",
+    "local_image": "usual-usd.png",
+    "alchemy_metadata": {
+      "name": "Usual USD",
+      "symbol": "USD0",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/32307.png"
+    }
+  },
+  {
+    "id": "lido-dao",
+    "symbol": "ldo",
+    "name": "Lido DAO",
+    "market_cap": 946581666,
+    "current_price": 1.056,
+    "contract_address": "0x13ad51ed4f1b7e9dc168d8a00cb3f4ddd85efa60",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/13573/large/Lido_DAO.png?1696513326",
+    "local_image": "lido-dao.png",
+    "alchemy_metadata": {
+      "name": "Lido DAO",
+      "symbol": "LDO",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/8000.png"
+    }
+  },
+  {
+    "id": "solv-protocol-solvbtc-bbn",
+    "symbol": "solvbtc.bbn",
+    "name": "Solv Protocol SolvBTC.BBN",
+    "market_cap": 838111872,
+    "current_price": 86961,
+    "contract_address": "0x346c574c56e1a4aaa8dc88cda8f7eb12b39947ab",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/39384/large/unnamed.png?1721961640",
+    "local_image": "solv-protocol-solvbtc-bbn.png",
+    "alchemy_metadata": {
+      "name": "SolvBTC Babylon",
+      "symbol": "SolvBTC.BBN",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "curve-dao-token",
+    "symbol": "crv",
+    "name": "Curve DAO",
+    "market_cap": 758437610,
+    "current_price": 0.580499,
+    "contract_address": "0x11cdb42b0eb46d95f990bedd4695a6e3fa034978",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/12124/large/Curve.png?1696511967",
+    "local_image": "curve-dao-token.png",
+    "alchemy_metadata": {
+      "name": "Curve DAO Token",
+      "symbol": "CRV",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/6538.png"
+    }
+  },
+  {
+    "id": "arbitrum-bridged-wbtc-arbitrum-one",
+    "symbol": "wbtc",
+    "name": "Arbitrum Bridged WBTC (Arbitrum One)",
+    "market_cap": 707508160,
+    "current_price": 87393,
+    "contract_address": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/39532/large/wbtc.png?1722810336",
+    "local_image": "arbitrum-bridged-wbtc-arbitrum-one.png",
+    "alchemy_metadata": {
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logo": "https://static.alchemyapi.io/images/assets/3717.png"
+    }
+  },
+  {
+    "id": "pancakeswap-token",
+    "symbol": "cake",
+    "name": "PancakeSwap",
+    "market_cap": 682905839,
+    "current_price": 2.33,
+    "contract_address": "0x1b896893dfc86bb67cf57767298b9073d2c1ba2c",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/12632/large/pancakeswap-cake-logo_%281%29.png?1696512440",
+    "local_image": "pancakeswap-token.png",
+    "alchemy_metadata": {
+      "name": "PancakeSwap",
+      "symbol": "CAKE",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/7186.png"
+    }
+  },
+  {
+    "id": "usdx-money-usdx",
+    "symbol": "usdx",
+    "name": "Stables Labs USDX",
+    "market_cap": 626354438,
+    "current_price": 1.001,
+    "contract_address": "0xf3527ef8de265eaa3716fb312c12847bfba66cef",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/50360/large/USDX200px.png?1731906044",
+    "local_image": "usdx-money-usdx.png",
+    "alchemy_metadata": {
+      "name": "USDX",
+      "symbol": "USDX",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "renzo-restaked-eth",
+    "symbol": "ezeth",
+    "name": "Renzo Restaked ETH",
+    "market_cap": 622154802,
+    "current_price": 2108.35,
+    "contract_address": "0x2416092f143378750bb29b79ed961ab195cceea5",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/34753/large/Ezeth_logo_circle.png?1713496404",
+    "local_image": "renzo-restaked-eth.png",
+    "alchemy_metadata": {
+      "name": "Renzo Restaked ETH",
+      "symbol": "EZETH",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/29520.png"
+    }
+  },
+  {
+    "id": "pendle",
+    "symbol": "pendle",
+    "name": "Pendle",
+    "market_cap": 474586810,
+    "current_price": 2.95,
+    "contract_address": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728",
+    "local_image": "pendle.png",
+    "alchemy_metadata": {
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/9481.png"
+    }
+  },
+  {
+    "id": "reserve-rights-token",
+    "symbol": "rsr",
+    "name": "Reserve Rights",
+    "market_cap": 440461129,
+    "current_price": 0.00785819,
+    "contract_address": "0xca5ca9083702c56b481d1eec86f1776fdbd2e594",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/8365/large/RSR_Blue_Circle_1000.png?1721777856",
+    "local_image": "reserve-rights-token.png",
+    "alchemy_metadata": {
+      "name": "Reserve Rights",
+      "symbol": "RSR",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "clbtc",
+    "symbol": "clbtc",
+    "name": "clBTC",
+    "market_cap": 436491869,
+    "current_price": 87298,
+    "contract_address": "0x1792865d493fe4dfdd504010d3c0f6da11e8046d",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/54164/large/clBTC.png?1738482999",
+    "local_image": "clbtc.png",
+    "alchemy_metadata": {
+      "name": "clBTC",
+      "symbol": "clBTC",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "arbitrum-bridged-weth-arbitrum-one",
+    "symbol": "weth",
+    "name": "Arbitrum Bridged WETH (Arbitrum One)",
+    "market_cap": 423005550,
+    "current_price": 2026.38,
+    "contract_address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/39713/large/WETH.PNG?1723731496",
+    "local_image": "arbitrum-bridged-weth-arbitrum-one.png",
+    "alchemy_metadata": {
+      "name": "WETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/2396.png"
+    }
+  },
+  {
+    "id": "olympus",
+    "symbol": "ohm",
+    "name": "Olympus",
+    "market_cap": 421347096,
+    "current_price": 25.63,
+    "contract_address": "0xf0cb2dc0db5e6c66b9a70ac27b06b878da017028",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/14483/large/token_OHM_%281%29.png?1696514169",
+    "local_image": "olympus.png",
+    "alchemy_metadata": {
+      "name": "Olympus v2",
+      "symbol": "OHM",
+      "decimals": 9,
+      "logo": "https://static.alchemyapi.io/images/assets/9067.png"
+    }
+  },
+  {
+    "id": "compound-governance-token",
+    "symbol": "comp",
+    "name": "Compound",
+    "market_cap": 404046853,
+    "current_price": 45.21,
+    "contract_address": "0x354a6da3fcde098f8389cad84b0182725c6c91de",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/10775/large/COMP.png?1696510737",
+    "local_image": "compound-governance-token.png",
+    "alchemy_metadata": {
+      "name": "Compound",
+      "symbol": "COMP",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "axelar",
+    "symbol": "axl",
+    "name": "Axelar",
+    "market_cap": 403958593,
+    "current_price": 0.430125,
+    "contract_address": "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/27277/large/V-65_xQ1_400x400.jpeg?1696526329",
+    "local_image": "axelar.png",
+    "alchemy_metadata": {
+      "name": "Axelar",
+      "symbol": "AXL",
+      "decimals": 6,
+      "logo": "https://static.alchemyapi.io/images/assets/17799.png"
+    }
+  },
+  {
+    "id": "tbtc",
+    "symbol": "tbtc",
+    "name": "tBTC",
+    "market_cap": 388797414,
+    "current_price": 87379,
+    "contract_address": "0x6c84a8f1c29108f47a79964b5fe888d4f4d0de40",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/11224/large/0x18084fba666a33d37592fa2633fd49a74dd93a88.png?1696511155",
+    "local_image": "tbtc.png",
+    "alchemy_metadata": {
+      "name": "tBTC",
+      "symbol": "TBTC",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/26133.png"
+    }
+  },
+  {
+    "id": "ondo-us-dollar-yield",
+    "symbol": "usdy",
+    "name": "Ondo US Dollar Yield",
+    "market_cap": 387861338,
+    "current_price": 1.096,
+    "contract_address": "0x35e050d3c0ec2d29d269a8ecea763a183bdf9a9d",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/31700/large/usdy_%281%29.png?1696530524",
+    "local_image": "ondo-us-dollar-yield.png",
+    "alchemy_metadata": {
+      "name": "Ondo US Dollar Yield",
+      "symbol": "USDY",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/29256.png"
+    }
+  },
+  {
+    "id": "cgeth-hashkey-cloud",
+    "symbol": "cgeth.hashkey",
+    "name": "cgETH Hashkey Cloud",
+    "market_cap": 360159451,
+    "current_price": 2019.85,
+    "contract_address": "0x0ce45dd53affbb011884ef1866e0738f58ab7969",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/54162/large/Cgeth_Hashkey.png?1738482570",
+    "local_image": "cgeth-hashkey-cloud.png",
+    "alchemy_metadata": {
+      "name": "cgETH Hashkey Cloud",
+      "symbol": "cgETH.hashkey",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "layerzero",
+    "symbol": "zro",
+    "name": "LayerZero",
+    "market_cap": 356463170,
+    "current_price": 3.21,
+    "contract_address": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/28206/large/ftxG9_TJ_400x400.jpeg?1696527208",
+    "local_image": "layerzero.png",
+    "alchemy_metadata": {
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/26997.png"
+    }
+  },
+  {
+    "id": "frax",
+    "symbol": "frax",
+    "name": "Frax",
+    "market_cap": 348428060,
+    "current_price": 0.999229,
+    "contract_address": "0x17fc002b466eec40dae837fc4be5c67993ddbd6f",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/13422/large/frax-logo.png?1739780303",
+    "local_image": "frax.png",
+    "alchemy_metadata": {
+      "name": "Frax",
+      "symbol": "FRAX",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/6952.png"
+    }
+  },
+  {
+    "id": "gnosis",
+    "symbol": "gno",
+    "name": "Gnosis",
+    "market_cap": 339281579,
+    "current_price": 131.0,
+    "contract_address": "0xa0b862f60edef4452f25b4160f177db44deb6cf1",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/662/large/logo_square_simple_300px.png?1696501854",
+    "local_image": "gnosis.png",
+    "alchemy_metadata": {
+      "name": "Gnosis",
+      "symbol": "GNO",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/1659.png"
+    }
+  },
+  {
+    "id": "wormhole",
+    "symbol": "w",
+    "name": "Wormhole",
+    "market_cap": 305284560,
+    "current_price": 0.104451,
+    "contract_address": "0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/35087/large/womrhole_logo_full_color_rgb_2000px_72ppi_fb766ac85a.png?1708688954",
+    "local_image": "wormhole.png",
+    "alchemy_metadata": {
+      "name": "Wormhole",
+      "symbol": "W",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/29587.png"
+    }
+  },
+  {
+    "id": "coinbase-wrapped-staked-eth",
+    "symbol": "cbeth",
+    "name": "Coinbase Wrapped Staked ETH",
+    "market_cap": 288666031,
+    "current_price": 2216.77,
+    "contract_address": "0x1debd73e752beaf79865fd6446b0c970eae7732f",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/27008/large/cbeth.png?1709186989",
+    "local_image": "coinbase-wrapped-staked-eth.png",
+    "alchemy_metadata": {
+      "name": "Coinbase Wrapped Staked ETH",
+      "symbol": "cbETH",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "aethir",
+    "symbol": "ath",
+    "name": "Aethir",
+    "market_cap": 281188031,
+    "current_price": 0.03557927,
+    "contract_address": "0xc87b37a581ec3257b734886d9d3a581f5a9d056c",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/36179/large/logogram_circle_dark_green_vb_green_%281%29.png?1718232706",
+    "local_image": "aethir.png",
+    "alchemy_metadata": {
+      "name": "Aethir",
+      "symbol": "ATH",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/30083.png"
+    }
+  },
+  {
+    "id": "sweth",
+    "symbol": "sweth",
+    "name": "Swell Ethereum",
+    "market_cap": 266943910,
+    "current_price": 2198.97,
+    "contract_address": "0xbc011a12da28e8f0f528d9ee5e7039e22f91cf18",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/30326/large/_lB7zEtS_400x400.jpg?1696529227",
+    "local_image": "sweth.png",
+    "alchemy_metadata": {
+      "name": "swETH",
+      "symbol": "swETH",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "usdd",
+    "symbol": "usdd",
+    "name": "USDD",
+    "market_cap": 265266349,
+    "current_price": 1.0,
+    "contract_address": "0x680447595e8b7b3aa1b43beb9f6098c79ac2ab3f",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/25380/large/UUSD.jpg?1696524513",
+    "local_image": "usdd.png",
+    "alchemy_metadata": {
+      "name": "Decentralized USD",
+      "symbol": "USDD",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "frax-ether",
+    "symbol": "frxeth",
+    "name": "Frax Ether",
+    "market_cap": 256241885,
+    "current_price": 2022.63,
+    "contract_address": "0x178412e79c25968a32e89b11f63b33f733770c2a",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/28284/large/frxETH_icon.png?1696527284",
+    "local_image": "frax-ether.png",
+    "alchemy_metadata": {
+      "name": "Frax Finance - Frax Ether",
+      "symbol": "FRXETH",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/23225.png"
+    }
+  },
+  {
+    "id": "livepeer",
+    "symbol": "lpt",
+    "name": "Livepeer",
+    "market_cap": 226865315,
+    "current_price": 5.79,
+    "contract_address": "0x289ba1701c2f088cf0faf8b3705246331cb8a839",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/7137/large/badge-logo-circuit-green.png?1719357686",
+    "local_image": "livepeer.png",
+    "alchemy_metadata": {
+      "name": "Livepeer Token",
+      "symbol": "LPT",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "stargate-finance",
+    "symbol": "stg",
+    "name": "Stargate Finance",
+    "market_cap": 224493276,
+    "current_price": 0.231575,
+    "contract_address": "0x6694340fc020c5e6b96567843da2df01b2ce1eb6",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/24413/large/STG_LOGO.png?1696523595",
+    "local_image": "stargate-finance.png",
+    "alchemy_metadata": {
+      "name": "Stargate Finance",
+      "symbol": "STG",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/18934.png"
+    }
+  },
+  {
+    "id": "gho",
+    "symbol": "gho",
+    "name": "GHO",
+    "market_cap": 208092326,
+    "current_price": 0.99981,
+    "contract_address": "0x7dff72693f6a4149b17e7c6314655f6a9f7c8b33",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/30663/large/gho-token-logo.png?1720517092",
+    "local_image": "gho.png",
+    "alchemy_metadata": {
+      "name": "Gho Token",
+      "symbol": "GHO",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "frax-share",
+    "symbol": "fxs",
+    "name": "Frax Share",
+    "market_cap": 207286208,
+    "current_price": 2.33,
+    "contract_address": "0x9d2f299715d94d8a7e6f5eaa8e654e8c74a988a7",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/13423/large/Frax_Shares_icon.png?1696513183",
+    "local_image": "frax-share.png",
+    "alchemy_metadata": {
+      "name": "Frax Share",
+      "symbol": "FXS",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/6953.png"
+    }
+  },
+  {
+    "id": "instadapp",
+    "symbol": "fluid",
+    "name": "Fluid",
+    "market_cap": 203417241,
+    "current_price": 5.16,
+    "contract_address": "0xae7d4bf2bb00a2f4ade1c726819fcaca0e517a5b",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/14688/large/Logo_1_%28brighter%29.png?1734430693",
+    "local_image": "instadapp.png",
+    "alchemy_metadata": {
+      "name": "Fluid",
+      "symbol": "FLUID",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "ankr",
+    "symbol": "ankr",
+    "name": "Ankr Network",
+    "market_cap": 199553096,
+    "current_price": 0.01996592,
+    "contract_address": "0xaeaeed23478c3a4b798e4ed40d8b7f41366ae861",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/4324/large/U85xTl2.png?1696504928",
+    "local_image": "ankr.png",
+    "alchemy_metadata": {
+      "name": "Ankr",
+      "symbol": "ANKR",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/3783.png"
+    }
+  },
+  {
+    "id": "staked-frax-ether",
+    "symbol": "sfrxeth",
+    "name": "Staked Frax Ether",
+    "market_cap": 193393036,
+    "current_price": 2260.09,
+    "contract_address": "0x95ab45875cffdba1e5f451b950bc2e42c0053f39",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/28285/large/sfrxETH_icon.png?1696527285",
+    "local_image": "staked-frax-ether.png",
+    "alchemy_metadata": {
+      "name": "Frax Staked Ether",
+      "symbol": "SFRXETH",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/23177.png"
+    }
+  },
+  {
+    "id": "woo-network",
+    "symbol": "woo",
+    "name": "WOO",
+    "market_cap": 183291033,
+    "current_price": 0.095665,
+    "contract_address": "0xcafcd85d8ca7ad1e1c6f82f651fa15e33aefd07b",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/12921/large/WOO_Logos_2023_Profile_Pic_WOO.png?1696512709",
+    "local_image": "woo-network.png",
+    "alchemy_metadata": {
+      "name": "WOO",
+      "symbol": "WOO",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/7501.png"
+    }
+  },
+  {
+    "id": "yearn-finance",
+    "symbol": "yfi",
+    "name": "yearn.finance",
+    "market_cap": 183029454,
+    "current_price": 5418.54,
+    "contract_address": "0x82e3a8f066a6989666b031d916c43672085b1582",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/11849/large/yearn.jpg?1696511720",
+    "local_image": "yearn-finance.png",
+    "alchemy_metadata": {
+      "name": "yearn.finance",
+      "symbol": "YFI",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/5864.png"
+    }
+  },
+  {
+    "id": "uxlink",
+    "symbol": "uxlink",
+    "name": "UXLINK",
+    "market_cap": 172754203,
+    "current_price": 0.512561,
+    "contract_address": "0x1a6b3a62391eccaaa992ade44cd4afe6bec8cff1",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/39229/large/uxlink.jpg?1721201390",
+    "local_image": "uxlink.png",
+    "alchemy_metadata": {
+      "name": "UXLINK",
+      "symbol": "UXLINK",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/32257.png"
+    }
+  },
+  {
+    "id": "rcge",
+    "symbol": "$rcge",
+    "name": "RCGE",
+    "market_cap": 168805259,
+    "current_price": 0.01421518,
+    "contract_address": "0x0d5105ec5bbbf17dba7a87e1aed2c2c15394a9e2",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/51366/large/1000233806.png?1730910977",
+    "local_image": "rcge.png",
+    "alchemy_metadata": {
+      "name": "RechargeGo",
+      "symbol": "RCGE",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/11570.png"
+    }
+  },
+  {
+    "id": "ether-fi",
+    "symbol": "ethfi",
+    "name": "Ether.fi",
+    "market_cap": 159230139,
+    "current_price": 0.6949,
+    "contract_address": "0x7189fb5b6504bbff6a852b13b7b82a3c118fdc27",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/35958/large/etherfi.jpeg?1710254562",
+    "local_image": "ether-fi.png",
+    "alchemy_metadata": {
+      "name": "ether.fi",
+      "symbol": "ETHFI",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/29814.png"
+    }
+  },
+  {
+    "id": "gmx",
+    "symbol": "gmx",
+    "name": "GMX",
+    "market_cap": 144205019,
+    "current_price": 14.38,
+    "contract_address": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/18323/large/arbit.png?1696517814",
+    "local_image": "gmx.png",
+    "alchemy_metadata": {
+      "name": "GMX",
+      "symbol": "GMX",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/11857.png"
+    }
+  },
+  {
+    "id": "world-mobile-token",
+    "symbol": "wmtx",
+    "name": "World Mobile Token",
+    "market_cap": 141982600,
+    "current_price": 0.200521,
+    "contract_address": "0xdbb5cf12408a3ac17d668037ce289f9ea75439d7",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/17333/large/Token_icon_round_1024.png?1741247846",
+    "local_image": "world-mobile-token.png",
+    "alchemy_metadata": {
+      "name": "World Mobile Token",
+      "symbol": "WMTX",
+      "decimals": 6,
+      "logo": "https://static.alchemyapi.io/images/assets/13769.png"
+    }
+  },
+  {
+    "id": "loopring",
+    "symbol": "lrc",
+    "name": "Loopring",
+    "market_cap": 139355380,
+    "current_price": 0.111852,
+    "contract_address": "0x46d0ce7de6247b0a95f67b43b589b4041bae7fbe",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/913/large/LRC.png?1696502034",
+    "local_image": "loopring.png",
+    "alchemy_metadata": {
+      "name": "LoopringCoin V2",
+      "symbol": "LRC",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "sushi",
+    "symbol": "sushi",
+    "name": "Sushi",
+    "market_cap": 135530375,
+    "current_price": 0.703187,
+    "contract_address": "0xd4d42f0b6def4ce0383636770ef773390d85c61a",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png?1696512101",
+    "local_image": "sushi.png",
+    "alchemy_metadata": {
+      "name": "SushiSwap",
+      "symbol": "SUSHI",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/6758.png"
+    }
+  },
+  {
+    "id": "cow-protocol",
+    "symbol": "cow",
+    "name": "CoW Protocol",
+    "market_cap": 134537902,
+    "current_price": 0.323601,
+    "contract_address": "0xcb8b5cd20bdcaea9a010ac1f8d835824f5c87a04",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/24384/large/CoW-token_logo.png?1719524382",
+    "local_image": "cow-protocol.png",
+    "alchemy_metadata": {
+      "name": "CoW Protocol Token",
+      "symbol": "COW",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "eutbl",
+    "symbol": "eutbl",
+    "name": "Spiko EU T-Bills Money Market Fund",
+    "market_cap": 133341303,
+    "current_price": 1.11,
+    "contract_address": "0xcbeb19549054cc0a6257a77736fc78c367216ce7",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/39657/large/EUTBL.png?1723517425",
+    "local_image": "eutbl.png",
+    "alchemy_metadata": {
+      "name": "Spiko EU T-Bills Money Market Fund",
+      "symbol": "EUTBL",
+      "decimals": 5,
+      "logo": null
+    }
+  },
+  {
+    "id": "reserve-protocol-eth-plus",
+    "symbol": "eth+",
+    "name": "ETHPlus",
+    "market_cap": 130180477,
+    "current_price": 2121.26,
+    "contract_address": "0x18c14c2d707b2212e17d1579789fc06010cfca23",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/38061/large/ETH__Logo.png?1716440789",
+    "local_image": "reserve-protocol-eth-plus.png",
+    "alchemy_metadata": {
+      "name": "ETHPlus",
+      "symbol": "ETH+",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "biconomy",
+    "symbol": "bico",
+    "name": "Biconomy",
+    "market_cap": 122845866,
+    "current_price": 0.130848,
+    "contract_address": "0xa68ec98d7ca870cf1dd0b00ebbb7c4bf60a8e74d",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/21061/large/biconomy_logo.jpg?1696520444",
+    "local_image": "biconomy.png",
+    "alchemy_metadata": {
+      "name": "Biconomy Token",
+      "symbol": "BICO",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "across-protocol",
+    "symbol": "acx",
+    "name": "Across Protocol",
+    "market_cap": 116580712,
+    "current_price": 0.28804,
+    "contract_address": "0x53691596d1bce8cea565b84d4915e69e03d9c99d",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/28161/large/across-200x200.png?1696527165",
+    "local_image": "across-protocol.png",
+    "alchemy_metadata": {
+      "name": "Across Protocol Token",
+      "symbol": "ACX",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "rocket-pool",
+    "symbol": "rpl",
+    "name": "Rocket Pool",
+    "market_cap": 115860776,
+    "current_price": 5.46,
+    "contract_address": "0xb766039cc6db368759c1e56b79affe831d0cc507",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/2090/large/rocket_pool_%28RPL%29.png?1696503058",
+    "local_image": "rocket-pool.png",
+    "alchemy_metadata": {
+      "name": "Rocket Pool Protocol",
+      "symbol": "RPL",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "anime",
+    "symbol": "anime",
+    "name": "Animecoin",
+    "market_cap": 115472886,
+    "current_price": 0.02085902,
+    "contract_address": "0x37a645648df29205c6261289983fb04ecd70b4b3",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/53575/large/anime.jpg?1736748703",
+    "local_image": "anime.png",
+    "alchemy_metadata": {
+      "name": "Animecoin",
+      "symbol": "ANIME",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "usd-coin-ethereum-bridged",
+    "symbol": "usdc.e",
+    "name": "Arbitrum Bridged USDC (Arbitrum)",
+    "market_cap": 112662596,
+    "current_price": 1.001,
+    "contract_address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/30691/large/usdc.png?1696529560",
+    "local_image": "usd-coin-ethereum-bridged.png",
+    "alchemy_metadata": {
+      "name": "USD Coin Bridged",
+      "symbol": "USDC.e",
+      "decimals": 6,
+      "logo": "https://static.alchemyapi.io/images/assets/18852.png"
+    }
+  },
+  {
+    "id": "vicicoin",
+    "symbol": "vcnt",
+    "name": "ViciCoin",
+    "market_cap": 111341627,
+    "current_price": 19.59,
+    "contract_address": "0x60bf4e7cf16ff34513514b968483b54beff42a81",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/31305/large/ViciCoin_-_small.png?1696530124",
+    "local_image": "vicicoin.png",
+    "alchemy_metadata": {
+      "name": "ViciCoin",
+      "symbol": "VCNT",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/28656.png"
+    }
+  },
+  {
+    "id": "spell-token",
+    "symbol": "spell",
+    "name": "Spell",
+    "market_cap": 105817456,
+    "current_price": 0.00066732,
+    "contract_address": "0x3e6648c5a70a150a88bce65f4ad4d506fe15d2af",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/15861/large/abracadabra-3.png?1696515477",
+    "local_image": "spell-token.png",
+    "alchemy_metadata": {
+      "name": "Spell Token",
+      "symbol": "SPELL",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/11289.png"
+    }
+  },
+  {
+    "id": "venus",
+    "symbol": "xvs",
+    "name": "Venus",
+    "market_cap": 103940034,
+    "current_price": 6.27,
+    "contract_address": "0xc1eb7689147c81ac840d4ff0d298489fc7986d52",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/12677/large/XVS_Token.jpg?1727454303",
+    "local_image": "venus.png",
+    "alchemy_metadata": {
+      "name": "Venus",
+      "symbol": "XVS",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/7288.png"
+    }
+  },
+  {
+    "id": "subsquid",
+    "symbol": "sqd",
+    "name": "SQD",
+    "market_cap": 98933056,
+    "current_price": 0.160039,
+    "contract_address": "0x1337420ded5adb9980cfc35f8f2b054ea86f8ab1",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/37869/large/New_Logo_SQD_Icon.png?1720048443",
+    "local_image": "subsquid.png",
+    "alchemy_metadata": {
+      "name": "Subsquid",
+      "symbol": "SQD",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/12894.png"
+    }
+  },
+  {
+    "id": "balancer",
+    "symbol": "bal",
+    "name": "Balancer",
+    "market_cap": 95135769,
+    "current_price": 1.52,
+    "contract_address": "0x040d1edc9569d4bab2d15287dc5a4f10f56a56b8",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/11683/large/Balancer.png?1696511572",
+    "local_image": "balancer.png",
+    "alchemy_metadata": {
+      "name": "Balancer",
+      "symbol": "BAL",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/5728.png"
+    }
+  },
+  {
+    "id": "marlin",
+    "symbol": "pond",
+    "name": "Marlin",
+    "market_cap": 94040782,
+    "current_price": 0.01153255,
+    "contract_address": "0xda0a57b710768ae17941a9fa33f8b720c8bd9ddd",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/8903/large/200x200.png?1706115827",
+    "local_image": "marlin.png",
+    "alchemy_metadata": {
+      "name": "Marlin",
+      "symbol": "POND",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/7497.png"
+    }
+  },
+  {
+    "id": "crvusd",
+    "symbol": "crvusd",
+    "name": "crvUSD",
+    "market_cap": 92743026,
+    "current_price": 0.999731,
+    "contract_address": "0x498bf2b1e120fed3ad3d42ea2165e9b73f99c1e5",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/30118/large/0xf939e0a03fb07f59a73314e73794be0e57ac1b4e.png?1721097561",
+    "local_image": "crvusd.png",
+    "alchemy_metadata": {
+      "name": "crvUSD",
+      "symbol": "CRVUSD",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/24927.png"
+    }
+  },
+  {
+    "id": "orbs",
+    "symbol": "orbs",
+    "name": "Orbs",
+    "market_cap": 89316363,
+    "current_price": 0.01962467,
+    "contract_address": "0xf3c091ed43de9c270593445163a41a876a0bb3dd",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/4630/large/Orbs.jpg?1696505200",
+    "local_image": "orbs.png",
+    "alchemy_metadata": {
+      "name": "Orbs",
+      "symbol": "ORBS",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/3835.png"
+    }
+  },
+  {
+    "id": "heyanon",
+    "symbol": "anon",
+    "name": "Hey Anon",
+    "market_cap": 87363990,
+    "current_price": 6.67,
+    "contract_address": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/52961/large/AAI__ANON_SQ_Wb_250x250.png?1740500195",
+    "local_image": "heyanon.png",
+    "alchemy_metadata": {
+      "name": "HeyAnon",
+      "symbol": "Anon",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "ignition-fbtc",
+    "symbol": "fbtc",
+    "name": "Function ƒBTC",
+    "market_cap": 85865853,
+    "current_price": 89445,
+    "contract_address": "0xc96de26018a54d51c097160568752c4e3bd6c364",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/39182/large/fbtc.png?1740123952",
+    "local_image": "ignition-fbtc.png",
+    "alchemy_metadata": {
+      "name": "Fire Bitcoin",
+      "symbol": "FBTC",
+      "decimals": 8,
+      "logo": null
+    }
+  },
+  {
+    "id": "tellor",
+    "symbol": "trb",
+    "name": "Tellor Tributes",
+    "market_cap": 84155250,
+    "current_price": 31.68,
+    "contract_address": "0xd58d345fd9c82262e087d2d0607624b410d88242",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/9644/large/TRB-New_Logo.png?1737722143",
+    "local_image": "tellor.png",
+    "alchemy_metadata": {
+      "name": "Tellor",
+      "symbol": "TRB",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/4944.png"
+    }
+  },
+  {
+    "id": "carv",
+    "symbol": "carv",
+    "name": "CARV",
+    "market_cap": 84085344,
+    "current_price": 0.379698,
+    "contract_address": "0xc08cd26474722ce93f4d0c34d16201461c10aa8c",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/37689/large/CARV_%281%29.png?1728418485",
+    "local_image": "carv.png",
+    "alchemy_metadata": {
+      "name": "CARV",
+      "symbol": "CARV",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "tokenlon",
+    "symbol": "lon",
+    "name": "Tokenlon",
+    "market_cap": 83955699,
+    "current_price": 0.719229,
+    "contract_address": "0x55678cd083fcdc2947a0df635c93c838c89454a3",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/13454/large/lon_logo.png?1696513217",
+    "local_image": "tokenlon.png",
+    "alchemy_metadata": {
+      "name": "Tokenlon",
+      "symbol": "LON",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "joe",
+    "symbol": "joe",
+    "name": "JOE",
+    "market_cap": 82711901,
+    "current_price": 0.208723,
+    "contract_address": "0x371c7ec6d8039ff7933a2aa28eb827ffe1f52f07",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/17569/large/LFJ_JOE_Logo.png?1727200941",
+    "local_image": "joe.png",
+    "alchemy_metadata": {
+      "name": "JoeToken",
+      "symbol": "JOE",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "dforce-token",
+    "symbol": "df",
+    "name": "dForce",
+    "market_cap": 79587762,
+    "current_price": 0.079596,
+    "contract_address": "0xae6aab43c4f3e0cea4ab83752c278f8debaba689",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/9709/large/xlGxxIjI_400x400.jpg?1696509776",
+    "local_image": "dforce-token.png",
+    "alchemy_metadata": {
+      "name": "dForce",
+      "symbol": "DF",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/4758.png"
+    }
+  },
+  {
+    "id": "liquity",
+    "symbol": "lqty",
+    "name": "Liquity",
+    "market_cap": 78758650,
+    "current_price": 0.809518,
+    "contract_address": "0xfb9e5d956d889d91a82737b9bfcdac1dce3e1449",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/14665/large/logo_V2.png?1725437146",
+    "local_image": "liquity.png",
+    "alchemy_metadata": {
+      "name": "LQTY",
+      "symbol": "LQTY",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "dodo",
+    "symbol": "dodo",
+    "name": "DODO",
+    "market_cap": 78302356,
+    "current_price": 0.078322,
+    "contract_address": "0x69eb4fa4a2fbd498c257c57ea8b7655a2559a581",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/12651/large/dodo_logo.png?1696512458",
+    "local_image": "dodo.png",
+    "alchemy_metadata": {
+      "name": "DODO",
+      "symbol": "DODO",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/7224.png"
+    }
+  },
+  {
+    "id": "xai-blockchain",
+    "symbol": "xai",
+    "name": "Xai",
+    "market_cap": 75284581,
+    "current_price": 0.070833,
+    "contract_address": "0x4cb9a7ae498cedcbb5eae9f25736ae7d428c9d66",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/34258/large/round_icon_2048_px.png?1719523838",
+    "local_image": "xai-blockchain.png",
+    "alchemy_metadata": {
+      "name": "Xai",
+      "symbol": "XAI",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/28933.png"
+    }
+  },
+  {
+    "id": "spiko-us-t-bills-money-market-fund",
+    "symbol": "ustbl",
+    "name": "Spiko US T-Bills Money Market Fund",
+    "market_cap": 72823160,
+    "current_price": 1.038,
+    "contract_address": "0x021289588cd81dc1ac87ea91e91607eef68303f5",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/39666/large/USTB.png?1723541269",
+    "local_image": "spiko-us-t-bills-money-market-fund.png",
+    "alchemy_metadata": {
+      "name": "Spiko US T-Bills Money Market Fund",
+      "symbol": "USTBL",
+      "decimals": 5,
+      "logo": null
+    }
+  },
+  {
+    "id": "kyber-network-crystal",
+    "symbol": "knc",
+    "name": "Kyber Network Crystal",
+    "market_cap": 66673300,
+    "current_price": 0.391945,
+    "contract_address": "0xe4dddfe67e7164b0fe14e218d80dc4c08edc01cb",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/14899/large/RwdVsGcw_400x400.jpg?1696514562",
+    "local_image": "kyber-network-crystal.png",
+    "alchemy_metadata": {
+      "name": "Kyber Network Crystal v2",
+      "symbol": "KNC",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/9444.png"
+    }
+  },
+  {
+    "id": "staked-frax",
+    "symbol": "sfrax",
+    "name": "Staked FRAX",
+    "market_cap": 65474009,
+    "current_price": 1.12,
+    "contract_address": "0xe3b3fe7bca19ca77ad877a5bebab186becfad906",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/35383/large/sfrax-logo.png?1739780377",
+    "local_image": "staked-frax.png",
+    "alchemy_metadata": {
+      "name": "Staked FRAX",
+      "symbol": "sFRAX",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "cartesi",
+    "symbol": "ctsi",
+    "name": "Cartesi",
+    "market_cap": 65121251,
+    "current_price": 0.075553,
+    "contract_address": "0x319f865b287fcc10b30d8ce6144e8b6d1b476999",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/11038/large/Cartesi_Logo.png?1696510982",
+    "local_image": "cartesi.png",
+    "alchemy_metadata": {
+      "name": "Cartesi",
+      "symbol": "CTSI",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/5444.png"
+    }
+  },
+  {
+    "id": "degen-base",
+    "symbol": "degen",
+    "name": "Degen",
+    "market_cap": 63754955,
+    "current_price": 0.00350122,
+    "contract_address": "0x9f07f8a82cb1af1466252e505b7b7ddee103bc91",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/34515/large/android-chrome-512x512.png?1706198225",
+    "local_image": "degen-base.png",
+    "alchemy_metadata": {
+      "name": "DEGEN",
+      "symbol": "DEGEN",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "celer-network",
+    "symbol": "celr",
+    "name": "Celer Network",
+    "market_cap": 61750544,
+    "current_price": 0.01093691,
+    "contract_address": "0x3a8b787f78d775aecfeea15706d4221b40f345ab",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/4379/large/Celr.png?1696504978",
+    "local_image": "celer-network.png",
+    "alchemy_metadata": {
+      "name": "CelerToken",
+      "symbol": "CELR",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "dola-usd",
+    "symbol": "dola",
+    "name": "DOLA",
+    "market_cap": 61466150,
+    "current_price": 0.998688,
+    "contract_address": "0x6a7661795c374c0bfc635934efaddff3a7ee23b6",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/14287/large/dola.png?1696513984",
+    "local_image": "dola-usd.png",
+    "alchemy_metadata": {
+      "name": "DOLA",
+      "symbol": "DOLA",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/19191.png"
+    }
+  },
+  {
+    "id": "autonolas",
+    "symbol": "olas",
+    "name": "Autonolas",
+    "market_cap": 60638872,
+    "current_price": 0.379176,
+    "contract_address": "0x064f8b858c2a603e1b106a2039f5446d32dc81c1",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/31099/large/OLAS-token.png?1696529930",
+    "local_image": "autonolas.png",
+    "alchemy_metadata": {
+      "name": "Autonolas",
+      "symbol": "OLAS",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "layer3",
+    "symbol": "l3",
+    "name": "Layer3",
+    "market_cap": 58604475,
+    "current_price": 0.102376,
+    "contract_address": "0x46777c76dbbe40fabb2aab99e33ce20058e76c59",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/37768/large/Square.png?1722045128",
+    "local_image": "layer3.png",
+    "alchemy_metadata": {
+      "name": "",
+      "symbol": "",
+      "decimals": null,
+      "logo": null
+    }
+  },
+  {
+    "id": "autonomi",
+    "symbol": "ant",
+    "name": "Autonomi",
+    "market_cap": 55751667,
+    "current_price": 0.120226,
+    "contract_address": "0xa78d8321b20c4ef90ecd72f2588aa985a4bdb684",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/54388/large/Autonomi_Icon_Coin_200x200.png?1740037316",
+    "local_image": "autonomi.png",
+    "alchemy_metadata": {
+      "name": "Autonomi",
+      "symbol": "ANT",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "lift-dollar",
+    "symbol": "usdl",
+    "name": "Lift Dollar",
+    "market_cap": 55550519,
+    "current_price": 0.999804,
+    "contract_address": "0x7f850b0ab1988dd17b69ac564c1e2857949e4dee",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/38484/large/USDL-Token-200px.png?1725022887",
+    "local_image": "lift-dollar.png",
+    "alchemy_metadata": {
+      "name": "Lift Dollar",
+      "symbol": "USDL",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/32454.png"
+    }
+  },
+  {
+    "id": "osaka-protocol",
+    "symbol": "osak",
+    "name": "Osaka Protocol",
+    "market_cap": 55458369,
+    "current_price": 7.277e-8,
+    "contract_address": "0xbfd5206962267c7b4b4a8b3d76ac2e1b2a5c4d5e",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/30911/large/OSAK_LOGO_200x200.png?1723662197",
+    "local_image": "osaka-protocol.png",
+    "alchemy_metadata": {
+      "name": "Osaka Protocol",
+      "symbol": "OSAK",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/27533.png"
+    }
+  },
+  {
+    "id": "orbiter-finance",
+    "symbol": "obt",
+    "name": "Orbiter Finance",
+    "market_cap": 52531797,
+    "current_price": 0.0169638,
+    "contract_address": "0x1cd9a56c8c2ea913c70319a44da75e99255aa46f",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/53783/large/orbiter.jpg?1737352795",
+    "local_image": "orbiter-finance.png",
+    "alchemy_metadata": {
+      "name": "Orbiter Token",
+      "symbol": "OBT",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "axondao-governance-token",
+    "symbol": "axgt",
+    "name": "AxonDAO Governance Token",
+    "market_cap": 51334797,
+    "current_price": 0.118609,
+    "contract_address": "0xe0ee18eacafddaeb38f8907c74347c44385578ab",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/35290/large/AXGT-logo-7.png?1708076161",
+    "local_image": "axondao-governance-token.png",
+    "alchemy_metadata": {
+      "name": "AxonDAO Governance Token",
+      "symbol": "AXGT",
+      "decimals": 18,
+      "logo": null
+    }
+  },
+  {
+    "id": "apex-token-2",
+    "symbol": "apex",
+    "name": "ApeX",
+    "market_cap": 50506983,
+    "current_price": 0.903625,
+    "contract_address": "0x61a1ff55c5216b636a294a07d77c6f4df10d3b56",
+    "chain": "arbitrum",
+    "image_url": "https://coin-images.coingecko.com/coins/images/25266/large/CxpMECpk_400x400_%281%29.png?1696524406",
+    "local_image": "apex-token-2.png",
+    "alchemy_metadata": {
+      "name": "ApeX Protocol",
+      "symbol": "APEX",
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/19843.png"
+    }
+  }
+]
